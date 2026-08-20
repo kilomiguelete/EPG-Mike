@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Mike UHF EPG V1">
-  <channel id="custom.NFL.4K">
-    <display-name>NFL 4K</display-name>
-  </channel>
-  <channel id="custom.NFL.RedZone">
-    <display-name>NFL RedZone</display-name>
-  </channel>
-  <channel id="custom.NFL.Network">
-    <display-name>NFL Network HD</display-name>
-  </channel>
   <channel id="I1748.50057.gracenote.com">
     <display-name>Fanduel Sports Network Mid West</display-name>
     <display-name>1748 Fanduel Sports Network Mid West</display-name>
