@@ -1,0 +1,1620 @@
+﻿category_id,stream_id,xtream_name,logical_name,type,provider_epg_id,target_xmltv_id,status,notes,source_file
+608,840279,#### ES| TDT ESPA\u00d1A VIP \u1d34\u1d30 ####,ES| TDT ESPA\u00d1A VIP \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840278,ES: 24H TVE \u1d34\u1d30,ES: 24H TVE \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840277,ES: LA 1 \u1d34\u1d30,ES: LA 1 \u1d34\u1d30,fixed,LA1.es,LA1.es,mapped,,tdt espana.rtf
+608,840276,ES: LA 2 \u1d34\u1d30,ES: LA 2 \u1d34\u1d30,fixed,LA2.es,LA2.es,mapped,,tdt espana.rtf
+608,840275,ES: ANTENA 3 \u1d34\u1d30,ES: ANTENA 3 \u1d34\u1d30,fixed,Antena3.es,Antena3.es,mapped,,tdt espana.rtf
+608,840274,ES: CUATRO \u1d34\u1d30,ES: CUATRO \u1d34\u1d30,fixed,Cuatro.es,Cuatro.es,mapped,,tdt espana.rtf
+608,840273,ES: TELECINCO \u1d34\u1d30,ES: TELECINCO \u1d34\u1d30,fixed,Telecinco.es,Telecinco.es,mapped,,tdt espana.rtf
+608,840272,ES: LA SEXTA \u1d34\u1d30,ES: LA SEXTA \u1d34\u1d30,fixed,LaSexta.es,LaSexta.es,mapped,,tdt espana.rtf
+608,840271,ES: REAL MADRID TV \u1d34\u1d30,ES: REAL MADRID TV \u1d34\u1d30,fixed,RealMadridTV.es,RealMadridTV.es,mapped,,tdt espana.rtf
+608,840268,ES: ETB 2 \u1d34\u1d30,ES: ETB 2 \u1d34\u1d30,fixed,ETB2.es,ETB2.es,mapped,,tdt espana.rtf
+608,840267,ES: CANAL SUR ANDALUCIA 2 \u1d34\u1d30,ES: CANAL SUR ANDALUCIA 2 \u1d34\u1d30,fixed,CanalAndalucia.es,CanalAndalucia.es,mapped,,tdt espana.rtf
+608,840265,ES: LA OTRA \u1d34\u1d30,ES: LA OTRA \u1d34\u1d30,fixed,LaOtra.es,LaOtra.es,mapped,,tdt espana.rtf
+608,840264,ES: TRECE TV \u1d34\u1d30,ES: TRECE TV \u1d34\u1d30,fixed,13TV.es,13TV.es,mapped,,tdt espana.rtf
+608,2103700,ES: MOTO ADV \u1d34\u1d30,ES: MOTO ADV \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103678,ES: SURF CHANNEL \u1d34\u1d30,ES: SURF CHANNEL \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840262,ES: CMM \u1d34\u1d30,ES: CMM \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840261,ES: NEGOCIOS TV \u1d34\u1d30,ES: NEGOCIOS TV \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840260,ES: DBIKE \u1d34\u1d30,ES: DBIKE \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579665,ES: PTV CORDOBA \u1d34\u1d30,ES: PTV CORDOBA \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103715,ES: PTV Sevilla \u1d34\u1d30,ES: PTV Sevilla \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103712,ES: PTV M\u00e1laga \u1d34\u1d30,ES: PTV M\u00e1laga \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579668,ES: PTV GRANADA \u1d34\u1d30,ES: PTV GRANADA \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579658,ES: 7RM \u1d34\u1d30,ES: 7RM \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103748,ES: ESCAPA TV \u1d34\u1d30,ES: ESCAPA TV \u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840259,#### ES| TDT ESPA\u00d1A VIP SD ####,ES| TDT ESPA\u00d1A VIP,fixed,,,needs-mapping,,tdt espana.rtf
+608,840257,ES: LA 1 SD,ES: LA 1,fixed,LA1.es,LA1.es,mapped,,tdt espana.rtf
+608,840256,ES: LA 2 SD,ES: LA 2,fixed,LA2.es,LA2.es,mapped,,tdt espana.rtf
+608,840255,ES: ANTENA 3 SD,ES: ANTENA 3,fixed,Antena3.es,Antena3.es,mapped,,tdt espana.rtf
+608,840254,ES: CUATRO SD,ES: CUATRO,fixed,Cuatro.es,Cuatro.es,mapped,,tdt espana.rtf
+608,840253,ES: TELECINCO SD,ES: TELECINCO,fixed,Telecinco.es,Telecinco.es,mapped,,tdt espana.rtf
+608,840252,ES: LA SEXTA SD,ES: LA SEXTA,fixed,LaSexta.es,LaSexta.es,mapped,,tdt espana.rtf
+608,840251,ES: REAL MADRID TV SD,ES: REAL MADRID TV,fixed,RealMadridTV.es,RealMadridTV.es,mapped,,tdt espana.rtf
+608,840250,ES: CANAL SUR ANDALUCIA SD,ES: CANAL SUR ANDALUCIA,fixed,CanalAndalucia.es,CanalAndalucia.es,mapped,,tdt espana.rtf
+608,840248,ES: ARAGON TV INT SD,ES: ARAGON TV INT,fixed,,,needs-mapping,,tdt espana.rtf
+608,840247,ES: CUBAVISION SD,ES: CUBAVISION,fixed,,,needs-mapping,,tdt espana.rtf
+608,840246,ES: LA OTRA SD,ES: LA OTRA,fixed,LaOtra.es,LaOtra.es,mapped,,tdt espana.rtf
+608,840245,ES: TRECE TV SD,ES: TRECE TV,fixed,13TV.es,13TV.es,mapped,,tdt espana.rtf
+608,840243,ES: CMM SD,ES: CMM,fixed,,,needs-mapping,,tdt espana.rtf
+608,840244,ES: TV3 CATALU\u00d1A SD,ES: TV3 CATALU\u00d1A,fixed,TV3Catalunya.es,TV3Catalunya.es,mapped,,tdt espana.rtf
+608,840242,ES: DBIKE SD,ES: DBIKE,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579659,ES: 7RM SD,ES: 7RM,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579669,ES: PTV GRANADA SD,ES: PTV GRANADA,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579666,ES: PTV CORDOBA SD,ES: PTV CORDOBA,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103716,ES: PTV Sevilla SD,ES: PTV Sevilla,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103713,ES: PTV M\u00e1laga SD,ES: PTV M\u00e1laga,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103679,ES: SURF CHANNEL SD,ES: SURF CHANNEL,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103701,ES: MOTO ADV SD,ES: MOTO ADV,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103750,ES: ESCAPA TV SD,ES: ESCAPA TV,fixed,,,needs-mapping,,tdt espana.rtf
+608,840239,#### ES| TDT ESPA\u00d1A VIP \u1d41\u1d34\u1d30 ####,ES| TDT ESPA\u00d1A VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840238,ES: LA 1 \u1d41\u1d34\u1d30 3840P,ES: LA 1 \u1d41\u1d34\u1d30 3840P,fixed,LA1.es,LA1.es,mapped,,tdt espana.rtf
+608,840237,ES: 24H TVE \u1d41\u1d34\u1d30,ES: 24H TVE \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840236,ES: LA 1 \u1d41\u1d34\u1d30,ES: LA 1 \u1d41\u1d34\u1d30,fixed,LA1.es,LA1.es,mapped,,tdt espana.rtf
+608,840235,ES: LA 2 \u1d41\u1d34\u1d30,ES: LA 2 \u1d41\u1d34\u1d30,fixed,LA2.es,LA2.es,mapped,,tdt espana.rtf
+608,840231,ES: LA SEXTA \u1d41\u1d34\u1d30,ES: LA SEXTA \u1d41\u1d34\u1d30,fixed,LaSexta.es,LaSexta.es,mapped,,tdt espana.rtf
+608,840234,ES: ANTENA 3 \u1d41\u1d34\u1d30,ES: ANTENA 3 \u1d41\u1d34\u1d30,fixed,Antena3.es,Antena3.es,mapped,,tdt espana.rtf
+608,840233,ES: CUATRO \u1d41\u1d34\u1d30,ES: CUATRO \u1d41\u1d34\u1d30,fixed,Cuatro.es,Cuatro.es,mapped,,tdt espana.rtf
+608,840232,ES: TELECINCO \u1d41\u1d34\u1d30,ES: TELECINCO \u1d41\u1d34\u1d30,fixed,Telecinco.es,Telecinco.es,mapped,,tdt espana.rtf
+608,840230,ES: TELE MADRID \u1d41\u1d34\u1d30,ES: TELE MADRID \u1d41\u1d34\u1d30,fixed,TeleMadrid.es,TeleMadrid.es,mapped,,tdt espana.rtf
+608,840229,ES: REAL MADRID TV \u1d41\u1d34\u1d30,ES: REAL MADRID TV \u1d41\u1d34\u1d30,fixed,RealMadridTV.es,RealMadridTV.es,mapped,,tdt espana.rtf
+608,840227,ES: U-BEAT \u1d41\u1d34\u1d30,ES: U-BEAT \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840226,ES: CANAL SUR \u1d41\u1d34\u1d30,ES: CANAL SUR \u1d41\u1d34\u1d30,fixed,CanalAndalucia.es,CanalAndalucia.es,mapped,,tdt espana.rtf
+608,840223,ES: EXTREMADURA SAT \u1d41\u1d34\u1d30,ES: EXTREMADURA SAT \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840222,ES: LA OTRA \u1d41\u1d34\u1d30,ES: LA OTRA \u1d41\u1d34\u1d30,fixed,LaOtra.es,LaOtra.es,mapped,,tdt espana.rtf
+608,840221,ES: TRECE TV \u1d41\u1d34\u1d30,ES: TRECE TV \u1d41\u1d34\u1d30,fixed,13TV.es,13TV.es,mapped,,tdt espana.rtf
+608,840219,ES: CMM \u1d41\u1d34\u1d30,ES: CMM \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840218,ES: DW EN ESPA\u00d1OL \u1d41\u1d34\u1d30,ES: DW EN ESPA\u00d1OL \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840217,ES: FRANCE 24 ES \u1d41\u1d34\u1d30,ES: FRANCE 24 ES \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840216,ES: EL PAIS TV \u1d41\u1d34\u1d30,ES: EL PAIS TV \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840215,ES: EL CONFEDENCIAL TV \u1d41\u1d34\u1d30,ES: EL CONFEDENCIAL TV \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579657,ES: 7RM \u1d41\u1d34\u1d30,ES: 7RM \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,840214,ES: DBIKE \u1d41\u1d34\u1d30,ES: DBIKE \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103699,ES: MOTO ADV \u1d41\u1d34\u1d30,ES: MOTO ADV \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103677,ES: SURF CHANNEL \u1d41\u1d34\u1d30,ES: SURF CHANNEL \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103714,ES: PTV Sevilla \u1d41\u1d34\u1d30,ES: PTV Sevilla \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103711,ES: PTV M\u00e1laga \u1d41\u1d34\u1d30,ES: PTV M\u00e1laga \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579667,ES: PTV GRANADA \u1d41\u1d34\u1d30,ES: PTV GRANADA \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,1579664,ES: PTV CORDOBA \u1d41\u1d34\u1d30,ES: PTV CORDOBA \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+608,2103747,ES: ESCAPA TV \u1d41\u1d34\u1d30,ES: ESCAPA TV \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,tdt espana.rtf
+1060,840101,#### ES| MOVISTAR PLUS+ VIP \u1d34\u1d30 ####,ES| MOVISTAR PLUS+ VIP \u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840100,ES: MOVISTAR PLUS+ \u1d34\u1d30,ES: MOVISTAR PLUS+ \u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840099,ES: MOVISTAR PLUS+ 2 \u1d34\u1d30,ES: MOVISTAR PLUS+ 2 \u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840097,ES: MOVISTAR DOCUMENTALES \u1d34\u1d30,ES: MOVISTAR DOCUMENTALES \u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840098,ES: MOVISTAR HITS \u1d34\u1d30,ES: MOVISTAR HITS \u1d34\u1d30,fixed,MovistarSeries1.es,MovistarSeries1.es,mapped,,movistarplus.rtf
+1060,840095,#### ES| MOVISTAR PLUS+ VIP SD ####,ES| MOVISTAR PLUS+ VIP,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840094,ES: MOVISTAR PLUS+ SD,ES: MOVISTAR PLUS+,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840093,ES: MOVISTAR PLUS+ 2 SD,ES: MOVISTAR PLUS+ 2,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840092,ES: MOVISTAR HITS SD,ES: MOVISTAR HITS,fixed,MovistarSeries1.es,MovistarSeries1.es,mapped,,movistarplus.rtf
+1060,840091,ES: MOVISTAR DOCUMENTALES SD,ES: MOVISTAR DOCUMENTALES,fixed,,,needs-mapping,,movistarplus.rtf
+1060,1933467,ES: MOVISTAR SQUIRREL TV SD,ES: MOVISTAR SQUIRREL TV,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840089,#### ES| MOVISTAR PLUS+ VIP \u1d41\u1d34\u1d30 ####,ES| MOVISTAR PLUS+ VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840088,ES: MOVISTAR PLUS+ \u1d41\u1d34\u1d30,ES: MOVISTAR PLUS+ \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840087,ES: MOVISTAR PLUS+ 2 \u1d41\u1d34\u1d30,ES: MOVISTAR PLUS+ 2 \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+1060,840086,ES: MOVISTAR HITS \u1d41\u1d34\u1d30,ES: MOVISTAR HITS \u1d41\u1d34\u1d30,fixed,MovistarSeries1.es,MovistarSeries1.es,mapped,,movistarplus.rtf
+1060,840085,ES: MOVISTAR DOCUMENTALES \u1d41\u1d34\u1d30,ES: MOVISTAR DOCUMENTALES \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistarplus.rtf
+870,840023,#### M+ LALIGA VIP \u1d34\u1d30\/SD\/\u1d3f\u1d2c\u1d42 ####,M+ LALIGA VIP \u1d34\u1d30\/SD\/\u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ la liga.rtf
+870,840022,ES: MOVISTAR LA LIGA \u1d34\u1d30,ES: MOVISTAR LA LIGA \u1d34\u1d30,fixed,MLaLiga.es,MLaLiga.es,mapped,,m+ la liga.rtf
+870,2004481,ES: LALIGA TV HYPERMOTION \u1d34\u1d30,ES: LALIGA TV HYPERMOTION \u1d34\u1d30,fixed,mlaligahypermotion.es,mlaligahypermotion.es,mapped,,m+ la liga.rtf
+870,2004480,ES: LALIGA TV HYPERMOTION 2 \u1d34\u1d30,ES: LALIGA TV HYPERMOTION 2 \u1d34\u1d30,fixed,mlaligahypermotion2.es,mlaligahypermotion2.es,mapped,,m+ la liga.rtf
+870,2004479,ES: LALIGA TV HYPERMOTION 3 \u1d34\u1d30,ES: LALIGA TV HYPERMOTION 3 \u1d34\u1d30,fixed,mlaligahypermotion3.es,mlaligahypermotion3.es,mapped,,m+ la liga.rtf
+870,840018,ES: MOVISTAR LA LIGA SD,ES: MOVISTAR LA LIGA,fixed,MLaLiga.es,MLaLiga.es,mapped,,m+ la liga.rtf
+870,840017,ES: MOVISTAR LA LIGA 2 SD (SOLO EVENTOS),ES: MOVISTAR LA LIGA 2,fixed,MLaLiga2.es,MLaLiga2.es,mapped,,m+ la liga.rtf
+870,2004469,ES: LALIGA TV HYPERMOTION SD,ES: LALIGA TV HYPERMOTION,fixed,mlaligahypermotion.es,mlaligahypermotion.es,mapped,,m+ la liga.rtf
+870,2004468,ES: LALIGA TV HYPERMOTION 2 SD,ES: LALIGA TV HYPERMOTION 2,fixed,mlaligahypermotion2.es,mlaligahypermotion2.es,mapped,,m+ la liga.rtf
+870,2004467,ES: LALIGA TV HYPERMOTION 3 SD,ES: LALIGA TV HYPERMOTION 3,fixed,mlaligahypermotion3.es,mlaligahypermotion3.es,mapped,,m+ la liga.rtf
+870,840010,ES: MOVISTAR LA LIGA \u02b0\u1d49\u1d5b\u1d9c,ES: MOVISTAR LA LIGA \u02b0\u1d49\u1d5b\u1d9c,fixed,MLaLiga.es,MLaLiga.es,mapped,,m+ la liga.rtf
+870,840009,ES: MOVISTAR LA LIGA \u1d3f\u1d2c\u1d42,ES: MOVISTAR LA LIGA \u1d3f\u1d2c\u1d42,fixed,MLaLiga.es,MLaLiga.es,mapped,,m+ la liga.rtf
+870,840008,ES: MOVISTAR LA LIGA 2 \u1d3f\u1d2c\u1d42 (SOLO EVENTOS),ES: MOVISTAR LA LIGA 2 \u1d3f\u1d2c\u1d42 (SOLO EVENTOS),fixed,MLaLiga2.es,MLaLiga2.es,mapped,,m+ la liga.rtf
+870,840007,ES: M+ LALIGA TV 3 \u1d3f\u1d2c\u1d42,ES: M+ LALIGA TV 3 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ la liga.rtf
+870,2004466,ES: LALIGA TV HYPERMOTION \u1d3f\u1d2c\u1d42,ES: LALIGA TV HYPERMOTION \u1d3f\u1d2c\u1d42,fixed,mlaligahypermotion.es,mlaligahypermotion.es,mapped,,m+ la liga.rtf
+870,2004465,ES: LALIGA TV HYPERMOTION 2 \u1d3f\u1d2c\u1d42,ES: LALIGA TV HYPERMOTION 2 \u1d3f\u1d2c\u1d42,fixed,mlaligahypermotion2.es,mlaligahypermotion2.es,mapped,,m+ la liga.rtf
+870,2004464,ES: LALIGA TV HYPERMOTION 3 \u1d3f\u1d2c\u1d42,ES: LALIGA TV HYPERMOTION 3 \u1d3f\u1d2c\u1d42,fixed,mlaligahypermotion3.es,mlaligahypermotion3.es,mapped,,m+ la liga.rtf
+553,1302911,### M. LIGA DE CAMPEONES \u1d34\u1d30 ###,M. LIGA DE CAMPEONES \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302910,ES: M. LIGA DE CAMPEONES 1 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 1 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302909,ES: M. LIGA DE CAMPEONES 2 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 2 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302908,### M. LIGA DE CAMPEONES \u1d38\u1d3c\u1d42 ###,M. LIGA DE CAMPEONES \u1d38\u1d3c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302907,ES: M. LIGA DE CAMPEONES 1 \u1d38\u1d3c\u1d42,ES: M. LIGA DE CAMPEONES 1 \u1d38\u1d3c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302906,ES: M. LIGA DE CAMPEONES 2 \u1d38\u1d3c\u1d42,ES: M. LIGA DE CAMPEONES 2 \u1d38\u1d3c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302905,### M. LIGA DE CAMPEONES SD ###,M. LIGA DE CAMPEONES,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302904,ES: M. LIGA DE CAMPEONES 1 SD,ES: M. LIGA DE CAMPEONES 1,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302903,ES: M. LIGA DE CAMPEONES 2 SD,ES: M. LIGA DE CAMPEONES 2,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302902,### M. LIGA DE CAMPEONES \u1d34\u1d30 ###,M. LIGA DE CAMPEONES \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302901,ES: M. LIGA DE CAMPEONES 3 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 3 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302900,ES: M. LIGA DE CAMPEONES 4 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 4 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302899,ES: M. LIGA DE CAMPEONES 5 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 5 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302898,ES: M. LIGA DE CAMPEONES 6 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 6 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302897,ES: M. LIGA DE CAMPEONES 7 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 7 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302896,ES: M. LIGA DE CAMPEONES 8 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 8 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302895,ES: M. LIGA DE CAMPEONES 9 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 9 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302894,ES: M. LIGA DE CAMPEONES 10 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 10 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302893,ES: M. LIGA DE CAMPEONES 11 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 11 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302892,ES: M. LIGA DE CAMPEONES 12 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 12 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302891,ES: M. LIGA DE CAMPEONES 13 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 13 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302890,ES: M. LIGA DE CAMPEONES 14 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 14 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302889,ES: M. LIGA DE CAMPEONES 15 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 15 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302888,ES: M. LIGA DE CAMPEONES 16 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 16 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302887,ES: M. LIGA DE CAMPEONES 17 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 17 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302886,ES: M. LIGA DE CAMPEONES 18 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 18 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302885,ES: M. LIGA DE CAMPEONES 19 \u1d34\u1d30,ES: M. LIGA DE CAMPEONES 19 \u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302884,### M. LIGA DE CAMPEONES \u1d41\u1d34\u1d30 ###,M. LIGA DE CAMPEONES \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302883,ES: M. LIGA DE CAMPEONES 1 \u1d41\u1d34\u1d30,ES: M. LIGA DE CAMPEONES 1 \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302882,### M. LIGA DE CAMPEONES \u02b0\u1d49\u1d5b\u1d9c ###,M. LIGA DE CAMPEONES \u02b0\u1d49\u1d5b\u1d9c,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302881,ES: M. LIGA DE CAMPEONES 1 \u02b0\u1d49\u1d5b\u1d9c,ES: M. LIGA DE CAMPEONES 1 \u02b0\u1d49\u1d5b\u1d9c,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302880,### M. LIGA DE CAMPEONES \u1d3f\u1d2c\u1d42 ###,M. LIGA DE CAMPEONES \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302879,ES: M. LIGA DE CAMPEONES 1 \u1d3f\u1d2c\u1d42,ES: M. LIGA DE CAMPEONES 1 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302878,ES: M. LIGA DE CAMPEONES 2 \u1d3f\u1d2c\u1d42 ,ES: M. LIGA DE CAMPEONES 2 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302877,ES: M. LIGA DE CAMPEONES 3 \u1d3f\u1d2c\u1d42,ES: M. LIGA DE CAMPEONES 3 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302876,ES: M. LIGA DE CAMPEONES 4 \u1d3f\u1d2c\u1d42,ES: M. LIGA DE CAMPEONES 4 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+553,1302875,ES: M. LIGA DE CAMPEONES 5 \u1d3f\u1d2c\u1d42,ES: M. LIGA DE CAMPEONES 5 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,m+ liga campeones.rtf
+552,839983,#### DAZN LALIGA VIP \u1d34\u1d30 ####,DAZN LALIGA VIP \u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839982,ES: DAZN LA LIGA \u1d34\u1d30,ES: DAZN LA LIGA \u1d34\u1d30,fixed,DaznLaLiga.es,DaznLaLiga.es,mapped,,dazn la liga.rtf
+552,839981,ES: DAZN LA LIGA 2 \u1d34\u1d30,ES: DAZN LA LIGA 2 \u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994150,ES: DAZN LA LIGA 3 \u1d34\u1d30,ES: DAZN LA LIGA 3 \u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994153,ES: DAZN LA LIGA 4 \u1d34\u1d30,ES: DAZN LA LIGA 4 \u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839980,#### DAZN LALIGA VIP SD ####,DAZN LALIGA VIP,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839979,ES: DAZN LA LIGA SD,ES: DAZN LA LIGA,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839978,ES: DAZN LA LIGA 2 SD,ES: DAZN LA LIGA 2,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994149,ES: DAZN LA LIGA 3 SD,ES: DAZN LA LIGA 3,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994152,ES: DAZN LA LIGA 4 SD,ES: DAZN LA LIGA 4,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839974,#### DAZN LALIGA VIP \u1d41\u1d34\u1d30 ####,DAZN LALIGA VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839973,ES: DAZN LA LIGA \u02b0\u1d49\u1d5b\u1d9c,ES: DAZN LA LIGA \u02b0\u1d49\u1d5b\u1d9c,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839972,ES: DAZN LA LIGA \u1d41\u1d34\u1d30,ES: DAZN LA LIGA \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,839971,ES: DAZN LA LIGA 2 \u1d41\u1d34\u1d30,ES: DAZN LA LIGA 2 \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994151,ES: DAZN LA LIGA 3 \u1d41\u1d34\u1d30,ES: DAZN LA LIGA 3 \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+552,1994154,ES: DAZN LA LIGA 4 \u1d41\u1d34\u1d30,ES: DAZN LA LIGA 4 \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn la liga.rtf
+2054,1684004,#### DAZN ACB PPV ####,DAZN ACB PPV,fixed,,,needs-mapping,,dazn acb.rtf
+2054,1747403,ES: DAZN BALONCESTO 1 \u1d3f\u1d2c\u1d42,ES: DAZN BALONCESTO 1 \u1d3f\u1d2c\u1d42,dynamic_acb,,custom.DAZN.ACB.1,custom-dynamic,Slot dinámico DAZN ACB,dazn acb.rtf
+2054,1747402,ES: DAZN BALONCESTO 2 \u1d3f\u1d2c\u1d42,ES: DAZN BALONCESTO 2 \u1d3f\u1d2c\u1d42,dynamic_acb,,custom.DAZN.ACB.2,custom-dynamic,Slot dinámico DAZN ACB,dazn acb.rtf
+2054,1747401,ES: DAZN BALONCESTO 3 \u1d3f\u1d2c\u1d42,ES: DAZN BALONCESTO 3 \u1d3f\u1d2c\u1d42,dynamic_acb,,custom.DAZN.ACB.3,custom-dynamic,Slot dinámico DAZN ACB,dazn acb.rtf
+1286,839970,#### DAZN ESPA\u00d1A VIP \u1d34\u1d30 ####,DAZN ESPA\u00d1A VIP \u1d34\u1d30,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839967,ES: DAZN F1 \u1d34\u1d30,ES: DAZN F1 \u1d34\u1d30,fixed,DAZNF1.es,DAZNF1.es,mapped,,dazn espana.rtf
+1286,1843657,ES: DAZN MOTOGP \u1d34\u1d30,ES: DAZN MOTOGP \u1d34\u1d30,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839966,ES: DAZN 1 \u1d34\u1d30,ES: DAZN 1 \u1d34\u1d30,fixed,DAZN1.es,DAZN1.es,mapped,,dazn espana.rtf
+1286,839965,ES: DAZN 2 \u1d34\u1d30,ES: DAZN 2 \u1d34\u1d30,fixed,DAZN2.es,DAZN2.es,mapped,,dazn espana.rtf
+1286,839964,#### DAZN ESPA\u00d1A VIP SD ####,DAZN ESPA\u00d1A VIP,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839961,ES: DAZN F1 SD,ES: DAZN F1,fixed,DAZNF1.es,DAZNF1.es,mapped,,dazn espana.rtf
+1286,1843656,ES: DAZN MOTOGP SD,ES: DAZN MOTOGP,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839960,ES: DAZN 1 SD,ES: DAZN 1,fixed,DAZN1.es,DAZN1.es,mapped,,dazn espana.rtf
+1286,839959,ES: DAZN 2 SD,ES: DAZN 2,fixed,DAZN2.es,DAZN2.es,mapped,,dazn espana.rtf
+1286,839958,ES: DAZN 3 SD,ES: DAZN 3,fixed,DAZN3.es,DAZN3.es,mapped,,dazn espana.rtf
+1286,839957,ES: DAZN 4 SD,ES: DAZN 4,fixed,DAZN4.es,DAZN4.es,mapped,,dazn espana.rtf
+1286,839956,#### DAZN ESPA\u00d1A VIP \u1d41\u1d34\u1d30 ####,DAZN ESPA\u00d1A VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839953,ES: DAZN F1 \u02b0\u1d49\u1d5b\u1d9c,ES: DAZN F1 \u02b0\u1d49\u1d5b\u1d9c,fixed,DAZNF1.es,DAZNF1.es,mapped,,dazn espana.rtf
+1286,839952,ES: DAZN F1 \u1d41\u1d34\u1d30,ES: DAZN F1 \u1d41\u1d34\u1d30,fixed,DAZNF1.es,DAZNF1.es,mapped,,dazn espana.rtf
+1286,1843658,ES: DAZN MOTOGP \u1d41\u1d34\u1d30,ES: DAZN MOTOGP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn espana.rtf
+1286,1878350,ES: RALLY TV \u1d41\u1d34\u1d30,ES: RALLY TV \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,dazn espana.rtf
+1286,839951,ES: DAZN 1 \u1d41\u1d34\u1d30,ES: DAZN 1 \u1d41\u1d34\u1d30,fixed,DAZN1.es,DAZN1.es,mapped,,dazn espana.rtf
+1286,839950,ES: DAZN 2 \u1d41\u1d34\u1d30,ES: DAZN 2 \u1d41\u1d34\u1d30,fixed,DAZN2.es,DAZN2.es,mapped,,dazn espana.rtf
+1286,839949,ES: DAZN 3 \u1d41\u1d34\u1d30,ES: DAZN 3 \u1d41\u1d34\u1d30,fixed,DAZN3.es,DAZN3.es,mapped,,dazn espana.rtf
+1286,839948,ES: DAZN 4 \u1d41\u1d34\u1d30,ES: DAZN 4 \u1d41\u1d34\u1d30,fixed,DAZN4.es,DAZN4.es,mapped,,dazn espana.rtf
+1287,839947,#### ES| MOVISTAR DEPORTES VIP \u1d34\u1d30 ####,ES| MOVISTAR DEPORTES VIP \u1d34\u1d30,fixed,,,needs-mapping,,movistar deportes.rtf
+1287,839946,ES: MOVISTAR DEPORTES \u1d34\u1d30,ES: MOVISTAR DEPORTES \u1d34\u1d30,fixed,MovistarDeportes1.es,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839945,#### ES| MOVISTAR DEPORTES VIP  SD ####,ES| MOVISTAR DEPORTES VIP,fixed,,,needs-mapping,,movistar deportes.rtf
+1287,839944,ES: MOVISTAR DEPORTES SD,ES: MOVISTAR DEPORTES,fixed,MovistarDeportes1.es,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839943,#### ES| MOVISTAR DEPORTES VIP \u1d41\u1d34\u1d30 ####,ES| MOVISTAR DEPORTES VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistar deportes.rtf
+1287,839942,ES: MOVISTAR DEPORTES \u02b0\u1d49\u1d5b\u1d9c,ES: MOVISTAR DEPORTES \u02b0\u1d49\u1d5b\u1d9c,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839941,ES: MOVISTAR DEPORTES \u1d41\u1d34\u1d30,ES: MOVISTAR DEPORTES \u1d41\u1d34\u1d30,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839940,ES: MOVISTAR DEPORTES 2 \u1d41\u1d34\u1d30 (SOLO EVENTOS),ES: MOVISTAR DEPORTES 2 \u1d41\u1d34\u1d30 (SOLO EVENTOS),fixed,MovistarDeportes2.es,MovistarDeportes2.es,mapped,,movistar deportes.rtf
+1287,839939,ES: MOVISTAR DEPORTES 2 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 2,fixed,MovistarDeportes2.es,MovistarDeportes2.es,mapped,,movistar deportes.rtf
+1287,839938,ES: MOVISTAR DEPORTES 3 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 3,fixed,MovistarDeportes3.es,MovistarDeportes3.es,mapped,,movistar deportes.rtf
+1287,839937,ES: MOVISTAR DEPORTES 4 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 4,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839936,ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 5,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839935,ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 6,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1287,839934,ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS),ES: MOVISTAR DEPORTES 7,fixed,,MovistarDeportes1.es,mapped,,movistar deportes.rtf
+1290,839869,#### ES| M+ VAMOS VIP \u1d34\u1d30 ####,ES| M+ VAMOS VIP \u1d34\u1d30,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839868,ES: #VAMOS \u1d34\u1d30,ES: VAMOS \u1d34\u1d30,fixed,Vamos.es,Vamos.es,mapped,,movistar vamos.rtf
+1290,1683721,ES: #VAMOS 2 \u1d34\u1d30,ES: VAMOS 2 \u1d34\u1d30,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839867,ES: ELLAS #V \u1d34\u1d30,ES: ELLAS V \u1d34\u1d30,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839866,#### ES| M+ VAMOS VIP  SD ####,ES| M+ VAMOS VIP,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,1683722,ES: #VAMOS SD,ES: VAMOS,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839865,ES: #VAMOS SD,ES: VAMOS,fixed,Vamos.es,Vamos.es,mapped,,movistar vamos.rtf
+1290,839864,ES: ELLAS #V SD,ES: ELLAS V,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839863,#### ES| M+ VAMOS VIP \u1d41\u1d34\u1d30 ####,ES| M+ VAMOS VIP \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839862,ES: #VAMOS \u02b0\u1d49\u1d5b\u1d9c,ES: VAMOS \u02b0\u1d49\u1d5b\u1d9c,fixed,Vamos.es,Vamos.es,mapped,,movistar vamos.rtf
+1290,1683720,ES: #VAMOS 2 \u02b0\u1d49\u1d5b\u1d9c,ES: VAMOS 2 \u02b0\u1d49\u1d5b\u1d9c,fixed,,,needs-mapping,,movistar vamos.rtf
+1290,839861,ES: #VAMOS \u1d41\u1d34\u1d30,ES: VAMOS \u1d41\u1d34\u1d30,fixed,Vamos.es,Vamos.es,mapped,,movistar vamos.rtf
+1290,839860,ES: ELLAS #V \u1d41\u1d34\u1d30,ES: ELLAS V \u1d41\u1d34\u1d30,fixed,,,needs-mapping,,movistar vamos.rtf
+492,325093,###### SPORT \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2 ######,SPORT \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2,fixed,,,needs-mapping,,usa sport.rtf
+492,1860593,US: PREMIER LEAGUE \u1d3f\u1d2c\u1d42,US: PREMIER LEAGUE \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860592,US: TUDN ZONA \u1d3f\u1d2c\u1d42,US: TUDN ZONA \u1d3f\u1d2c\u1d42,fixed,TUDN.us,TUDN.us,mapped,,usa sport.rtf
+492,1860591,US: TUDN EXTRA 1 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 1 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860590,US: TUDN EXTRA 2 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 2 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860589,US: TUDN EXTRA 3 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 3 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860588,US: TUDN EXTRA 4 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 4 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860587,US: TUDN EXTRA 5 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 5 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860586,US: TUDN EXTRA 6 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 6 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860585,US: TUDN EXTRA 7 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 7 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860584,US: TUDN EXTRA 8 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 8 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860583,US: TUDN EXTRA 9 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 9 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860582,US: TUDN EXTRA 10 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 10 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860581,US: TUDN EXTRA 11 \u1d3f\u1d2c\u1d42,US: TUDN EXTRA 11 \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860580,US: YAHOO SPORTS NETWORK \u1d3f\u1d2c\u1d42,US: YAHOO SPORTS NETWORK \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860579,US: FORMULA 1 CHANNEL (FM1TV) \u1d3f\u1d2c\u1d42,US: FORMULA 1 CHANNEL (FM1TV) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,1860578,US: FITE TV 24\/7 \u1d34\u1d30,US: FITE TV 24\/7 \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,1860577,US: FITE TV 24\/7 SD,US: FITE TV 24\/7,fixed,,,needs-mapping,,usa sport.rtf
+492,325025,US: BEIN SPORTS HD,US: BEIN SPORTS,fixed,beINSports.us,beINSports.us,mapped,,usa sport.rtf
+492,325031,US: BEIN SPORTS 2 HD,US: BEIN SPORTS 2,fixed,beINSports2En.qa,beINSports2En.qa,mapped,,usa sport.rtf
+492,325030,US: BEIN SPORTS 4 HD,US: BEIN SPORTS 4,fixed,beINSports4En.qa,beINSports4En.qa,mapped,,usa sport.rtf
+492,325029,US: BEIN SPORTS 5 HD,US: BEIN SPORTS 5,fixed,beINSports5En.qa,beINSports5En.qa,mapped,,usa sport.rtf
+492,325028,US: BEIN SPORTS 6 HD,US: BEIN SPORTS 6,fixed,beINSports6En.qa,beINSports6En.qa,mapped,,usa sport.rtf
+492,325027,US: BEIN SPORTS 7 HD,US: BEIN SPORTS 7,fixed,beINSports7En.qa,beINSports7En.qa,mapped,,usa sport.rtf
+492,325026,US: BEIN SPORTS 8 HD,US: BEIN SPORTS 8,fixed,,,needs-mapping,,usa sport.rtf
+492,325017,US: FOX SPORTS 1 HD,US: FOX SPORTS 1,fixed,FoxSports1.us,FoxSports1.us,mapped,,usa sport.rtf
+492,325014,US: FOX SPORTS DETROIT HD,US: FOX SPORTS DETROIT,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325016,US: FOX SPORTS 2 HD,US: FOX SPORTS 2,fixed,FoxSports2.us,FoxSports2.us,mapped,,usa sport.rtf
+492,325013,US: FOX SPORTS FLORIDA HD,US: FOX SPORTS FLORIDA,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325015,US: FOX SPORTS ARIZONA HD,US: FOX SPORTS ARIZONA,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325033,US: FOX SPORTS OHIO HD,US: FOX SPORTS OHIO,fixed,,,needs-mapping,,usa sport.rtf
+492,325012,US: FOX SPORTS NORTH HD,US: FOX SPORTS NORTH,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325038,US: FOX SPORTS MIDWEST HD,US: FOX SPORTS MIDWEST,fixed,,,needs-mapping,,usa sport.rtf
+492,325037,US: FOX SPORTS CAROLINAS HD,US: FOX SPORTS CAROLINAS,fixed,,,needs-mapping,,usa sport.rtf
+492,325039,US: FOX SPORTS OKLAHOMA HD,US: FOX SPORTS OKLAHOMA,fixed,,,needs-mapping,,usa sport.rtf
+492,325011,US: FOX SPORTS PRIME TICKET HD,US: FOX SPORTS PRIME TICKET,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325010,US: FOX SPORTS SAN DIEGO HD,US: FOX SPORTS SAN DIEGO,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325008,US: FOX SPORTS SOUTH HD,US: FOX SPORTS SOUTH,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325009,US: FOX SPORTS SOUTHEAST HD,US: FOX SPORTS SOUTHEAST,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325007,US: FOX SPORTS SOUTHWEST HD,US: FOX SPORTS SOUTHWEST,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325006,US: FOX SPORTS SUN HD,US: FOX SPORTS SUN,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325005,US: FOX SPORTS WEST,US: FOX SPORTS WEST,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325004,US: FOX SPORTS WISCONSIN HD,US: FOX SPORTS WISCONSIN,fixed,FOXSports.us,FOXSports.us,mapped,,usa sport.rtf
+492,325040,US: FOX SPORTS TENNESSEE HD,US: FOX SPORTS TENNESSEE,fixed,,,needs-mapping,,usa sport.rtf
+492,325041,US: FOX SPORTS YES HD,US: FOX SPORTS YES,fixed,,,needs-mapping,,usa sport.rtf
+492,325042,US: FOX SPORTSTIME OHIO HD,US: FOX SPORTSTIME OHIO,fixed,,,needs-mapping,,usa sport.rtf
+492,325018,US: FOX SOCCER PLUS HD,US: FOX SOCCER PLUS,fixed,FoxSoccerPlus.us,FoxSoccerPlus.us,mapped,,usa sport.rtf
+492,395713,US: NFL NETWORK HD,US: NFL NETWORK,fixed,NFLNetwork.us,NFLNetwork.us,mapped,,usa sport.rtf
+492,325022,US: ELEVEN SPORTS HD,US: ELEVEN SPORTS,fixed,,,needs-mapping,,usa sport.rtf
+492,325019,US: ESPN NEWS HD,US: ESPN NEWS,fixed,ESPNNews.us,ESPNNews.us,mapped,,usa sport.rtf
+492,437219,US: ESPN USA HD,US: ESPN USA,fixed,ESPN.us,ESPN.us,mapped,,usa sport.rtf
+492,325020,US: ESPN HD,US: ESPN,fixed,ESPN.us,ESPN.us,mapped,,usa sport.rtf
+492,325021,US: ESPN 2 HD,US: ESPN 2,fixed,,,needs-mapping,,usa sport.rtf
+492,434360,US: ESPN U HD,US: ESPN U,fixed,,,needs-mapping,,usa sport.rtf
+492,325048,US: FIGHT NETWORK HD,US: FIGHT NETWORK,fixed,,I388.81448.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,usa sport.rtf
+492,325090,US: FUBO SPORTS 1 HD,US: FUBO SPORTS 1,fixed,FuboSportsNetwork.us,FuboSportsNetwork.us,mapped,,usa sport.rtf
+492,325089,US: FUBO SPORTS 2 HD,US: FUBO SPORTS 2,fixed,,,needs-mapping,,usa sport.rtf
+492,325088,US: FUBO SPORTS 3 HD,US: FUBO SPORTS 3,fixed,,,needs-mapping,,usa sport.rtf
+492,325087,US: FUBO SPORTS 4 HD,US: FUBO SPORTS 4,fixed,,,needs-mapping,,usa sport.rtf
+492,325086,US: FUBO SPORTS 5 HD,US: FUBO SPORTS 5,fixed,,,needs-mapping,,usa sport.rtf
+492,325046,US: FUBO SPORTS NETWORK HD,US: FUBO SPORTS NETWORK,fixed,FuboSportsNetwork.us,FuboSportsNetwork.us,mapped,,usa sport.rtf
+492,325053,US: FUSE HD,US: FUSE,fixed,FuseTV.us,FuseTV.us,mapped,,usa sport.rtf
+492,325058,US: FUSE MUSIC HD,US: FUSE MUSIC,fixed,01TV.fr,01TV.fr,mapped,,usa sport.rtf
+492,325047,US: GOL TV HD,US: GOL TV,fixed,GolTVEnglish.us,GolTVEnglish.us,mapped,,usa sport.rtf
+492,325003,US: GOLF CHANNEL HD,US: GOLF CHANNEL,fixed,GolfChannel.us,GolfChannel.us,mapped,,usa sport.rtf
+492,324992,US: WWE HD,US: WWE,fixed,WWE.us,WWE.us,mapped,,usa sport.rtf
+492,832051,US: Moto America TV,US: Moto America TV,fixed,,,needs-mapping,,usa sport.rtf
+492,832052,US: Sport Stak,US: Sport Stak,fixed,,,needs-mapping,,usa sport.rtf
+492,324969,US: MONUMENTAL SPORTS NETWORK HD,US: MONUMENTAL SPORTS NETWORK,fixed,MonumentalSportsNetwork.us,MonumentalSportsNetwork.us,mapped,,usa sport.rtf
+492,325043,US: GINX ESPORTS HD,US: GINX ESPORTS,fixed,,,needs-mapping,,usa sport.rtf
+492,325085,US: ALTITUDE SPORTS HD,US: ALTITUDE SPORTS,fixed,AltitudeSports.us,AltitudeSports.us,mapped,,usa sport.rtf
+492,325068,US: AT&T SPORTSNET PITTSBURGH HD,US: AT&T SPORTSNET PITTSBURGH,fixed,ATTSportsNetPittsburgh.us,ATTSportsNetPittsburgh.us,mapped,,usa sport.rtf
+492,1824605,US: ALTITUDE SPORTS 2 HD,US: ALTITUDE SPORTS 2,fixed,,,needs-mapping,,usa sport.rtf
+492,325045,US: AT&T SPORTSNET SOUTHWEST HD,US: AT&T SPORTSNET SOUTHWEST,fixed,ATTSportsNetHouston.us,ATTSportsNetHouston.us,mapped,,usa sport.rtf
+492,325069,US: AT&T SPORTSNET ROCKY MOUNTAIN HD,US: AT&T SPORTSNET ROCKY MOUNTAIN,fixed,ATTSNRM.us,ATTSNRM.us,mapped,,usa sport.rtf
+492,1975723,US: ANGELS BROADCAST TELEVISION (ABTV) \u1d3f\u1d2c\u1d42,US: ANGELS BROADCAST TELEVISION (ABTV) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,usa sport.rtf
+492,325024,US: BIG TEN NETWORK HD,US: BIG TEN NETWORK,fixed,BigTenNetwork.us,BigTenNetwork.us,mapped,,usa sport.rtf
+492,325023,US: CBS SPORTS NETWORK HD,US: CBS SPORTS NETWORK,fixed,CBSSportsNetwork.us,CBSSportsNetwork.us,mapped,,usa sport.rtf
+492,325071,US: MARQUEE SPORTS NETWORK HD,US: MARQUEE SPORTS NETWORK,fixed,,,needs-mapping,,usa sport.rtf
+492,325002,US: MLB NETWORK,US: MLB NETWORK,fixed,MLBNetwork.us,MLBNetwork.us,mapped,,usa sport.rtf
+492,325049,US: MLB STRIKE ZONE HD,US: MLB STRIKE ZONE,fixed,,,needs-mapping,,usa sport.rtf
+492,325001,US: NBC GOLF,US: NBC GOLF,fixed,,,needs-mapping,,usa sport.rtf
+492,325065,US: NBC SPORTS BAY AREA,US: NBC SPORTS BAY AREA,fixed,NBCSportsBayArea.us,NBCSportsBayArea.us,mapped,,usa sport.rtf
+492,325063,US: NBC SPORTS CALIFORNIA,US: NBC SPORTS CALIFORNIA,fixed,NBCSportsCalifornia.us,NBCSportsCalifornia.us,mapped,,usa sport.rtf
+492,325064,US: NBC SPORTS CHICAGO,US: NBC SPORTS CHICAGO,fixed,NBCSportsChicago.us,NBCSportsChicago.us,mapped,,usa sport.rtf
+492,325067,US: NBC SPORTS NETWORK,US: NBC SPORTS NETWORK,fixed,,I619.194412.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,usa sport.rtf
+492,325066,US: NBC SPORTS NORTHWEST,US: NBC SPORTS NORTHWEST,fixed,,,needs-mapping,,usa sport.rtf
+492,325061,US: NBC SPORTS PHILADELFIA,US: NBC SPORTS PHILADELFIA,fixed,NBCSportsPhiladelphia.us,NBCSportsPhiladelphia.us,mapped,,usa sport.rtf
+492,325062,US: NBC SPORTS WASHINGTON,US: NBC SPORTS WASHINGTON,fixed,NBCSportsWashington.us,NBCSportsWashington.us,mapped,,usa sport.rtf
+492,325000,US: PAC 12 ARIZONA HD,US: PAC 12 ARIZONA,fixed,,,needs-mapping,,usa sport.rtf
+492,324999,US: PAC 12 BAY AREA HD,US: PAC 12 BAY AREA,fixed,,,needs-mapping,,usa sport.rtf
+492,324997,US: PAC 12 MOUNTAIN HD,US: PAC 12 MOUNTAIN,fixed,,,needs-mapping,,usa sport.rtf
+492,325032,US: PAC 12 NATIONAL HD,US: PAC 12 NATIONAL,fixed,,,needs-mapping,,usa sport.rtf
+492,324996,US: PAC 12 OREGON HD,US: PAC 12 OREGON,fixed,,,needs-mapping,,usa sport.rtf
+492,324998,US: PAC 12 LOS ANGELES HD,US: PAC 12 LOS ANGELES,fixed,,,needs-mapping,,usa sport.rtf
+492,324995,US: PAC 12 WASHINGTON HD,US: PAC 12 WASHINGTON,fixed,,,needs-mapping,,usa sport.rtf
+492,325070,US: ROOT SPORTS,US: ROOT SPORTS,fixed,RootSportsNorthwest.us,RootSportsNorthwest.us,mapped,,usa sport.rtf
+492,325052,US: SPORTSNET LA DODGERS HD,US: SPORTSNET LA DODGERS,fixed,SpectrumSportsNetLA.us,SpectrumSportsNetLA.us,mapped,,usa sport.rtf
+492,325034,US: SPORTSNET NEW YORK HD,US: SPORTSNET NEW YORK,fixed,ComcastSportsnet.us,ComcastSportsnet.us,mapped,,usa sport.rtf
+492,828142,US: NESN \u1d41\u1d34\u1d30 3840P,US: NESN \u1d41\u1d34\u1d30 3840P,fixed,NewEnglandSportsNetwork.us,NewEnglandSportsNetwork.us,mapped,,usa sport.rtf
+492,828139,US: NESN,US: NESN,fixed,NewEnglandSportsNetwork.us,NewEnglandSportsNetwork.us,mapped,,usa sport.rtf
+492,828141,US: NESN Plus HD,US: NESN Plus,fixed,NewEnglandSportsNetworkPlus.us,NewEnglandSportsNetworkPlus.us,mapped,,usa sport.rtf
+492,437221,US: NESN BOSTON HD,US: NESN BOSTON,fixed,NewEnglandSportsNetwork.us,NewEnglandSportsNetwork.us,mapped,,usa sport.rtf
+492,325051,US: SPORTSNET LA LAKERS HD,US: SPORTSNET LA LAKERS,fixed,,,needs-mapping,,usa sport.rtf
+492,325044,US: SPORTSMAN CHANNEL HD,US: SPORTSMAN CHANNEL,fixed,,I605.33930.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,usa sport.rtf
+492,434023,US: TSN SPORT 2 HD,US: TSN SPORT 2,fixed,,,needs-mapping,,usa sport.rtf
+492,434024,US: TSN SPORT 3 HD,US: TSN SPORT 3,fixed,,,needs-mapping,,usa sport.rtf
+492,434025,US: TSN SPORT 4 HD,US: TSN SPORT 4,fixed,,,needs-mapping,,usa sport.rtf
+492,434026,US: TSN SPORT 5 HD,US: TSN SPORT 5,fixed,,,needs-mapping,,usa sport.rtf
+492,325054,US: STADIUM HD,US: STADIUM,fixed,,,needs-mapping,,usa sport.rtf
+492,325057,US: STADIUM 1 HD,US: STADIUM 1,fixed,,,needs-mapping,,usa sport.rtf
+492,325056,US: STADIUM 2 HD,US: STADIUM 2,fixed,,,needs-mapping,,usa sport.rtf
+492,325055,US: STADIUM 3 HD,US: STADIUM 3,fixed,,,needs-mapping,,usa sport.rtf
+492,324994,US: TENNIS HD,US: TENNIS,fixed,TennisChannel.us,TennisChannel.us,mapped,,usa sport.rtf
+492,325092,US: TENNIS CHANNEL,US: TENNIS CHANNEL,fixed,TennisChannel.us,TennisChannel.us,mapped,,usa sport.rtf
+492,488431,US: TENNIS CHANNEL PLUS 1,US: TENNIS CHANNEL PLUS 1,fixed,,,needs-mapping,,usa sport.rtf
+492,488432,US: TENNIS CHANNEL PLUS 2,US: TENNIS CHANNEL PLUS 2,fixed,,,needs-mapping,,usa sport.rtf
+492,488433,US: TENNIS CHANNEL PLUS 3,US: TENNIS CHANNEL PLUS 3,fixed,,,needs-mapping,,usa sport.rtf
+492,488435,US: TENNIS CHANNEL PLUS 4,US: TENNIS CHANNEL PLUS 4,fixed,,,needs-mapping,,usa sport.rtf
+492,488436,US: TENNIS CHANNEL PLUS 5,US: TENNIS CHANNEL PLUS 5,fixed,,,needs-mapping,,usa sport.rtf
+492,488437,US: TENNIS CHANNEL PLUS 6,US: TENNIS CHANNEL PLUS 6,fixed,,,needs-mapping,,usa sport.rtf
+492,488438,US: TENNIS CHANNEL PLUS 7,US: TENNIS CHANNEL PLUS 7,fixed,,,needs-mapping,,usa sport.rtf
+492,488439,US: TENNIS CHANNEL PLUS 8,US: TENNIS CHANNEL PLUS 8,fixed,,,needs-mapping,,usa sport.rtf
+492,488440,US: TENNIS CHANNEL PLUS 9,US: TENNIS CHANNEL PLUS 9,fixed,TennisChannel.us,TennisChannel.us,mapped,,usa sport.rtf
+492,488441,US: TENNIS CHANNEL PLUS 10,US: TENNIS CHANNEL PLUS 10,fixed,,,needs-mapping,,usa sport.rtf
+492,488442,US: TENNIS CHANNEL PLUS 11,US: TENNIS CHANNEL PLUS 11,fixed,,,needs-mapping,,usa sport.rtf
+492,488443,US: TENNIS CHANNEL PLUS 12,US: TENNIS CHANNEL PLUS 12,fixed,,,needs-mapping,,usa sport.rtf
+492,324993,US: WILLOW CRICKET HD,US: WILLOW CRICKET,fixed,WillowCricket.us,WillowCricket.us,mapped,,usa sport.rtf
+492,508003,US: WILLOW CRICKET EXTRA HD,US: WILLOW CRICKET EXTRA,fixed,WILLX.us,WILLX.us,mapped,,usa sport.rtf
+492,436113,US: HSN,US: HSN,fixed,HomeShoppingNetwork.us,HomeShoppingNetwork.us,mapped,,usa sport.rtf
+492,436114,US: SHOP LC 4K,US: SHOP LC,fixed,,I75.56032.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,usa sport.rtf
+492,1965755,US: SPACE CITY HD,US: SPACE CITY,fixed,,,needs-mapping,,usa sport.rtf
+492,736024,US: FANTASY SPORTS NETWORK,US: FANTASY SPORTS NETWORK,fixed,,,needs-mapping,,usa sport.rtf
+492,436112,US: SPIKE HD,US: SPIKE,fixed,,,needs-mapping,,usa sport.rtf
+492,549252,US: SEC NETWORK HD,US: SEC NETWORK,fixed,SECNetwork.us,SECNetwork.us,mapped,,usa sport.rtf
+492,325059,US: UFC HD,US: UFC,fixed,,,needs-mapping,,usa sport.rtf
+492,325036,US: YES NETWORK HD,US: YES NETWORK,fixed,YESNetwork.us,YESNetwork.us,mapped,,usa sport.rtf
+492,576996,US: AFN SPORT HD,US: AFN SPORT,fixed,AFNSports.us,AFNSports.us,mapped,,usa sport.rtf
+492,525582,US: DAZN COMBAT,US: DAZN COMBAT,fixed,,,needs-mapping,,usa sport.rtf
+492,525581,US: DAZN WOMANS FOOTBALL,US: DAZN WOMANS FOOTBALL,fixed,,,needs-mapping,,usa sport.rtf
+492,525580,US: DAZN FAST+,US: DAZN FAST+,fixed,,,needs-mapping,,usa sport.rtf
+492,751663,US: MASSN HD,US: MASSN,fixed,,,needs-mapping,,usa sport.rtf
+492,751664,US: MASSN 2 HD,US: MASSN 2,fixed,,,needs-mapping,,usa sport.rtf
+492,525579,US: DAZN RISE,US: DAZN RISE,fixed,,,needs-mapping,,usa sport.rtf
+492,832056,US: BOXING TV,US: BOXING TV,fixed,,,needs-mapping,,usa sport.rtf
+492,832053,US: PADELTIME TV,US: PADELTIME TV,fixed,,,needs-mapping,,usa sport.rtf
+492,832054,US: BILLIARD TV,US: BILLIARD TV,fixed,,,needs-mapping,,usa sport.rtf
+492,1283834,US: FANDUEL SPORTS SUN HD,US: FANDUEL SPORTS SUN,fixed,,,needs-mapping,,usa sport.rtf
+492,1005880,US: PICKLEBALL  (PBTV) HD,US: PICKLEBALL (PBTV),fixed,,,needs-mapping,,usa sport.rtf
+492,325060,US: Z CLASSIC,US: Z CLASSIC,fixed,,,needs-mapping,,usa sport.rtf
+492,648290,US: CBS SPORTS GALAZO NETWORK 4K,US: CBS SPORTS GALAZO NETWORK,fixed,,,needs-mapping,,usa sport.rtf
+492,2044651,US: (GT) Yes Network \u1d34\u1d30,US: (GT) Yes Network \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044652,US: (GT) Yes Network Latin \u1d34\u1d30,US: (GT) Yes Network Latin \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044650,US: (GT) Yes Network Overflow \u1d34\u1d30,US: (GT) Yes Network Overflow \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044647,US: (GT) MSGSN (Zone1) \u1d34\u1d30,US: (GT) MSGSN (Zone1) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044648,US: (GT) MSGSN (Zone2) \u1d34\u1d30,US: (GT) MSGSN (Zone2) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044649,US: (GT) MSGSN (Zone3) \u1d34\u1d30,US: (GT) MSGSN (Zone3) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044644,US: (GT) MSG (Zone1) \u1d34\u1d30,US: (GT) MSG (Zone1) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044645,US: (GT) MSG (Zone2) \u1d34\u1d30,US: (GT) MSG (Zone2) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,2044646,US: (GT) MSG (Zone3) \u1d34\u1d30,US: (GT) MSG (Zone3) \u1d34\u1d30,fixed,,,needs-mapping,,usa sport.rtf
+492,325091,US: SUPERSPORT TENNIS,US: SUPERSPORT TENNIS,fixed,,,needs-mapping,,usa sport.rtf
+597,566195,##### NFL LIVE EVENTS #####,NFL LIVE EVENTS,fixed,,,needs-mapping,,nfl ppv.rtf
+597,1031378,US: NFL NETWORK \u1d34\u1d30,US: NFL NETWORK \u1d34\u1d30,fixed,,NFL.Network.us,mapped,,nfl ppv.rtf
+597,1031379,US: NFL REDZONE \u1d34\u1d30,US: NFL REDZONE \u1d34\u1d30,fixed,,NFL.RedZone.us,mapped,,nfl ppv.rtf
+597,1781953,NFL   | 4k -,NFL |,fixed,,,needs-mapping,,nfl ppv.rtf
+597,606180,NFL  | 01 - 8\/20 8pm Raiders at Texans,NFL | 01 - 8\/20 8pm Raiders at Texans,dynamic_nfl,,custom.NFL.Live.01,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606179,NFL  | 02 - 8\/20 10pm 49ers at Charegers,NFL | 02 - 8\/20 10pm 49ers at Charegers,dynamic_nfl,,custom.NFL.Live.02,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606178,NFL  | 03 - 8\/21 7pm Jets at Steelers,NFL | 03 - 8\/21 7pm Jets at Steelers,dynamic_nfl,,custom.NFL.Live.03,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606177,NFL  | 04 - 8\/21 7:30pm Panthers at Jaguars,NFL | 04 - 8\/21 7:30pm Panthers at Jaguars,dynamic_nfl,,custom.NFL.Live.04,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606176,NFL  | 05 - 8\/21 9pm Packers at Broncos,NFL | 05 - 8\/21 9pm Packers at Broncos,dynamic_nfl,,custom.NFL.Live.05,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606175,NFL  | 06 - 8\/22 12pm Commanders at Lions,NFL | 06 - 8\/22 12pm Commanders at Lions,dynamic_nfl,,custom.NFL.Live.06,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606174,NFL  | 07 - 8\/22 1pm Bills at Browns,NFL | 07 - 8\/22 1pm Bills at Browns,dynamic_nfl,,custom.NFL.Live.07,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606173,NFL  | 08 - 8\/22 1pm Falcons at Colts,NFL | 08 - 8\/22 1pm Falcons at Colts,dynamic_nfl,,custom.NFL.Live.08,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606172,NFL  | 09 - 8\/22 1pm Ravens at Vikings,NFL | 09 - 8\/22 1pm Ravens at Vikings,dynamic_nfl,,custom.NFL.Live.09,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606171,NFL  | 10 - 8\/22 4pm Saints at Rams,NFL | 10 - 8\/22 4pm Saints at Rams,dynamic_nfl,,custom.NFL.Live.10,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606170,NFL  | 11 - 8\/22 4pm Giants at Dolphins,NFL | 11 - 8\/22 4pm Giants at Dolphins,dynamic_nfl,,custom.NFL.Live.11,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606169,NFL  | 12 - 8\/22 7pm Bears at Bengals,NFL | 12 - 8\/22 7pm Bears at Bengals,dynamic_nfl,,custom.NFL.Live.12,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606168,NFL  | 13 - 8\/22 7pm Eagles at Patriots,NFL | 13 - 8\/22 7pm Eagles at Patriots,dynamic_nfl,,custom.NFL.Live.13,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606167,NFL  | 14 - 8\/22 7:30pm Chiefs at Buccaneers,NFL | 14 - 8\/22 7:30pm Chiefs at Buccaneers,dynamic_nfl,,custom.NFL.Live.14,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606166,NFL  | 15 - 8\/22 10pm Cowboys at Cardinals,NFL | 15 - 8\/22 10pm Cowboys at Cardinals,dynamic_nfl,,custom.NFL.Live.15,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+597,606165,NFL  | 16 - 8\/23 8pm Seahawks at Titans,NFL | 16 - 8\/23 8pm Seahawks at Titans,dynamic_nfl,,custom.NFL.Live.16,custom-dynamic,Slot dinámico NFL,nfl ppv.rtf
+601,430126,##### CBS \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2 #####,CBS \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2,fixed,,,needs-mapping,,cbs.rtf
+601,430125,US: CBS HD,US: CBS,fixed,,,needs-mapping,,cbs.rtf
+601,430124,US: CBS (KRQE) ALBUQUERQUE-SANTA HD,US: CBS (KRQE) ALBUQUERQUE-SANTA,fixed,,,needs-mapping,,cbs.rtf
+601,430123,US: CBS (WAFB) BATON ROUGE HD,US: CBS (WAFB) BATON ROUGE,fixed,WAFB.us,WAFB.us,mapped,,cbs.rtf
+601,430122,US: CBS (WSBK) BOSTON HD,US: CBS (WSBK) BOSTON,fixed,WBZ.us,WBZ.us,mapped,,cbs.rtf
+601,429909,US: CBS 2 WCBS (NEW YORK) HD,US: CBS 2 WCBS (NEW YORK),fixed,,,needs-mapping,,cbs.rtf
+601,430059,US: CBS 2 (KDKA) PITTSBURGH HD,US: CBS 2 (KDKA) PITTSBURGH,fixed,KDKA.us,KDKA.us,mapped,,cbs.rtf
+601,430061,US: CBS 2 (KBOI) BOISE HD,US: CBS 2 (KBOI) BOISE,fixed,KBOI.us,KBOI.us,mapped,,cbs.rtf
+601,430060,US: CBS 2 (KCBS) LOS ANGELES HD,US: CBS 2 (KCBS) LOS ANGELES,fixed,,,needs-mapping,,cbs.rtf
+601,430058,US: CBS 2 (KGAN) CEDAR RAPIDS HD,US: CBS 2 (KGAN) CEDAR RAPIDS,fixed,,,needs-mapping,,cbs.rtf
+601,430057,US: CBS 2 (KPSP) PALM SPRINGS HD,US: CBS 2 (KPSP) PALM SPRINGS,fixed,KPSP.us,KPSP.us,mapped,,cbs.rtf
+601,430056,US: CBS 2 (KREM) SPOKANE HD,US: CBS 2 (KREM) SPOKANE,fixed,KREM.us,KREM.us,mapped,,cbs.rtf
+601,430055,US: CBS 2 (KTVN) RENO HD,US: CBS 2 (KTVN) RENO,fixed,,,needs-mapping,,cbs.rtf
+601,430054,US: CBS 2 (KTVQ) BILLINGS HD,US: CBS 2 (KTVQ) BILLINGS,fixed,,,needs-mapping,,cbs.rtf
+601,430053,US: CBS 2 (KUTV) SALT LAKE CITY HD,US: CBS 2 (KUTV) SALT LAKE CITY,fixed,KUTV.us,KUTV.us,mapped,,cbs.rtf
+601,430052,US: CBS 2 (WBBM) CHICAGO HD,US: CBS 2 (WBBM) CHICAGO,fixed,,,needs-mapping,,cbs.rtf
+601,430051,US: CBS 2 (WCBS) NEW YORK HD,US: CBS 2 (WCBS) NEW YORK,fixed,,,needs-mapping,,cbs.rtf
+601,430050,US: CBS 2 (WFMY) GREENSBORO HD,US: CBS 2 (WFMY) GREENSBORO,fixed,WFMY.us,WFMY.us,mapped,,cbs.rtf
+601,430038,US: CBS 3 (KIMT) ROCHESTER HD,US: CBS 3 (KIMT) ROCHESTER,fixed,,,needs-mapping,,cbs.rtf
+601,430037,US: CBS 3 (KMTV) OMAHA HD,US: CBS 3 (KMTV) OMAHA,fixed,KMTV.us,KMTV.us,mapped,,cbs.rtf
+601,430036,US: CBS 3 (KRTV) GREAT FALLS HD,US: CBS 3 (KRTV) GREAT FALLS,fixed,,,needs-mapping,,cbs.rtf
+601,430035,US: CBS 3 (KYW) PHILADELPHIA HD,US: CBS 3 (KYW) PHILADELPHIA,fixed,,,needs-mapping,,cbs.rtf
+601,430034,US: CBS 3 (WBTV) CHARLOTTE HD,US: CBS 3 (WBTV) CHARLOTTE,fixed,,,needs-mapping,,cbs.rtf
+601,430033,US: CBS 3 (WCAX) BURLINGTON HD,US: CBS 3 (WCAX) BURLINGTON,fixed,WCAX.us,WCAX.us,mapped,,cbs.rtf
+601,430032,US: CBS 3 (WCIA) CHAMPAIGN HD,US: CBS 3 (WCIA) CHAMPAIGN,fixed,,,needs-mapping,,cbs.rtf
+601,430031,US: CBS 3 (WFSB) HARTFORD HD,US: CBS 3 (WFSB) HARTFORD,fixed,,,needs-mapping,,cbs.rtf
+601,430030,US: CBS 3 (WISC) MADISON HD,US: CBS 3 (WISC) MADISON,fixed,WISC.us,WISC.us,mapped,,cbs.rtf
+601,430029,US: CBS 3 (WRBL) COLUMBHD,US: CBS 3 (WRBL) COLUMBHD,fixed,,,needs-mapping,,cbs.rtf
+601,430028,US: CBS 3 (WREG) MEMPHIS HD,US: CBS 3 (WREG) MEMPHIS,fixed,WREG.us,WREG.us,mapped,,cbs.rtf
+601,430027,US: CBS 3 (WSHM) SPRINGFIELD   (P) HD,US: CBS 3 (WSHM) SPRINGFIELD (P),fixed,,,needs-mapping,,cbs.rtf
+601,430026,US: CBS 3 (WSHM) SPRINGFIELD HD,US: CBS 3 (WSHM) SPRINGFIELD,fixed,,,needs-mapping,,cbs.rtf
+601,430025,US: CBS 3 (WTKR) HAMPTON ROADS HD,US: CBS 3 (WTKR) HAMPTON ROADS,fixed,,,needs-mapping,,cbs.rtf
+601,430024,US: CBS 3 (WWAY) WILMINGTON HD,US: CBS 3 (WWAY) WILMINGTON,fixed,,,needs-mapping,,cbs.rtf
+601,430023,US: CBS 3 (WWAY-DT2) WILMINGTON HD,US: CBS 3 (WWAY-DT2) WILMINGTON,fixed,,,needs-mapping,,cbs.rtf
+601,430022,US: CBS 3 (WWMT) KALAMAZOO HD,US: CBS 3 (WWMT) KALAMAZOO,fixed,WWMT.us,WWMT.us,mapped,,cbs.rtf
+601,739956,US: CBS 3 BRYAN TX (KBTX) HD,US: CBS 3 BRYAN TX (KBTX),fixed,,,needs-mapping,,cbs.rtf
+601,430012,US: CBS 4 (KCNC) DENVER HD,US: CBS 4 (KCNC) DENVER,fixed,KCNC.us,KCNC.us,mapped,,cbs.rtf
+601,430013,US: CBS 4 (#) BUFFALO HD,US: CBS 4 () BUFFALO,fixed,WIVB.us,WIVB.us,mapped,,cbs.rtf
+601,430011,US: CBS 4 (KDBC) EL PASO HD,US: CBS 4 (KDBC) EL PASO,fixed,,,needs-mapping,,cbs.rtf
+601,430010,US: CBS 4 (KGBT) HARLINGEN HD,US: CBS 4 (KGBT) HARLINGEN,fixed,,,needs-mapping,,cbs.rtf
+601,430009,US: CBS 4 (KMOV) ST. LOUIS HD,US: CBS 4 (KMOV) ST. LOUIS,fixed,,,needs-mapping,,cbs.rtf
+601,430008,US: CBS 4 (KXLF) BUTTE HD,US: CBS 4 (KXLF) BUTTE,fixed,,,needs-mapping,,cbs.rtf
+601,430007,US: CBS 4 (WBZ) BOSTON HD,US: CBS 4 (WBZ) BOSTON,fixed,,,needs-mapping,,cbs.rtf
+601,430006,US: CBS 4 (WCBI) COLUMBHD,US: CBS 4 (WCBI) COLUMBHD,fixed,,,needs-mapping,,cbs.rtf
+601,430005,US: CBS 4 (WCCO) MINNEAPOLIS HD,US: CBS 4 (WCCO) MINNEAPOLIS,fixed,,,needs-mapping,,cbs.rtf
+601,430004,US: CBS 4 (WFOR) MIAMI HD,US: CBS 4 (WFOR) MIAMI,fixed,,,needs-mapping,,cbs.rtf
+601,430003,US: CBS 4 (WHBF) ROCK ISLAND HD,US: CBS 4 (WHBF) ROCK ISLAND,fixed,,,needs-mapping,,cbs.rtf
+601,430002,US: CBS 4 (WTTV) INDIANAPOLIS HD,US: CBS 4 (WTTV) INDIANAPOLIS,fixed,WTTV.us,WTTV.us,mapped,,cbs.rtf
+601,430001,US: CBS 4 (WTVY) DOTHAN HD,US: CBS 4 (WTVY) DOTHAN,fixed,,,needs-mapping,,cbs.rtf
+601,430000,US: CBS 4 (WWL) NEW ORLEANS HD,US: CBS 4 (WWL) NEW ORLEANS,fixed,WWL.us,WWL.us,mapped,,cbs.rtf
+601,429991,US: CBS 5 (KALB-DT2) ALEXANDRIA HD,US: CBS 5 (KALB-DT2) ALEXANDRIA,fixed,,,needs-mapping,,cbs.rtf
+601,429990,US: CBS 5 (KCTV) KANSAS CITY HD,US: CBS 5 (KCTV) KANSAS CITY,fixed,KCTV.us,KCTV.us,mapped,,cbs.rtf
+601,429989,US: CBS 5 (KENS) SAN ANTONIO HD,US: CBS 5 (KENS) SAN ANTONIO,fixed,KPIX.us,KPIX.us,mapped,,cbs.rtf
+601,429988,US: CBS 5 (KFSM) FORT SMITH HD,US: CBS 5 (KFSM) FORT SMITH,fixed,KFSM.us,KFSM.us,mapped,,cbs.rtf
+601,429987,US: CBS 5 (KGMB) HONOLULU HD,US: CBS 5 (KGMB) HONOLULU,fixed,,,needs-mapping,,cbs.rtf
+601,429986,US: CBS 5 (KGWN) CHEYENNE HD,US: CBS 5 (KGWN) CHEYENNE,fixed,,,needs-mapping,,cbs.rtf
+601,429985,US: CBS 5 (KPHO) PHOENIX HD,US: CBS 5 (KPHO) PHOENIX,fixed,KPHO.us,KPHO.us,mapped,,cbs.rtf
+601,429984,US: CBS 5 (KPIX) SAN FRANCISCO HD,US: CBS 5 (KPIX) SAN FRANCISCO,fixed,KPIX.us,KPIX.us,mapped,,cbs.rtf
+601,429983,US: CBS 5 (KREX) GRAND JUNCTION HD,US: CBS 5 (KREX) GRAND JUNCTION,fixed,,,needs-mapping,,cbs.rtf
+601,429982,US: CBS 5 (WCSC) CHARLESTON HD,US: CBS 5 (WCSC) CHARLESTON,fixed,,,needs-mapping,,cbs.rtf
+601,429981,US: CBS 5 (WFRV) GREEN BAY HD,US: CBS 5 (WFRV) GREEN BAY,fixed,,,needs-mapping,,cbs.rtf
+601,429980,US: CBS 5 (WKRG) MOBILE HD,US: CBS 5 (WKRG) MOBILE,fixed,,,needs-mapping,,cbs.rtf
+601,429979,US: CBS 5 (WNEM) BAY CITY HD,US: CBS 5 (WNEM) BAY CITY,fixed,,,needs-mapping,,cbs.rtf
+601,429978,US: CBS 5 (WTVF) NASHVILLE HD,US: CBS 5 (WTVF) NASHVILLE,fixed,,,needs-mapping,,cbs.rtf
+601,429977,US: CBS 5 (WTVH) SYRACUSE HD,US: CBS 5 (WTVH) SYRACUSE,fixed,,,needs-mapping,,cbs.rtf
+601,429973,US: CBS 6 (KFDM) PORT ARTHUR HD,US: CBS 6 (KFDM) PORT ARTHUR,fixed,,,needs-mapping,,cbs.rtf
+601,429974,US: CBS 6 (KAUZ) WICHITA FALLS HD,US: CBS 6 (KAUZ) WICHITA FALLS,fixed,KAUZ.us,KAUZ.us,mapped,,cbs.rtf
+601,429972,US: CBS 6 (KOIN) PORTLAND HD,US: CBS 6 (KOIN) PORTLAND,fixed,,,needs-mapping,,cbs.rtf
+601,429971,US: CBS 6 (KOTV) TULSA HD,US: CBS 6 (KOTV) TULSA,fixed,,,needs-mapping,,cbs.rtf
+601,429970,US: CBS 6 (WCTV) TALLAHASSEE HD,US: CBS 6 (WCTV) TALLAHASSEE,fixed,,,needs-mapping,,cbs.rtf
+601,429969,US: CBS 6 (WKMG) ORLANDO HD,US: CBS 6 (WKMG) ORLANDO,fixed,,,needs-mapping,,cbs.rtf
+601,429968,US: CBS 6 (WLNS) LANSING HD,US: CBS 6 (WLNS) LANSING,fixed,WLNS.us,WLNS.us,mapped,,cbs.rtf
+601,429967,US: CBS 6 (WRGB) ALBANY HD,US: CBS 6 (WRGB) ALBANY,fixed,,,needs-mapping,,cbs.rtf
+601,429966,US: CBS 6 (WTVR) RICHMOND HD,US: CBS 6 (WTVR) RICHMOND,fixed,,,needs-mapping,,cbs.rtf
+601,429964,US: CBS 7 (KBNZ-LD) BEND HD,US: CBS 7 (KBNZ-LD) BEND,fixed,,,needs-mapping,,cbs.rtf
+601,429963,US: CBS 7 (KHQA-DT) QUINCY HD,US: CBS 7 (KHQA-DT) QUINCY,fixed,,,needs-mapping,,cbs.rtf
+601,429962,US: CBS 7 (KIRO) SEATTLE HD,US: CBS 7 (KIRO) SEATTLE,fixed,,,needs-mapping,,cbs.rtf
+601,429961,US: CBS 7 (KOAM) JOPLIN HD,US: CBS 7 (KOAM) JOPLIN,fixed,,,needs-mapping,,cbs.rtf
+601,429960,US: CBS 7 (KOSA) MIDLAND HD,US: CBS 7 (KOSA) MIDLAND,fixed,,,needs-mapping,,cbs.rtf
+601,429959,US: CBS 7 (WBBJ-DT3) JACKSON HD,US: CBS 7 (WBBJ-DT3) JACKSON,fixed,,,needs-mapping,,cbs.rtf
+601,429958,US: CBS 7 (WDBJ) ROANOKE HD,US: CBS 7 (WDBJ) ROANOKE,fixed,,,needs-mapping,,cbs.rtf
+601,429957,US: CBS 7 (WHIO) DAYTON HD,US: CBS 7 (WHIO) DAYTON,fixed,WHIO.us,WHIO.us,mapped,,cbs.rtf
+601,429956,US: CBS 7 (WSAW) WAUSAU HD,US: CBS 7 (WSAW) WAUSAU,fixed,,,needs-mapping,,cbs.rtf
+601,429955,US: CBS 7 (WSPA) SPARTANBURG HD,US: CBS 7 (WSPA) SPARTANBURG,fixed,,,needs-mapping,,cbs.rtf
+601,429954,US: CBS 8 (KCCI) DES MOINES HD,US: CBS 8 (KCCI) DES MOINES,fixed,,,needs-mapping,,cbs.rtf
+601,429953,US: CBS 8 (KFMB) SAN DIEGO HD,US: CBS 8 (KFMB) SAN DIEGO,fixed,,,needs-mapping,,cbs.rtf
+601,429952,US: CBS 8 (KLAS) LAS VEGAS HD,US: CBS 8 (KLAS) LAS VEGAS,fixed,,,needs-mapping,,cbs.rtf
+601,429951,US: CBS 8 (KLST) SAN ANGELO HD,US: CBS 8 (KLST) SAN ANGELO,fixed,,,needs-mapping,,cbs.rtf
+601,429950,US: CBS 8 (KNOE) MONROE\u00c2\u20ac\u201cEL DORADO HD,US: CBS 8 (KNOE) MONROE\u00c2\u20ac\u201cEL DORADO,fixed,,,needs-mapping,,cbs.rtf
+601,429949,US: CBS 8 (WAKA) SELMA HD,US: CBS 8 (WAKA) SELMA,fixed,,,needs-mapping,,cbs.rtf
+601,429948,US: CBS 8 (WKBT) LA CROSSE HD,US: CBS 8 (WKBT) LA CROSSE,fixed,,,needs-mapping,,cbs.rtf
+601,429947,US: CBS 8 (WROC) ROCHESTER HD,US: CBS 8 (WROC) ROCHESTER,fixed,WROC.us,WROC.us,mapped,,cbs.rtf
+601,429946,US: CBS 8 (WVLT) KNOXVILLE HD,US: CBS 8 (WVLT) KNOXVILLE,fixed,WVLT.us,WVLT.us,mapped,,cbs.rtf
+601,429945,US: CBS 9 (KCAL) LOS ANGELES HD,US: CBS 9 (KCAL) LOS ANGELES,fixed,,,needs-mapping,,cbs.rtf
+601,429944,US: CBS 9 (KCAL) LOS ANGELES HD,US: CBS 9 (KCAL) LOS ANGELES,fixed,,,needs-mapping,,cbs.rtf
+601,429943,US: CBS 9 (KWTV) OKLAHOMA CITY HD,US: CBS 9 (KWTV) OKLAHOMA CITY,fixed,,,needs-mapping,,cbs.rtf
+601,429942,US: CBS 9 (WNCT) GREENVILLE HD,US: CBS 9 (WNCT) GREENVILLE,fixed,,,needs-mapping,,cbs.rtf
+601,429941,US: CBS 9 (WUSA) WASHINGTON HD,US: CBS 9 (WUSA) WASHINGTON,fixed,,,needs-mapping,,cbs.rtf
+601,429940,US: CBS 9 (WWTV) CADILLAC HD,US: CBS 9 (WWTV) CADILLAC,fixed,WWTV.us,WWTV.us,mapped,,cbs.rtf
+601,430121,US: CBS 10 (KFDA) AMARILLO HD,US: CBS 10 (KFDA) AMARILLO,fixed,,,needs-mapping,,cbs.rtf
+601,430120,US: CBS 10 (KLFY) LAFAYETTE HD,US: CBS 10 (KLFY) LAFAYETTE,fixed,,,needs-mapping,,cbs.rtf
+601,430119,US: CBS 10 (KOLN) LINCOLN HD,US: CBS 10 (KOLN) LINCOLN,fixed,KOLN.us,KOLN.us,mapped,,cbs.rtf
+601,430118,US: CBS 10 (KOLR) SPRINGFIELD HD,US: CBS 10 (KOLR) SPRINGFIELD,fixed,,,needs-mapping,,cbs.rtf
+601,430117,US: CBS 10 (KTVL) MEDFORD HD,US: CBS 10 (KTVL) MEDFORD,fixed,,,needs-mapping,,cbs.rtf
+601,430116,US: CBS 10 (KWTX) WACO HD,US: CBS 10 (KWTX) WACO,fixed,KWTX.us,KWTX.us,mapped,,cbs.rtf
+601,430114,US: CBS 10 (WBNS) COLUMBHD,US: CBS 10 (WBNS) COLUMBHD,fixed,,,needs-mapping,,cbs.rtf
+601,430115,US: CBS 10 (KZTV) CORPCHRISTI HD,US: CBS 10 (KZTV) CORPCHRISTI,fixed,,,needs-mapping,,cbs.rtf
+601,430113,US: CBS 10 (WTAJ) ALTOONA HD,US: CBS 10 (WTAJ) ALTOONA,fixed,,,needs-mapping,,cbs.rtf
+601,430112,US: CBS 10 (WTHI) TERRE HAUTE HD,US: CBS 10 (WTHI) TERRE HAUTE,fixed,,,needs-mapping,,cbs.rtf
+601,430111,US: CBS 10 (WTSP) ST. PETERSBURG HD,US: CBS 10 (WTSP) ST. PETERSBURG,fixed,,,needs-mapping,,cbs.rtf
+601,534012,US: CBS 10 TAMPA FL (WTSP) HD,US: CBS 10 TAMPA FL (WTSP),fixed,,,needs-mapping,,cbs.rtf
+601,538470,US: CBS 10 CORPUS CHRISTI TX (KZTV) HD,US: CBS 10 CORPUS CHRISTI TX (KZTV),fixed,,,needs-mapping,,cbs.rtf
+601,430110,US: CBS 11 (KCLO) RAPID CITY HD,US: CBS 11 (KCLO) RAPID CITY,fixed,,,needs-mapping,,cbs.rtf
+601,430109,US: CBS 11 (KELO) SIOUX FALLS HD,US: CBS 11 (KELO) SIOUX FALLS,fixed,,,needs-mapping,,cbs.rtf
+601,430108,US: CBS 11 (KHOU) HOUSTON HD,US: CBS 11 (KHOU) HOUSTON,fixed,,,needs-mapping,,cbs.rtf
+601,417448,US: CBS 11 LITTLE ROCK AR (KTHV),US: CBS 11 LITTLE ROCK AR (KTHV),fixed,KTHV.us,KTHV.us,mapped,,cbs.rtf
+601,430106,US: CBS 11 (KMVT) TWIN FALLS HD,US: CBS 11 (KMVT) TWIN FALLS,fixed,,,needs-mapping,,cbs.rtf
+601,411639,US: CBS 11 LITTLE ROCK AR (KTHV) HD,US: CBS 11 LITTLE ROCK AR (KTHV),fixed,KTHV.us,KTHV.us,mapped,,cbs.rtf
+601,430107,US: CBS 11 (KKTV) COLORADO SPRINGS HD,US: CBS 11 (KKTV) COLORADO SPRINGS,fixed,KKTV.us,KKTV.us,mapped,,cbs.rtf
+601,430105,US: CBS 11 (KTHV) LITTLE ROCK HD,US: CBS 11 (KTHV) LITTLE ROCK,fixed,KTHV.us,KTHV.us,mapped,,cbs.rtf
+601,430104,US: CBS 11 (KTVT) FORT WORTH HD,US: CBS 11 (KTVT) FORT WORTH,fixed,KTVT.us,KTVT.us,mapped,,cbs.rtf
+601,430103,US: CBS 11 (WINK) FORT MYERS HD,US: CBS 11 (WINK) FORT MYERS,fixed,,,needs-mapping,,cbs.rtf
+601,430102,US: CBS 11 (WJHL) JOHNSON CITY HD,US: CBS 11 (WJHL) JOHNSON CITY,fixed,,,needs-mapping,,cbs.rtf
+601,430101,US: CBS 11 (WTOC) SAVANNAH HD,US: CBS 11 (WTOC) SAVANNAH,fixed,WTOC.us,WTOC.us,mapped,,cbs.rtf
+601,430100,US: CBS 11 (WTOL) TOLEDO HD,US: CBS 11 (WTOL) TOLEDO,fixed,WTOL.us,WTOL.us,mapped,,cbs.rtf
+601,430099,US: CBS 12 (KCOY) SANTA MARIA HD,US: CBS 12 (KCOY) SANTA MARIA,fixed,,,needs-mapping,,cbs.rtf
+601,430098,US: CBS 12 (KFVS) CAPE GIRARDEAU HD,US: CBS 12 (KFVS) CAPE GIRARDEAU,fixed,,,needs-mapping,,cbs.rtf
+601,430097,US: CBS 12 (KSLA) SHREVEPORT HD,US: CBS 12 (KSLA) SHREVEPORT,fixed,KSLA.us,KSLA.us,mapped,,cbs.rtf
+601,430096,US: CBS 12 (KWCH) HUTCHINSON HD,US: CBS 12 (KWCH) HUTCHINSON,fixed,,,needs-mapping,,cbs.rtf
+601,430095,US: CBS 12 (KXII) SHERMAN HD,US: CBS 12 (KXII) SHERMAN,fixed,,,needs-mapping,,cbs.rtf
+601,430094,US: CBS 12 (WBNG) BINGHAMTON HD,US: CBS 12 (WBNG) BINGHAMTON,fixed,,,needs-mapping,,cbs.rtf
+601,430093,US: CBS 12 (WDEF) CHATTANOOGA HD,US: CBS 12 (WDEF) CHATTANOOGA,fixed,WDEF.us,WDEF.us,mapped,,cbs.rtf
+601,430092,US: CBS 12 (WJTV) JACKSON HD,US: CBS 12 (WJTV) JACKSON,fixed,,,needs-mapping,,cbs.rtf
+601,430091,US: CBS 12 (WKRC) CINCINNATI HD,US: CBS 12 (WKRC) CINCINNATI,fixed,,,needs-mapping,,cbs.rtf
+601,430090,US: CBS 12 (WPEC) WEST PALM BEACH HD,US: CBS 12 (WPEC) WEST PALM BEACH,fixed,WPEC.us,WPEC.us,mapped,,cbs.rtf
+601,430089,US: CBS 12 (WPRI) PROVIDENCE HD,US: CBS 12 (WPRI) PROVIDENCE,fixed,WPRI.us,WPRI.us,mapped,,cbs.rtf
+601,430088,US: CBS 12 (WRDW) AUGUSTA HD,US: CBS 12 (WRDW) AUGUSTA,fixed,,,needs-mapping,,cbs.rtf
+601,1574920,US: CBS 12 (KHSL) CHICO \/ REDDING,US: CBS 12 (KHSL) CHICO \/ REDDING,fixed,,,needs-mapping,,cbs.rtf
+601,430086,US: CBS 13 (KOVR) STOCKTON HD,US: CBS 13 (KOVR) STOCKTON,fixed,,,needs-mapping,,cbs.rtf
+601,430087,US: CBS 13 (KOLD) TUCSON HD,US: CBS 13 (KOLD) TUCSON,fixed,,,needs-mapping,,cbs.rtf
+601,430085,US: CBS 13 (KRQE) ALBUQUERQUE HD,US: CBS 13 (KRQE) ALBUQUERQUE,fixed,KRQE.us,KRQE.us,mapped,,cbs.rtf
+601,430084,US: CBS 13 (KVAL) EUGENE HD,US: CBS 13 (KVAL) EUGENE,fixed,,,needs-mapping,,cbs.rtf
+601,430083,US: CBS 13 (KXMC) MINOT HD,US: CBS 13 (KXMC) MINOT,fixed,,,needs-mapping,,cbs.rtf
+601,430082,US: CBS 13 (WBTW) FLORENCE HD,US: CBS 13 (WBTW) FLORENCE,fixed,,,needs-mapping,,cbs.rtf
+601,430081,US: CBS 13 (WGME) PORTLAND HD,US: CBS 13 (WGME) PORTLAND,fixed,,,needs-mapping,,cbs.rtf
+601,430080,US: CBS 13 (WIBW) TOPEKA HD,US: CBS 13 (WIBW) TOPEKA,fixed,,,needs-mapping,,cbs.rtf
+601,430078,US: CBS 13 (WLOX-DT2) GULFPORT HD,US: CBS 13 (WLOX-DT2) GULFPORT,fixed,,,needs-mapping,,cbs.rtf
+601,754905,US: CBS 13 JEFFERSON CITY MO (KRCG),US: CBS 13 JEFFERSON CITY MO (KRCG),fixed,KRCG.us,KRCG.us,mapped,,cbs.rtf
+601,430079,US: CBS 13 (WJZ) BALTIMORE HD,US: CBS 13 (WJZ) BALTIMORE,fixed,,,needs-mapping,,cbs.rtf
+601,430077,US: CBS 13 (WMAZ) GEORGIA   (P) HD,US: CBS 13 (WMAZ) GEORGIA (P),fixed,,,needs-mapping,,cbs.rtf
+601,430076,US: CBS 13 (WMAZ) MACON HD,US: CBS 13 (WMAZ) MACON,fixed,,,needs-mapping,,cbs.rtf
+601,430074,US: CBS 13 (WSVF-CD2) HARRISONBURG HD,US: CBS 13 (WSVF-CD2) HARRISONBURG,fixed,,,needs-mapping,,cbs.rtf
+601,430075,US: CBS 13 (WOWK) HUNTINGTON HD,US: CBS 13 (WOWK) HUNTINGTON,fixed,,,needs-mapping,,cbs.rtf
+601,488590,US: CBS 13 SACRAMENTO CA (KOVR),US: CBS 13 SACRAMENTO CA (KOVR),fixed,,,needs-mapping,,cbs.rtf
+601,430073,US: CBS 14 (KMEG) SIOUX CITY HD,US: CBS 14 (KMEG) SIOUX CITY,fixed,,,needs-mapping,,cbs.rtf
+601,430072,US: CBS 15 (WANE) FORT WAYNE HD,US: CBS 15 (WANE) FORT WAYNE,fixed,,,needs-mapping,,cbs.rtf
+601,430071,US: CBS 17 (KSWL-LD) LAKE CHARLES HD,US: CBS 17 (KSWL-LD) LAKE CHARLES,fixed,,,needs-mapping,,cbs.rtf
+601,430070,US: CBS 17 (WNCN) GOLDSBORO HD,US: CBS 17 (WNCN) GOLDSBORO,fixed,,,needs-mapping,,cbs.rtf
+601,430069,US: CBS 18 (WECP-LD) PANAMA CITY HD,US: CBS 18 (WECP-LD) PANAMA CITY,fixed,,,needs-mapping,,cbs.rtf
+601,430068,US: CBS 18 (WLFI-DT) LAFAYETTE HD,US: CBS 18 (WLFI-DT) LAFAYETTE,fixed,,,needs-mapping,,cbs.rtf
+601,430067,US: CBS 19 (KYTX) LONGVIEW HD,US: CBS 19 (KYTX) LONGVIEW,fixed,,,needs-mapping,,cbs.rtf
+601,430066,US: CBS 19 (KYTX) TYLER   (P) HD,US: CBS 19 (KYTX) TYLER (P),fixed,,,needs-mapping,,cbs.rtf
+601,430065,US: CBS 19 (WCAV) CHARLOTTESVILLE HD,US: CBS 19 (WCAV) CHARLOTTESVILLE,fixed,,,needs-mapping,,cbs.rtf
+601,430064,US: CBS 19 (WHNT) HUNTSVILLE HD,US: CBS 19 (WHNT) HUNTSVILLE,fixed,,,needs-mapping,,cbs.rtf
+601,430063,US: CBS 19 (WLTX) COLUMBIA HD,US: CBS 19 (WLTX) COLUMBIA,fixed,,,needs-mapping,,cbs.rtf
+601,430062,US: CBS 19 (WOIO) SHAKER HEIGHTS HD,US: CBS 19 (WOIO) SHAKER HEIGHTS,fixed,,,needs-mapping,,cbs.rtf
+601,585495,US: CBS 19 (WOIO) Cleveland (F),US: CBS 19 (WOIO) Cleveland (F),fixed,,,needs-mapping,,cbs.rtf
+601,585493,US:CBS 19 CLEVELAND OH (WOIO),US:CBS 19 CLEVELAND OH (WOIO),fixed,,,needs-mapping,,cbs.rtf
+601,430049,US: CBS 21 (WHP) HARRISBURG HD,US: CBS 21 (WHP) HARRISBURG,fixed,,,needs-mapping,,cbs.rtf
+601,430047,US: CBS 22 (WSBT) SOUTH BEND HD,US: CBS 22 (WSBT) SOUTH BEND,fixed,,,needs-mapping,,cbs.rtf
+601,430048,US: CBS 22 (WHLT) HATTIESBURG HD,US: CBS 22 (WHLT) HATTIESBURG,fixed,,,needs-mapping,,cbs.rtf
+601,430046,US: CBS 22 (WYOU) SCRANTON HD,US: CBS 22 (WYOU) SCRANTON,fixed,,,needs-mapping,,cbs.rtf
+601,430045,US: CBS 23 (WIFR-LD) ROCKFORD HD,US: CBS 23 (WIFR-LD) ROCKFORD,fixed,,,needs-mapping,,cbs.rtf
+601,430044,US: CBS 24 (WMDN) MERIDIAN HD,US: CBS 24 (WMDN) MERIDIAN,fixed,,,needs-mapping,,cbs.rtf
+601,430042,US: CBS 27 (WKBN) YOUNGSTOWN HD,US: CBS 27 (WKBN) YOUNGSTOWN,fixed,,,needs-mapping,,cbs.rtf
+601,430041,US: CBS 27 (WKYT) LEXINGTON HD,US: CBS 27 (WKYT) LEXINGTON,fixed,,,needs-mapping,,cbs.rtf
+601,430040,US: CBS 29 (KBAK) BAKERSFIELD HD,US: CBS 29 (KBAK) BAKERSFIELD,fixed,KBAK.us,KBAK.us,mapped,,cbs.rtf
+601,430039,US: CBS 29 (KIMA) YAKIMA HD,US: CBS 29 (KIMA) YAKIMA,fixed,,,needs-mapping,,cbs.rtf
+601,430021,US: CBS 30 (KXJB) FARGO   (P) HD,US: CBS 30 (KXJB) FARGO (P),fixed,,,needs-mapping,,cbs.rtf
+601,430020,US: CBS 30 (KXJB) FARGO HD,US: CBS 30 (KXJB) FARGO,fixed,,,needs-mapping,,cbs.rtf
+601,430019,US: CBS 31 (WMBD) PEORIA HD,US: CBS 31 (WMBD) PEORIA,fixed,,,needs-mapping,,cbs.rtf
+601,430018,US: CBS 32 (KTAB) ABILENE HD,US: CBS 32 (KTAB) ABILENE,fixed,,,needs-mapping,,cbs.rtf
+601,430017,US: CBS 32 (WLKY) LOUISVILLE HD,US: CBS 32 (WLKY) LOUISVILLE,fixed,WLKY.us,WLKY.us,mapped,,cbs.rtf
+601,430016,US: CBS 35 (WOHL-CD2) LIMA HD,US: CBS 35 (WOHL-CD2) LIMA,fixed,,,needs-mapping,,cbs.rtf
+601,430015,US: CBS 35 (WSEE) ERIE HD,US: CBS 35 (WSEE) ERIE,fixed,,,needs-mapping,,cbs.rtf
+601,430014,US: CBS 39 (KJNB-LD2) JONESBORO HD,US: CBS 39 (KJNB-LD2) JONESBORO,fixed,,,needs-mapping,,cbs.rtf
+601,429999,US: CBS 40 (WNKY-DT2) BOWLING GREEN HD,US: CBS 40 (WNKY-DT2) BOWLING GREEN,fixed,,,needs-mapping,,cbs.rtf
+601,429998,US: CBS 42 (KEYE) AUSTIN HD,US: CBS 42 (KEYE) AUSTIN,fixed,,,needs-mapping,,cbs.rtf
+601,429997,US: CBS 42 (WIAT) BIRMINGHAM HD,US: CBS 42 (WIAT) BIRMINGHAM,fixed,WIAT.us,WIAT.us,mapped,,cbs.rtf
+601,429996,US: CBS 44 (WEVV) EVANSVILLE HD,US: CBS 44 (WEVV) EVANSVILLE,fixed,WEVV.us,WEVV.us,mapped,,cbs.rtf
+601,429995,US: CBS 46 (KION) MONTEREY HD,US: CBS 46 (KION) MONTEREY,fixed,,,needs-mapping,,cbs.rtf
+601,429994,US: CBS 46 (WGCL) ATLANTA HD,US: CBS 46 (WGCL) ATLANTA,fixed,WANF.us,WANF.us,mapped,,cbs.rtf
+601,429993,US: CBS 47 (KGPE) FRESNO HD,US: CBS 47 (KGPE) FRESNO,fixed,KGPE.us,KGPE.us,mapped,,cbs.rtf
+601,429992,US: CBS 47 (WJAX) JACKSONVILLE HD,US: CBS 47 (WJAX) JACKSONVILLE,fixed,WJAX.us,WJAX.us,mapped,,cbs.rtf
+601,429976,US: CBS 57 (WYMT-DT) HAZARD HD,US: CBS 57 (WYMT-DT) HAZARD,fixed,,,needs-mapping,,cbs.rtf
+601,429975,US: CBS 58 (WDJT) MILWAUKEE HD,US: CBS 58 (WDJT) MILWAUKEE,fixed,,,needs-mapping,,cbs.rtf
+601,429965,US: CBS 62 (WWJ) DETROIT HD,US: CBS 62 (WWJ) DETROIT,fixed,WWJ.us,WWJ.us,mapped,,cbs.rtf
+601,429939,US: CBS SPORTS NETWORK HD,US: CBS SPORTS NETWORK,fixed,CBSSportsNetwork.us,CBSSportsNetwork.us,mapped,,cbs.rtf
+601,429938,US: CBS SPORTS NETWORK HD,US: CBS SPORTS NETWORK,fixed,CBSSportsNetwork.us,CBSSportsNetwork.us,mapped,,cbs.rtf
+601,429937,US: CBS SPORTS NETWORK HD,US: CBS SPORTS NETWORK,fixed,CBSSportsNetwork.us,CBSSportsNetwork.us,mapped,,cbs.rtf
+601,429936,US: CBS WLNY HD,US: CBS WLNY,fixed,,,needs-mapping,,cbs.rtf
+601,429934,US: CBS (KPHO),US: CBS (KPHO),fixed,,,needs-mapping,,cbs.rtf
+601,429933,US: CBS (KPIX) SAN FRANCISCO CALIFORNIA,US: CBS (KPIX) SAN FRANCISCO CALIFORNIA,fixed,,,needs-mapping,,cbs.rtf
+601,429932,US: CBS (KRQE) ALBUQUERQUE NEW MEXICO,US: CBS (KRQE) ALBUQUERQUE NEW MEXICO,fixed,,,needs-mapping,,cbs.rtf
+601,429930,US: CBS (KTXA),US: CBS (KTXA),fixed,,,needs-mapping,,cbs.rtf
+601,429931,US: CBS (KTVT),US: CBS (KTVT),fixed,,,needs-mapping,,cbs.rtf
+601,429929,US: CBS (KWTV),US: CBS (KWTV),fixed,,,needs-mapping,,cbs.rtf
+601,429928,US: CBS (KYW),US: CBS (KYW),fixed,,,needs-mapping,,cbs.rtf
+601,429927,US: CBS (WBBM),US: CBS (WBBM),fixed,,,needs-mapping,,cbs.rtf
+601,429926,US: CBS (WBTV),US: CBS (WBTV),fixed,,,needs-mapping,,cbs.rtf
+601,429925,US: CBS (WBZ),US: CBS (WBZ),fixed,,,needs-mapping,,cbs.rtf
+601,429924,US: CBS (WCBS),US: CBS (WCBS),fixed,,,needs-mapping,,cbs.rtf
+601,429923,US: CBS (WCCO),US: CBS (WCCO),fixed,,,needs-mapping,,cbs.rtf
+601,429922,US: CBS (WFOR),US: CBS (WFOR),fixed,,,needs-mapping,,cbs.rtf
+601,429921,US: CBS (WGCL),US: CBS (WGCL),fixed,,,needs-mapping,,cbs.rtf
+601,429918,US: CBS (WJZ),US: CBS (WJZ),fixed,,,needs-mapping,,cbs.rtf
+601,429917,US: CBS (WKRC),US: CBS (WKRC),fixed,,,needs-mapping,,cbs.rtf
+601,429916,US: CBS (WLNY),US: CBS (WLNY),fixed,,,needs-mapping,,cbs.rtf
+601,429914,US: CBS (WTVF),US: CBS (WTVF),fixed,,,needs-mapping,,cbs.rtf
+601,429913,US: CBS (WUSA),US: CBS (WUSA),fixed,,,needs-mapping,,cbs.rtf
+601,429912,US: CBS (WWJ),US: CBS (WWJ),fixed,,,needs-mapping,,cbs.rtf
+601,429911,US: CBS (WWL),US: CBS (WWL),fixed,,,needs-mapping,,cbs.rtf
+601,429910,US: CBS SPORTS USA,US: CBS SPORTS USA,fixed,,,needs-mapping,,cbs.rtf
+601,429920,US: CBS (WGME) PORTLAND MAINE,US: CBS (WGME) PORTLAND MAINE,fixed,KOIN.us,KOIN.us,mapped,,cbs.rtf
+601,429919,US: CBS (WINK) FORT MYERS FLORIDA,US: CBS (WINK) FORT MYERS FLORIDA,fixed,,,needs-mapping,,cbs.rtf
+601,429915,US: CBS (WNCN) GOLDSBORO NORTH CAROLINA,US: CBS (WNCN) GOLDSBORO NORTH CAROLINA,fixed,KREX.us,KREX.us,mapped,,cbs.rtf
+601,577490,US: SBC FRESNO (KGPE),US: SBC FRESNO (KGPE),fixed,,,needs-mapping,,cbs.rtf
+601,577489,US:  California CBS (KOVR) Sacramento,US: California CBS (KOVR) Sacramento,fixed,,,needs-mapping,,cbs.rtf
+598,429596,##### FOX \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2 #####,FOX \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2,fixed,,,needs-mapping,,FOX.rtf
+598,429593,US: FOX NEWS. UHD,US: FOX NEWS.,fixed,FoxNews.us,FoxNews.us,mapped,,FOX.rtf
+598,429594,US: FOX NEWS HD,US: FOX NEWS,fixed,foxnews.us,foxnews.us,mapped,,FOX.rtf
+598,429592,US: FOX NEWS HD,US: FOX NEWS,fixed,FoxNews.us,FoxNews.us,mapped,,FOX.rtf
+598,890808,US: FOX WEATHER HD,US: FOX WEATHER,fixed,FoxWeather.us,FoxWeather.us,mapped,,FOX.rtf
+598,429591,US: FOX NEWS CHANNEL 4K,US: FOX NEWS CHANNEL,fixed,FoxNews.us,FoxNews.us,mapped,,FOX.rtf
+598,429590,US: FOX SPORTS 1 4K,US: FOX SPORTS 1,fixed,FoxSports1.us,FoxSports1.us,mapped,,FOX.rtf
+598,429595,US: FOX BUSINESS NETWORK HD,US: FOX BUSINESS NETWORK,fixed,foxbusiness.us,foxbusiness.us,mapped,,FOX.rtf
+598,429589,US: FOX SPORTS 2 4K,US: FOX SPORTS 2,fixed,FoxSports2.us,FoxSports2.us,mapped,,FOX.rtf
+598,429588,US: FOX SPORTS 1 HD,US: FOX SPORTS 1,fixed,FoxSports1.us,FoxSports1.us,mapped,,FOX.rtf
+598,429587,US: FOX SPORTS 2 HD,US: FOX SPORTS 2,fixed,FoxSports2.us,FoxSports2.us,mapped,,FOX.rtf
+598,429586,US: FOX SPORTS 1,US: FOX SPORTS 1,fixed,FoxSports1.us,FoxSports1.us,mapped,,FOX.rtf
+598,429585,US: FOX SPORTS 2,US: FOX SPORTS 2,fixed,,,needs-mapping,,FOX.rtf
+598,429581,US: FOX SPORTS COLLEGE ATLANTIC HD,US: FOX SPORTS COLLEGE ATLANTIC,fixed,,,needs-mapping,,FOX.rtf
+598,429580,US: FOX SPORTS COLLEGE CENTRAL HD,US: FOX SPORTS COLLEGE CENTRAL,fixed,,,needs-mapping,,FOX.rtf
+598,429579,US: FOX SPORTS COLLEGE PACIFIC HD,US: FOX SPORTS COLLEGE PACIFIC,fixed,,,needs-mapping,,FOX.rtf
+598,429578,US: FOX SPORTS DETROIT HD,US: FOX SPORTS DETROIT,fixed,,,needs-mapping,,FOX.rtf
+598,429577,US: FOX SPORTS FLORIDA HD,US: FOX SPORTS FLORIDA,fixed,,,needs-mapping,,FOX.rtf
+598,429576,US: FOX SPORTS MID WEST HD,US: FOX SPORTS MID WEST,fixed,,,needs-mapping,,FOX.rtf
+598,429575,US: FOX SPORTS NORTH HD,US: FOX SPORTS NORTH,fixed,,,needs-mapping,,FOX.rtf
+598,429574,US: FOX SPORTS PRIME TICKET HD,US: FOX SPORTS PRIME TICKET,fixed,,,needs-mapping,,FOX.rtf
+598,429573,US: FOX SPORTS SAN DIEGO HD,US: FOX SPORTS SAN DIEGO,fixed,,,needs-mapping,,FOX.rtf
+598,429572,US: FOX SPORTS SOUTH EAST HD,US: FOX SPORTS SOUTH EAST,fixed,,,needs-mapping,,FOX.rtf
+598,429571,US: FOX SPORTS SOUTH HD,US: FOX SPORTS SOUTH,fixed,,,needs-mapping,,FOX.rtf
+598,429570,US: FOX SPORTS SOUTH WEST HD,US: FOX SPORTS SOUTH WEST,fixed,,,needs-mapping,,FOX.rtf
+598,429569,US: FOX SPORTS SUN HD,US: FOX SPORTS SUN,fixed,,,needs-mapping,,FOX.rtf
+598,429568,US: FOX SPORTS TENNESSEE HD,US: FOX SPORTS TENNESSEE,fixed,,,needs-mapping,,FOX.rtf
+598,429567,US: FOX SPORTS WEST HD,US: FOX SPORTS WEST,fixed,,,needs-mapping,,FOX.rtf
+598,429566,US: FOX 66 (WFXP) ERIE,US: FOX 66 (WFXP) ERIE,fixed,,,needs-mapping,,FOX.rtf
+598,429565,US: FOX SPORTS ARIZONA HD,US: FOX SPORTS ARIZONA,fixed,,,needs-mapping,,FOX.rtf
+598,429563,US: FOX SPORTS FLORIDA HD,US: FOX SPORTS FLORIDA,fixed,,,needs-mapping,,FOX.rtf
+598,429562,US: FOX SPORTS KANSAS CITY HD,US: FOX SPORTS KANSAS CITY,fixed,,,needs-mapping,,FOX.rtf
+598,429561,US: FOX SPORTS KANSAS CITY PL HD,US: FOX SPORTS KANSAS CITY PL,fixed,,,needs-mapping,,FOX.rtf
+598,429560,US: FOX SPORTS MIDWEST HD,US: FOX SPORTS MIDWEST,fixed,,,needs-mapping,,FOX.rtf
+598,429559,US: FOX SPORTS NETBASE HD,US: FOX SPORTS NETBASE,fixed,,,needs-mapping,,FOX.rtf
+598,429558,US: FOX SPORTS NORTH HD,US: FOX SPORTS NORTH,fixed,,,needs-mapping,,FOX.rtf
+598,429557,US: FOX SPORTS OHIO HD,US: FOX SPORTS OHIO,fixed,,,needs-mapping,,FOX.rtf
+598,429555,US: FOX SPORTS SAN DIEGO HD,US: FOX SPORTS SAN DIEGO,fixed,,,needs-mapping,,FOX.rtf
+598,429554,US: FOX SPORTS SOCCER HD,US: FOX SPORTS SOCCER,fixed,,,needs-mapping,,FOX.rtf
+598,429553,US: FOX SPORTS SOUTH HD,US: FOX SPORTS SOUTH,fixed,,,needs-mapping,,FOX.rtf
+598,429552,US: FOX SPORTS SOUTHEAST HD,US: FOX SPORTS SOUTHEAST,fixed,,,needs-mapping,,FOX.rtf
+598,429551,US: FOX SPORTS SOUTHWEST HD,US: FOX SPORTS SOUTHWEST,fixed,,,needs-mapping,,FOX.rtf
+598,429550,US: FOX SPORTS SOUTHWEST PL HD,US: FOX SPORTS SOUTHWEST PL,fixed,,,needs-mapping,,FOX.rtf
+598,429549,US: FOX SPORTS SPORTSTIME OHIO HD,US: FOX SPORTS SPORTSTIME OHIO,fixed,,,needs-mapping,,FOX.rtf
+598,429548,US: FOX SPORTS SUN HD,US: FOX SPORTS SUN,fixed,,,needs-mapping,,FOX.rtf
+598,429547,US: FOX SPORTS TENNESSEE HD,US: FOX SPORTS TENNESSEE,fixed,,,needs-mapping,,FOX.rtf
+598,429546,US: FOX SPORTS WEST HD,US: FOX SPORTS WEST,fixed,,,needs-mapping,,FOX.rtf
+598,429545,US: FOX SPORTS WISCONSIN HD,US: FOX SPORTS WISCONSIN,fixed,,,needs-mapping,,FOX.rtf
+598,429544,US: FOX SPORTS YES NETWORK HD,US: FOX SPORTS YES NETWORK,fixed,,,needs-mapping,,FOX.rtf
+598,429584,US: FOX DEPORTES,US: FOX DEPORTES,fixed,FoxDeportes.us,FoxDeportes.us,mapped,,FOX.rtf
+598,429583,US: FOX SOCCER PLUS HD,US: FOX SOCCER PLUS,fixed,FoxSoccerPlus.us,FoxSoccerPlus.us,mapped,,FOX.rtf
+598,429543,US: FOX NET [APLENA],US: FOX NET [APLENA],fixed,,,needs-mapping,,FOX.rtf
+598,429542,US: FOX NET [BINGHAMPTON NY],US: FOX NET [BINGHAMPTON NY],fixed,,,needs-mapping,,FOX.rtf
+598,429541,US: FOX NET [CHARLES LA],US: FOX NET [CHARLES LA],fixed,,,needs-mapping,,FOX.rtf
+598,429540,US: FOX NET [CHARLOTTESVILLE VA],US: FOX NET [CHARLOTTESVILLE VA],fixed,,,needs-mapping,,FOX.rtf
+598,429539,US: FOX NET [CLARKSBURG WV],US: FOX NET [CLARKSBURG WV],fixed,,,needs-mapping,,FOX.rtf
+598,429538,US: FOX NET [DOTHAN AL],US: FOX NET [DOTHAN AL],fixed,,,needs-mapping,,FOX.rtf
+598,429537,US: FOX NET [HARRISONBURG VA],US: FOX NET [HARRISONBURG VA],fixed,,,needs-mapping,,FOX.rtf
+598,429536,US: FOX NET [LUBBOCK TX],US: FOX NET [LUBBOCK TX],fixed,,,needs-mapping,,FOX.rtf
+598,429535,US: FOX NET [MARQUETTE MI],US: FOX NET [MARQUETTE MI],fixed,,,needs-mapping,,FOX.rtf
+598,429534,US: FOX NET [MEDFORD OR],US: FOX NET [MEDFORD OR],fixed,,,needs-mapping,,FOX.rtf
+598,429533,US: FOX NET [MINOT MD],US: FOX NET [MINOT MD],fixed,,,needs-mapping,,FOX.rtf
+598,429532,US: FOX NET [PANAMA CITY FL],US: FOX NET [PANAMA CITY FL],fixed,,,needs-mapping,,FOX.rtf
+598,429531,US: FOX NET [PARKERSBURG],US: FOX NET [PARKERSBURG],fixed,,,needs-mapping,,FOX.rtf
+598,429530,US: FOX NET [PRESQUE ISLE ME],US: FOX NET [PRESQUE ISLE ME],fixed,,,needs-mapping,,FOX.rtf
+598,429529,US: FOX NET [RAPID CITY],US: FOX NET [RAPID CITY],fixed,,,needs-mapping,,FOX.rtf
+598,429528,US: FOX NET [SAN ANGELO TX],US: FOX NET [SAN ANGELO TX],fixed,,,needs-mapping,,FOX.rtf
+598,429527,US: FOX NET [SHERMAN TX],US: FOX NET [SHERMAN TX],fixed,,,needs-mapping,,FOX.rtf
+598,429526,US: FOX NET [TWIN FALLS ID],US: FOX NET [TWIN FALLS ID],fixed,,,needs-mapping,,FOX.rtf
+598,429525,US: FOX NET [WAUSAU],US: FOX NET [WAUSAU],fixed,,,needs-mapping,,FOX.rtf
+598,429524,US: FOX NET [WILMINGTON NC],US: FOX NET [WILMINGTON NC],fixed,,,needs-mapping,,FOX.rtf
+598,429523,US: FOX NET [ABILENE TX],US: FOX NET [ABILENE TX],fixed,,,needs-mapping,,FOX.rtf
+598,429522,US: FOX SPORTS DEPORTES ,US: FOX SPORTS DEPORTES,fixed,,,needs-mapping,,FOX.rtf
+598,429520,US: FOX (KABB) SAN ANTONIO HD,US: FOX (KABB) SAN ANTONIO,fixed,,,needs-mapping,,FOX.rtf
+598,429519,US: FOX (KBFX) BAKERSFIELD HD,US: FOX (KBFX) BAKERSFIELD,fixed,,,needs-mapping,,FOX.rtf
+598,429518,US: FOX (KBSI) PADUCAH HD,US: FOX (KBSI) PADUCAH,fixed,,,needs-mapping,,FOX.rtf
+598,429517,US: FOX (KDSM) DES MOINES HD,US: FOX (KDSM) DES MOINES,fixed,,,needs-mapping,,FOX.rtf
+598,429516,US: FOX (KFOX) EL PASO HD,US: FOX (KFOX) EL PASO,fixed,,,needs-mapping,,FOX.rtf
+598,429515,US: FOX (KFXA) CEDAR RAPIDS HD ,US: FOX (KFXA) CEDAR RAPIDS,fixed,,,needs-mapping,,FOX.rtf
+598,429514,US: FOX (KFXL) LINCOLN HD ,US: FOX (KFXL) LINCOLN,fixed,,,needs-mapping,,FOX.rtf
+598,429513,US: FOX (KKFX) LOMPOC HD ,US: FOX (KKFX) LOMPOC,fixed,,,needs-mapping,,FOX.rtf
+598,429512,US: FOX (KMPH) FRESNO HD,US: FOX (KMPH) FRESNO,fixed,,,needs-mapping,,FOX.rtf
+598,429511,US: FOX (KOKH) OKLAHOMA CITY HD,US: FOX (KOKH) OKLAHOMA CITY,fixed,,,needs-mapping,,FOX.rtf
+598,429510,US: FOX (KPTM) OMAHA HD ,US: FOX (KPTM) OMAHA,fixed,,,needs-mapping,,FOX.rtf
+598,429509,US: FOX (KPTM) OMAHA HD ,US: FOX (KPTM) OMAHA,fixed,,,needs-mapping,,FOX.rtf
+598,429508,US: FOX (KRQE) ALBUQUERQUE HD ,US: FOX (KRQE) ALBUQUERQUE,fixed,,,needs-mapping,,FOX.rtf
+598,429507,US: FOX (KRXI) RENO HD ,US: FOX (KRXI) RENO,fixed,,,needs-mapping,,FOX.rtf
+598,429506,US: FOX (KSAS) WICHITA HD ,US: FOX (KSAS) WICHITA,fixed,,,needs-mapping,,FOX.rtf
+598,429505,US: FOX (KSCC) CORPCHRISTI HD ,US: FOX (KSCC) CORPCHRISTI,fixed,,,needs-mapping,,FOX.rtf
+598,429504,US: FOX (WACH) COLUMBIA HD,US: FOX (WACH) COLUMBIA,fixed,,,needs-mapping,,FOX.rtf
+598,429503,US: FOX (WBFF) BALTIMORE HD,US: FOX (WBFF) BALTIMORE,fixed,,,needs-mapping,,FOX.rtf
+598,429502,US: FOX (WDKY) LEXINGTON HD,US: FOX (WDKY) LEXINGTON,fixed,,,needs-mapping,,FOX.rtf
+598,429501,US: FOX (WEMT) TRI-CITIES HD ,US: FOX (WEMT) TRI-CITIES,fixed,,,needs-mapping,,FOX.rtf
+598,429500,US: FOX (WEVV) EVANSVILLE HD ,US: FOX (WEVV) EVANSVILLE,fixed,,,needs-mapping,,FOX.rtf
+598,429499,US: FOX (WEVV2) OWENSBORO HD ,US: FOX (WEVV2) OWENSBORO,fixed,,,needs-mapping,,FOX.rtf
+598,429498,US: FOX (WEVV2) OWENSBORO HD ,US: FOX (WEVV2) OWENSBORO,fixed,,,needs-mapping,,FOX.rtf
+598,429497,US: FOX (WGXA) MACON HD ,US: FOX (WGXA) MACON,fixed,,,needs-mapping,,FOX.rtf
+598,429496,US: FOX (WLUK) GREEN BAY HD,US: FOX (WLUK) GREEN BAY,fixed,,,needs-mapping,,FOX.rtf
+598,429495,US: FOX (WVAH) CHARLESTON HD,US: FOX (WVAH) CHARLESTON,fixed,,,needs-mapping,,FOX.rtf
+598,429494,US: FOX (WZTV) NASHVILLE HD,US: FOX (WZTV) NASHVILLE,fixed,,,needs-mapping,,FOX.rtf
+598,429467,US: FOX 2 (KTVI) ST. LOUIS HD,US: FOX 2 (KTVI) ST. LOUIS,fixed,KTVI.us,KTVI.us,mapped,,FOX.rtf
+598,429465,US: FOX 2 (WJBK) DETROIT HD,US: FOX 2 (WJBK) DETROIT,fixed,WJBK.us,WJBK.us,mapped,,FOX.rtf
+598,429468,US: FOX 2 (KHON) HONOLULU HD,US: FOX 2 (KHON) HONOLULU,fixed,,,needs-mapping,,FOX.rtf
+598,429335,US: FOX 2 HD [SAN FRANCISCO],US: FOX 2,fixed,,,needs-mapping,,FOX.rtf
+598,429427,US: FOX 4 (KDFW) DALLAS HD,US: FOX 4 (KDFW) DALLAS,fixed,KDFI.us,KDFI.us,mapped,,FOX.rtf
+598,429426,US: FOX 4 (WDAF) KANSAS CITY HD,US: FOX 4 (WDAF) KANSAS CITY,fixed,WDAF.us,WDAF.us,mapped,,FOX.rtf
+598,411635,US: FOX 4 BILLINGS MT (KHMT) HD,US: FOX 4 BILLINGS MT (KHMT),fixed,,,needs-mapping,,FOX.rtf
+598,411634,US: FOX 4 GRAND JUNCTION CO (KFQX) HD,US: FOX 4 GRAND JUNCTION CO (KFQX),fixed,KFQX.us,KFQX.us,mapped,,FOX.rtf
+598,429404,US: FOX 5 (WNYW) NEW YORK HD,US: FOX 5 (WNYW) NEW YORK,fixed,,,needs-mapping,,FOX.rtf
+598,429405,US: FOX 5 (WAGA) ATLANTA HD,US: FOX 5 (WAGA) ATLANTA,fixed,,,needs-mapping,,FOX.rtf
+598,429403,US: FOX 5 (WTTG) WASHINGTON HD,US: FOX 5 (WTTG) WASHINGTON,fixed,,,needs-mapping,,FOX.rtf
+598,429334,US: FOX 5 HD [SAN DIEGO],US: FOX 5,fixed,,,needs-mapping,,FOX.rtf
+598,429333,US: FOX 5 HD [SAN DIEGO],US: FOX 5,fixed,,,needs-mapping,,FOX.rtf
+598,429332,US: FOX 5 HD [LAS VEGAS],US: FOX 5,fixed,,,needs-mapping,,FOX.rtf
+598,429331,US: FOX 5 PLUS HD [WASHINGTON],US: FOX 5 PLUS,fixed,,,needs-mapping,,FOX.rtf
+598,429388,US: FOX 6 (WBRC) BIRMINGHAM HD,US: FOX 6 (WBRC) BIRMINGHAM,fixed,,,needs-mapping,,FOX.rtf
+598,429387,US: FOX 6 (WBRC) BIRMINGHAM HD,US: FOX 6 (WBRC) BIRMINGHAM,fixed,,,needs-mapping,,FOX.rtf
+598,429386,US: FOX 6 (WITI) MILWAUKEE HD,US: FOX 6 (WITI) MILWAUKEE,fixed,,,needs-mapping,,FOX.rtf
+598,429376,US: FOX 7 (KTBC) ATIN HD,US: FOX 7 (KTBC) ATIN,fixed,,,needs-mapping,,FOX.rtf
+598,429375,US: FOX 7 (WSVN) MIAMI HD,US: FOX 7 (WSVN) MIAMI,fixed,fox7wsvn.us,fox7wsvn.us,mapped,,FOX.rtf
+598,429330,US: FOX 7 HD [AUSTIN],US: FOX 7,fixed,,,needs-mapping,,FOX.rtf
+598,429374,US: FOX 8 (WGHP) HIGH POINT HD,US: FOX 8 (WGHP) HIGH POINT,fixed,,,needs-mapping,,FOX.rtf
+598,429373,US: FOX 8 (WJW) CLEVELAND HD,US: FOX 8 (WJW) CLEVELAND,fixed,WJW.us,WJW.us,mapped,,FOX.rtf
+598,429372,US: FOX 8 (WVUE) NEW ORLEANS HD,US: FOX 8 (WVUE) NEW ORLEANS,fixed,,,needs-mapping,,FOX.rtf
+598,429329,US: FOX 8 HD [GREENSBORO],US: FOX 8,fixed,,,needs-mapping,,FOX.rtf
+598,429371,US: FOX 9 (KMSP) MINNEAPOLIS HD,US: FOX 9 (KMSP) MINNEAPOLIS,fixed,,,needs-mapping,,FOX.rtf
+598,429370,US: FOX 9 (KNIN) CALDWELL HD,US: FOX 9 (KNIN) CALDWELL,fixed,,,needs-mapping,,FOX.rtf
+598,429369,US: FOX 9 (KNIN) CALDWELL HD,US: FOX 9 (KNIN) CALDWELL,fixed,,,needs-mapping,,FOX.rtf
+598,429328,US: FOX 9 PLUS HD [MINNEAPOLIS],US: FOX 9 PLUS,fixed,,,needs-mapping,,FOX.rtf
+598,429327,US: FOX 10 HD [ALABAMA],US: FOX 10,fixed,,,needs-mapping,,FOX.rtf
+598,429326,US: FOX 10 HD [MOBILE],US: FOX 10,fixed,WALA.us,WALA.us,mapped,,FOX.rtf
+598,429325,US: FOX 10 XTRA HD [PHOENIX],US: FOX 10 XTRA,fixed,,,needs-mapping,,FOX.rtf
+598,429493,US: FOX 10 (KSAZ) PHOENIX HD,US: FOX 10 (KSAZ) PHOENIX,fixed,KSAZ.us,KSAZ.us,mapped,,FOX.rtf
+598,429492,US: FOX 11 (KMSB) TUCSON HD,US: FOX 11 (KMSB) TUCSON,fixed,KMSB.us,KMSB.us,mapped,,FOX.rtf
+598,429491,US: FOX 11 (KRXI) RENO HD,US: FOX 11 (KRXI) RENO,fixed,,,needs-mapping,,FOX.rtf
+598,429490,US: FOX 11 (KRXI) RENO HD,US: FOX 11 (KRXI) RENO,fixed,,,needs-mapping,,FOX.rtf
+598,429489,US: FOX 11 (KTTV) LOS ANGELES HD,US: FOX 11 (KTTV) LOS ANGELES,fixed,,,needs-mapping,,FOX.rtf
+598,429488,US: FOX 11 (WLUK) GREEN BAY HD,US: FOX 11 (WLUK) GREEN BAY,fixed,WLUK.us,WLUK.us,mapped,,FOX.rtf
+598,429487,US: FOX 11 (WVAH) CHARLESTON HD,US: FOX 11 (WVAH) CHARLESTON,fixed,WCHSDT2.us,WCHSDT2.us,mapped,,FOX.rtf
+598,429486,US: FOX 12 (KPTV) PORTLAND HD,US: FOX 12 (KPTV) PORTLAND,fixed,KPTV.us,KPTV.us,mapped,,FOX.rtf
+598,429484,US: FOX 13 (KCPQ) TACOMA HD,US: FOX 13 (KCPQ) TACOMA,fixed,,,needs-mapping,,FOX.rtf
+598,429483,US: FOX 13 (KSTU) SALT LAKE CITY HD,US: FOX 13 (KSTU) SALT LAKE CITY,fixed,KSTU.us,KSTU.us,mapped,,FOX.rtf
+598,429482,US: FOX 13 (WHBQ) MEMPHIS HD,US: FOX 13 (WHBQ) MEMPHIS,fixed,WHBQ.us,WHBQ.us,mapped,,FOX.rtf
+598,429324,US: FOX 13 HD [ALBUQUERQUE],US: FOX 13,fixed,,,needs-mapping,,FOX.rtf
+598,429323,US: FOX 13 HD [SEATTLE],US: FOX 13,fixed,,,needs-mapping,,FOX.rtf
+598,429481,US: FOX 13 (WTVT) TAMPA HD,US: FOX 13 (WTVT) TAMPA,fixed,,,needs-mapping,,FOX.rtf
+598,429322,US: FOX 14 HD [JACKSON],US: FOX 14,fixed,,,needs-mapping,,FOX.rtf
+598,429480,US: FOX 14 (KFOX) EL PASO HD,US: FOX 14 (KFOX) EL PASO,fixed,KFOX.us,KFOX.us,mapped,,FOX.rtf
+598,429478,US: FOX 15 (KADN) LAFAYETTE HD,US: FOX 15 (KADN) LAFAYETTE,fixed,KADN.us,KADN.us,mapped,,FOX.rtf
+598,429477,US: FOX 15 (KADN) LAFAYETTE HD,US: FOX 15 (KADN) LAFAYETTE,fixed,KADN.us,KADN.us,mapped,,FOX.rtf
+598,429476,US: FOX 15 (KVRR) FARGO HD,US: FOX 15 (KVRR) FARGO,fixed,KVRR.us,KVRR.us,mapped,,FOX.rtf
+598,429475,US: FOX 16 (KLRT) LITTLE ROCK HD,US: FOX 16 (KLRT) LITTLE ROCK,fixed,KLRT.us,KLRT.us,mapped,,FOX.rtf
+598,417449,US: FOX 16 LITTLE ROCK AR (KLRT),US: FOX 16 LITTLE ROCK AR (KLRT),fixed,KLRT.us,KLRT.us,mapped,,FOX.rtf
+598,429473,US: FOX 17 (KTTW) SIOUX FALLS HD,US: FOX 17 (KTTW) SIOUX FALLS,fixed,,,needs-mapping,,FOX.rtf
+598,429474,US: FOX 17 (KDSM) DES MOINES HD,US: FOX 17 (KDSM) DES MOINES,fixed,,,needs-mapping,,FOX.rtf
+598,429472,US: FOX 17 (WXMI) GRAND RAPIDS HD,US: FOX 17 (WXMI) GRAND RAPIDS,fixed,WXMI.us,WXMI.us,mapped,,FOX.rtf
+598,429471,US: FOX 17 (WZTV) NASHVILLE HD,US: FOX 17 (WZTV) NASHVILLE,fixed,,,needs-mapping,,FOX.rtf
+598,429470,US: FOX 18 (KLJB) DAVENPORT HD,US: FOX 18 (KLJB) DAVENPORT,fixed,KLJB.us,KLJB.us,mapped,,FOX.rtf
+598,429469,US: FOX 19 (WXIX) NEWPORT HD,US: FOX 19 (WXIX) NEWPORT,fixed,,,needs-mapping,,FOX.rtf
+598,429321,US: FOX 19 HD [CINCINNATI],US: FOX 19,fixed,,,needs-mapping,,FOX.rtf
+598,1574922,US: FOX 20 (KCVU) CHICO \/ REDDING,US: FOX 20 (KCVU) CHICO \/ REDDING,fixed,,,needs-mapping,,FOX.rtf
+598,429319,US: FOX 21 HD [GREENVILLE SC],US: FOX 21,fixed,,,needs-mapping,,FOX.rtf
+598,429320,US: FOX 21 HD [ASHEVILLE],US: FOX 21,fixed,,,needs-mapping,,FOX.rtf
+598,429464,US: FOX 21 (KXRM) COLORADO SPRINGS HD,US: FOX 21 (KXRM) COLORADO SPRINGS,fixed,KXRM.us,KXRM.us,mapped,,FOX.rtf
+598,754904,US: FOX 22 COLUMBIA MO (KQFX) HD,US: FOX 22 COLUMBIA MO (KQFX),fixed,,,needs-mapping,,FOX.rtf
+598,429463,US: FOX 22 (WSBT) SOUTH BEND  HD,US: FOX 22 (WSBT) SOUTH BEND,fixed,,,needs-mapping,,FOX.rtf
+598,429462,US: FOX 23 (KBSI) CAPE GIRARDEAU HD,US: FOX 23 (KBSI) CAPE GIRARDEAU,fixed,,,needs-mapping,,FOX.rtf
+598,429461,US: FOX 23 (KOKI) TULSA HD,US: FOX 23 (KOKI) TULSA,fixed,,,needs-mapping,,FOX.rtf
+598,429460,US: FOX 23 (WPFO) PORTLAND HD,US: FOX 23 (WPFO) PORTLAND,fixed,,,needs-mapping,,FOX.rtf
+598,429459,US: FOX 23 (WXXA) ALBANY HD,US: FOX 23 (WXXA) ALBANY,fixed,WXXA.us,WXXA.us,mapped,,FOX.rtf
+598,429458,US: FOX 24 (KSAS) WICHITA HD,US: FOX 24 (KSAS) WICHITA,fixed,KSAS.us,KSAS.us,mapped,,FOX.rtf
+598,429318,US: FOX 24 HD [FORT SMITH],US: FOX 24,fixed,,,needs-mapping,,FOX.rtf
+598,429457,US: FOX 24 (WGXA) MACON HD,US: FOX 24 (WGXA) MACON,fixed,,,needs-mapping,,FOX.rtf
+598,429456,US: FOX 24 (WTAT) CHARLESTON HD,US: FOX 24 (WTAT) CHARLESTON,fixed,WTAT.us,WTAT.us,mapped,,FOX.rtf
+598,429455,US: FOX 25 (KOKH) OKLAHOMA CITY HD,US: FOX 25 (KOKH) OKLAHOMA CITY,fixed,KOKH.us,KOKH.us,mapped,,FOX.rtf
+598,429454,US: FOX 25 (WFXT) BOSTON HD,US: FOX 25 (WFXT) BOSTON,fixed,WFXT.us,WFXT.us,mapped,,FOX.rtf
+598,429453,US: FOX 25 (WLAX) EAU CLAIRE HD ,US: FOX 25 (WLAX) EAU CLAIRE,fixed,,,needs-mapping,,FOX.rtf
+598,429452,US: FOX 25 (WLAX) EAU CLAIRE HD ,US: FOX 25 (WLAX) EAU CLAIRE,fixed,,,needs-mapping,,FOX.rtf
+598,429451,US: FOX 26 (KMPH) FRESNO HD,US: FOX 26 (KMPH) FRESNO,fixed,KMPH.us,KMPH.us,mapped,,FOX.rtf
+598,429450,US: FOX 26 (KRIV) HOUSTON HD,US: FOX 26 (KRIV) HOUSTON,fixed,,,needs-mapping,,FOX.rtf
+598,429449,US: FOX 27 (WFXR) ROANOKE HD,US: FOX 27 (WFXR) ROANOKE,fixed,,,needs-mapping,,FOX.rtf
+598,429448,US: FOX 28 (KAYU) SPOKANE HD,US: FOX 28 (KAYU) SPOKANE,fixed,,,needs-mapping,,FOX.rtf
+598,429447,US: FOX 28 (KAYU) SPOKANE HD,US: FOX 28 (KAYU) SPOKANE,fixed,,,needs-mapping,,FOX.rtf
+598,429446,US: FOX 28 (WTGS) HARDEEVILLE HD  ,US: FOX 28 (WTGS) HARDEEVILLE,fixed,,,needs-mapping,,FOX.rtf
+598,429445,US: FOX 28 (WTTE) COLUMBHD,US: FOX 28 (WTTE) COLUMBHD,fixed,WTTE.us,WTTE.us,mapped,,FOX.rtf
+598,429444,US: FOX 29 (KABB) SAN ANTONIO HD,US: FOX 29 (KABB) SAN ANTONIO,fixed,,,needs-mapping,,FOX.rtf
+598,429317,US: FOX 29 HD [BUFFALO],US: FOX 29,fixed,,,needs-mapping,,FOX.rtf
+598,429316,US: FOX 29 HD [PALM BEACH],US: FOX 29,fixed,,,needs-mapping,,FOX.rtf
+598,429443,US: FOX 29 (WFLX) WEST PALM BEACH HD,US: FOX 29 (WFLX) WEST PALM BEACH,fixed,WFLX.us,WFLX.us,mapped,,FOX.rtf
+598,429442,US: FOX 29 (WFLX) WEST PALM BEACH HD,US: FOX 29 (WFLX) WEST PALM BEACH,fixed,WFLX.us,WFLX.us,mapped,,FOX.rtf
+598,429441,US: FOX 29 (WTXF) PHILADELPHIA HD,US: FOX 29 (WTXF) PHILADELPHIA,fixed,,,needs-mapping,,FOX.rtf
+598,429440,US: FOX 30 (WFOX) JACKSONVILLE HD,US: FOX 30 (WFOX) JACKSONVILLE,fixed,WFOX.us,WFOX.us,mapped,,FOX.rtf
+598,429315,US: FOX 30 HD [MERIDIAN MS],US: FOX 30,fixed,,,needs-mapping,,FOX.rtf
+598,429439,US: FOX 31 (KDVR) DENVER HD,US: FOX 31 (KDVR) DENVER,fixed,KDVR.us,KDVR.us,mapped,,FOX.rtf
+598,429438,US: FOX 31 (WUHF) ROCHESTER HD,US: FOX 31 (WUHF) ROCHESTER,fixed,,,needs-mapping,,FOX.rtf
+598,429437,US: FOX 32 (WFLD) CHICAGO HD,US: FOX 32 (WFLD) CHICAGO,fixed,WFLD.us,WFLD.us,mapped,,FOX.rtf
+598,429435,US: FOX 35 (KCBA) SALINAS HD,US: FOX 35 (KCBA) SALINAS,fixed,KCBA.us,KCBA.us,mapped,,FOX.rtf
+598,1939660,US: FOX 33 (KMSS) SHREVEPORT HD,US: FOX 33 (KMSS) SHREVEPORT,fixed,,,needs-mapping,,FOX.rtf
+598,429436,US: FOX 33 (WZAW) WAUSAU HD,US: FOX 33 (WZAW) WAUSAU,fixed,,,needs-mapping,,FOX.rtf
+598,429434,US: FOX 35 (WOFL) ORLANDO HD,US: FOX 35 (WOFL) ORLANDO,fixed,,,needs-mapping,,FOX.rtf
+598,429314,US: FOX 35 PLUS HD [ORLANDO],US: FOX 35 PLUS,fixed,,,needs-mapping,,FOX.rtf
+598,429433,US: FOX 35 (WRLH) RICHMOND HD,US: FOX 35 (WRLH) RICHMOND,fixed,WRLH.us,WRLH.us,mapped,,FOX.rtf
+598,429432,US: FOX 36 (WFTX) CAPE CORAL HD,US: FOX 36 (WFTX) CAPE CORAL,fixed,,,needs-mapping,,FOX.rtf
+598,429431,US: FOX 36 (WUPW) TOLEDO HD,US: FOX 36 (WUPW) TOLEDO,fixed,WUPW.us,WUPW.us,mapped,,FOX.rtf
+598,429430,US: FOX 36 (WUPW) TOLEDO HD,US: FOX 36 (WUPW) TOLEDO,fixed,WUPW.us,WUPW.us,mapped,,FOX.rtf
+598,429429,US: FOX 38 (KSCC) CORPCHRISTI HD,US: FOX 38 (KSCC) CORPCHRISTI,fixed,,,needs-mapping,,FOX.rtf
+598,429428,US: FOX 38 (KSCC) CORPCHRISTI HD,US: FOX 38 (KSCC) CORPCHRISTI,fixed,,,needs-mapping,,FOX.rtf
+598,538471,US: FOX VISALIA (KMPH),US: FOX VISALIA (KMPH),fixed,,,needs-mapping,,FOX.rtf
+598,742168,US:  FOX 39 ROCKFORD IL (WQRF) HD,US: FOX 39 ROCKFORD IL (WQRF),fixed,WQRF.us,WQRF.us,mapped,,FOX.rtf
+598,429425,US: FOX 40 (KTXL) SACRAMENTO HD,US: FOX 40 (KTXL) SACRAMENTO,fixed,,,needs-mapping,,FOX.rtf
+598,429424,US: FOX 40 (WDBD) JACKSON HD,US: FOX 40 (WDBD) JACKSON,fixed,WDBD.us,WDBD.us,mapped,,FOX.rtf
+598,429423,US: FOX 40 (WDBD) JACKSON HD,US: FOX 40 (WDBD) JACKSON,fixed,,,needs-mapping,,FOX.rtf
+598,429422,US: FOX 41 (WDRB) LOUISVILLE HD,US: FOX 41 (WDRB) LOUISVILLE,fixed,WDRB.us,WDRB.us,mapped,,FOX.rtf
+598,429313,US: FOX 41 HD [YAKIMA],US: FOX 41,fixed,,,needs-mapping,,FOX.rtf
+598,429421,US: FOX 43 (WFXB) MYRTLE BEACH HD,US: FOX 43 (WFXB) MYRTLE BEACH,fixed,,,needs-mapping,,FOX.rtf
+598,429312,US: FOX 43 HD [HARRISBURG],US: FOX 43,fixed,,,needs-mapping,,FOX.rtf
+598,429311,US: FOX 44 HD [EVANSVILLE],US: FOX 44,fixed,,,needs-mapping,,FOX.rtf
+598,429420,US: FOX 43 (WPMT) YORK HD,US: FOX 43 (WPMT) YORK,fixed,,,needs-mapping,,FOX.rtf
+598,429419,US: FOX 43 (WTNZ) KNOXVILLE HD,US: FOX 43 (WTNZ) KNOXVILLE,fixed,WTNZ.us,WTNZ.us,mapped,,FOX.rtf
+598,429418,US: FOX 43 (WVBT) VIRGINIA BEACH HD,US: FOX 43 (WVBT) VIRGINIA BEACH,fixed,WVBT.us,WVBT.us,mapped,,FOX.rtf
+598,429417,US: FOX 43 (WYZZ) BLOOMINGTON HD,US: FOX 43 (WYZZ) BLOOMINGTON,fixed,,,needs-mapping,,FOX.rtf
+598,429416,US: FOX 43 (WYZZ) BLOOMINGTON HD,US: FOX 43 (WYZZ) BLOOMINGTON,fixed,,,needs-mapping,,FOX.rtf
+598,429415,US: FOX 44 (KWKT) WACO HD,US: FOX 44 (KWKT) WACO,fixed,,,needs-mapping,,FOX.rtf
+598,429414,US: FOX 44 (WFFF) BURLINGTON HD,US: FOX 44 (WFFF) BURLINGTON,fixed,WFFF.us,WFFF.us,mapped,,FOX.rtf
+598,429413,US: FOX 44 (WGMB) BATON ROUGE HD,US: FOX 44 (WGMB) BATON ROUGE,fixed,,,needs-mapping,,FOX.rtf
+598,429412,US: FOX 45 (WBFF) BALTIMORE HD,US: FOX 45 (WBFF) BALTIMORE,fixed,,,needs-mapping,,FOX.rtf
+598,429411,US: FOX 45 (WRGT) DAYTON HD,US: FOX 45 (WRGT) DAYTON,fixed,,,needs-mapping,,FOX.rtf
+598,429310,US: FOX 46 HD [CHARLOTTE],US: FOX 46,fixed,,,needs-mapping,,FOX.rtf
+598,429410,US: FOX 46 (WJZY) BELMONT HD,US: FOX 46 (WJZY) BELMONT,fixed,,,needs-mapping,,FOX.rtf
+598,429409,US: FOX 47 (WMSN) MADISON HD,US: FOX 47 (WMSN) MADISON,fixed,,,needs-mapping,,FOX.rtf
+598,429408,US: FOX 47 (WSYM) LANSING HD,US: FOX 47 (WSYM) LANSING,fixed,WSYM.us,WSYM.us,mapped,,FOX.rtf
+598,429407,US: FOX 47 (WSYM) LANSING HD,US: FOX 47 (WSYM) LANSING,fixed,WSYM.us,WSYM.us,mapped,,FOX.rtf
+598,429406,US: FOX 49 (KRBK) OSAGE BEACH HD,US: FOX 49 (KRBK) OSAGE BEACH,fixed,,,needs-mapping,,FOX.rtf
+598,429402,US: FOX 50 (WRAZ) RALEIGH HD,US: FOX 50 (WRAZ) RALEIGH,fixed,fox50wraz.us,fox50wraz.us,mapped,,FOX.rtf
+598,429309,US: FOX 50 HD,US: FOX 50,fixed,,,needs-mapping,,FOX.rtf
+598,429308,US: FOX 51 HD [GAINESVILLE],US: FOX 51,fixed,,,needs-mapping,,FOX.rtf
+598,429401,US: FOX 51 (KFXK) LONGVIEW HD,US: FOX 51 (KFXK) LONGVIEW,fixed,KFXK.us,KFXK.us,mapped,,FOX.rtf
+598,429399,US: FOX 51 (WOGX) OCALA HD,US: FOX 51 (WOGX) OCALA,fixed,,,needs-mapping,,FOX.rtf
+598,429400,US: FOX 51 (KFXL) LINCOLN HD ,US: FOX 51 (KFXL) LINCOLN,fixed,,,needs-mapping,,FOX.rtf
+598,429397,US: FOX 54 (WFXG) AUGTA HD,US: FOX 54 (WFXG) AUGTA,fixed,,,needs-mapping,,FOX.rtf
+598,429398,US: FOX 53 (WPGH) PITTSBURGH HD,US: FOX 53 (WPGH) PITTSBURGH,fixed,,,needs-mapping,,FOX.rtf
+598,429396,US: FOX 54 (WFXG) AUGTA HD,US: FOX 54 (WFXG) AUGTA,fixed,,,needs-mapping,,FOX.rtf
+598,429395,US: FOX 54 (WZDX) HUNTSVILLE HD,US: FOX 54 (WZDX) HUNTSVILLE,fixed,WZDX.us,WZDX.us,mapped,,FOX.rtf
+598,1319768,US: FOX 54 (WXTX) Columbus GA HD,US: FOX 54 (WXTX) Columbus GA,fixed,WXTX.us,WXTX.us,mapped,,FOX.rtf
+598,429394,US: FOX 55 (WFFT) FORT WAYNE HD,US: FOX 55 (WFFT) FORT WAYNE,fixed,,,needs-mapping,,FOX.rtf
+598,429393,US: FOX 55 (WRSP) SPRINGFIELD HD,US: FOX 55 (WRSP) SPRINGFIELD,fixed,,,needs-mapping,,FOX.rtf
+598,429392,US: FOX 56 (WDKY) DANVILLE HD ,US: FOX 56 (WDKY) DANVILLE,fixed,,,needs-mapping,,FOX.rtf
+598,429582,US: FOX 56 WOLF HD,US: FOX 56 WOLF,fixed,,,needs-mapping,,FOX.rtf
+598,429390,US: FOX 57 (WACH) COLUMBIA HD,US: FOX 57 (WACH) COLUMBIA,fixed,WACH.us,WACH.us,mapped,,FOX.rtf
+598,429389,US: FOX 59 (WXIN) INDIANAPOLIS HD,US: FOX 59 (WXIN) INDIANAPOLIS,fixed,,,needs-mapping,,FOX.rtf
+598,429385,US: FOX 61 (WTIC) HARTFORD HD ,US: FOX 61 (WTIC) HARTFORD,fixed,,,needs-mapping,,FOX.rtf
+598,429307,US: FOX 61 HD [HARTFORD],US: FOX 61,fixed,,,needs-mapping,,FOX.rtf
+598,429384,US: FOX 62 (WYFX) YOUNGSTOWN HD ,US: FOX 62 (WYFX) YOUNGSTOWN,fixed,,,needs-mapping,,FOX.rtf
+598,429383,US: FOX 62 (WYFX) YOUNGSTOWN HD ,US: FOX 62 (WYFX) YOUNGSTOWN,fixed,,,needs-mapping,,FOX.rtf
+598,429306,US: FOX 62 HD [YOUNGSTOWN],US: FOX 62,fixed,,,needs-mapping,,FOX.rtf
+598,429382,US: FOX 64 (WNAC) PROVIDENCE HD ,US: FOX 64 (WNAC) PROVIDENCE,fixed,,,needs-mapping,,FOX.rtf
+598,429305,US: FOX 64 HD [PROVIDENCE],US: FOX 64,fixed,,,needs-mapping,,FOX.rtf
+598,429381,US: FOX 66 (WSMH) FLINT HD,US: FOX 66 (WSMH) FLINT,fixed,,,needs-mapping,,FOX.rtf
+598,429380,US: FOX 67 (KFXV) TEXAS HD ,US: FOX 67 (KFXV) TEXAS,fixed,,,needs-mapping,,FOX.rtf
+598,429379,US: FOX 67 (KFXV) TEXAS HD,US: FOX 67 (KFXV) TEXAS,fixed,,,needs-mapping,,FOX.rtf
+598,429378,US: FOX 68 (WSYT) SYRACE HD,US: FOX 68 (WSYT) SYRACE,fixed,,,needs-mapping,,FOX.rtf
+598,429377,US: FOX 68 (WSYT) SYRACE HD,US: FOX 68 (WSYT) SYRACE,fixed,,,needs-mapping,,FOX.rtf
+598,429368,US: FOX (KCPQ),US: FOX (KCPQ),fixed,,,needs-mapping,,FOX.rtf
+598,429366,US: FOX (KDVR),US: FOX (KDVR),fixed,,,needs-mapping,,FOX.rtf
+598,429367,US: FOX (KDFW),US: FOX (KDFW),fixed,,,needs-mapping,,FOX.rtf
+598,429365,US: FOX (KMSP),US: FOX (KMSP),fixed,,,needs-mapping,,FOX.rtf
+598,429364,US: FOX (KOKH),US: FOX (KOKH),fixed,,,needs-mapping,,FOX.rtf
+598,429363,US: FOX (KRIV),US: FOX (KRIV),fixed,,,needs-mapping,,FOX.rtf
+598,429361,US: FOX (KSAZ),US: FOX (KSAZ),fixed,,,needs-mapping,,FOX.rtf
+598,429360,US: FOX (KTTV),US: FOX (KTTV),fixed,,,needs-mapping,,FOX.rtf
+598,429359,US: FOX (KTVI),US: FOX (KTVI),fixed,,,needs-mapping,,FOX.rtf
+598,429357,US: FOX (KVVU),US: FOX (KVVU),fixed,,,needs-mapping,,FOX.rtf
+598,429355,US: FOX (WBFF),US: FOX (WBFF),fixed,,,needs-mapping,,FOX.rtf
+598,429354,US: FOX (WFLD),US: FOX (WFLD),fixed,,,needs-mapping,,FOX.rtf
+598,429353,US: FOX (WFXT),US: FOX (WFXT),fixed,,,needs-mapping,,FOX.rtf
+598,429352,US: FOX (WJBK),US: FOX (WJBK),fixed,,,needs-mapping,,FOX.rtf
+598,429351,US: FOX (WJZY),US: FOX (WJZY),fixed,,,needs-mapping,,FOX.rtf
+598,429348,US: FOX (WPGH),US: FOX (WPGH),fixed,,,needs-mapping,,FOX.rtf
+598,429346,US: FOX (WSVN),US: FOX (WSVN),fixed,,,needs-mapping,,FOX.rtf
+598,429344,US: FOX (WTXF),US: FOX (WTXF),fixed,,,needs-mapping,,FOX.rtf
+598,429343,US: FOX (WVUE),US: FOX (WVUE),fixed,,,needs-mapping,,FOX.rtf
+598,429341,US: FOX (WZTV),US: FOX (WZTV),fixed,,,needs-mapping,,FOX.rtf
+598,429340,US: FOX (WITI),US: FOX (WITI),fixed,,,needs-mapping,,FOX.rtf
+598,429339,US: FOX (WTVT),US: FOX (WTVT),fixed,,,needs-mapping,,FOX.rtf
+598,429338,US: FOX (KTBC),US: FOX (KTBC),fixed,,,needs-mapping,,FOX.rtf
+598,429337,US: FOX (WOGX),US: FOX (WOGX),fixed,,,needs-mapping,,FOX.rtf
+598,429336,US: FOX (WOFL),US: FOX (WOFL),fixed,,,needs-mapping,,FOX.rtf
+598,1782813,US: FOX AL MONTGOMERY (WCOV) HD,US: FOX AL MONTGOMERY (WCOV),fixed,,,needs-mapping,,FOX.rtf
+598,1782812,US: FOX MO CAPE GIRARDEAU (KBSI) HD,US: FOX MO CAPE GIRARDEAU (KBSI),fixed,,,needs-mapping,,FOX.rtf
+598,429358,US: FOX (KTVU) OAKLAND CALIFORNIA,US: FOX (KTVU) OAKLAND CALIFORNIA,fixed,,,needs-mapping,,FOX.rtf
+598,429349,US: FOX (WPFO) WATERVILLE MAINE,US: FOX (WPFO) WATERVILLE MAINE,fixed,,,needs-mapping,,FOX.rtf
+598,429347,US: FOX (WRAZ) RALEIGH NORTH CAROLINA,US: FOX (WRAZ) RALEIGH NORTH CAROLINA,fixed,,,needs-mapping,,FOX.rtf
+598,429362,US: FOX (KRQEDT2) ALBUQUERQUE NEW MEXICO,US: FOX (KRQEDT2) ALBUQUERQUE NEW MEXICO,fixed,,,needs-mapping,,FOX.rtf
+600,1820570,####### NBC \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2 #######,NBC \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2,fixed,,,needs-mapping,,nbc.rtf
+600,1820226,US: NBC BOSTON NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC BOSTON NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820466,US: NBC BRAVO (EAST) (D) \u1d3f\u1d2c\u1d42,US: NBC BRAVO (EAST) (D) \u1d3f\u1d2c\u1d42,fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820193,US: NBC BRAVO (WEST) (D) \u1d3f\u1d2c\u1d42,US: NBC BRAVO (WEST) (D) \u1d3f\u1d2c\u1d42,fixed,,I1748.50057.gracenote.com,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820225,US: NBC CHICAGO NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC CHICAGO NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820474,US: NBC CNBC \u1d3f\u1d2c\u1d42,US: NBC CNBC \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820467,US: NBC E! (EAST) \u1d3f\u1d2c\u1d42,US: NBC E! (EAST) \u1d3f\u1d2c\u1d42,fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820468,US: NBC E! (WEST) \u1d3f\u1d2c\u1d42,US: NBC E! (WEST) \u1d3f\u1d2c\u1d42,fixed,,I1748.50057.gracenote.com,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820022,US: NBC GOLF CHANNEL (H) \u1d3f\u1d2c\u1d42,US: NBC GOLF CHANNEL (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820472,US: NBC GOLF \u1d3f\u1d2c\u1d42,US: NBC GOLF \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820320,US: NBC KOMU (A) \u1d3f\u1d2c\u1d42,US: NBC KOMU (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820321,US: NBC KSHB (A) \u1d3f\u1d2c\u1d42,US: NBC KSHB (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820209,US: NBC LOS ANGELES NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC LOS ANGELES NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820047,US: NBC LX HOME (PC) \u1d3f\u1d2c\u1d42,US: NBC LX HOME (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820473,US: NBC MS NOW \u1d3f\u1d2c\u1d42,US: NBC MS NOW \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820195,US: NBC NEW ENGLAND CABLE NEWS (NECN) (D) \u1d3f\u1d2c\u1d42,US: NBC NEW ENGLAND CABLE NEWS (NECN) (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820210,US: NBC NEW YORK NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC NEW YORK NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820224,US: NBC NEWS NOW (A) \u1d3f\u1d2c\u1d42,US: NBC NEWS NOW (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820223,US: NBC NEWS NOW (D) \u1d3f\u1d2c\u1d42,US: NBC NEWS NOW (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820194,US: NBC NEWS NOW (D) \u1d3f\u1d2c\u1d42,US: NBC NEWS NOW (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819990,US: NBC NEWS NOW (H) \u1d3f\u1d2c\u1d42,US: NBC NEWS NOW (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820222,US: NBC NEWS NOW (PC) \u1d3f\u1d2c\u1d42,US: NBC NEWS NOW (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820048,US: NBC OXYGEN (WEST) \u1d3f\u1d2c\u1d42,US: NBC OXYGEN (WEST) \u1d3f\u1d2c\u1d42,fixed,,I1748.50057.gracenote.com,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820221,US: NBC PHILADELPHIA NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC PHILADELPHIA NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820220,US: NBC SOUTH FLORIDA NEWS (PC) \u1d3f\u1d2c\u1d42,US: NBC SOUTH FLORIDA NEWS (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820218,US: NBC SPORTS BAY AREA (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BAY AREA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820199,US: NBC SPORTS BAY AREA (D) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BAY AREA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820201,US: NBC SPORTS BAY AREA (S) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BAY AREA (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820258,US: NBC SPORTS BAY AREA PLUS (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BAY AREA PLUS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819971,US: NBC SPORTS BAY AREA PLUS ALTERNATE (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BAY AREA PLUS ALTERNATE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820217,US: NBC SPORTS BOSTON (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BOSTON (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820198,US: NBC SPORTS BOSTON (D) \u1d3f\u1d2c\u1d42,US: NBC SPORTS BOSTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820216,US: NBC SPORTS CALIFORNIA (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CALIFORNIA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820197,US: NBC SPORTS CALIFORNIA (D) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CALIFORNIA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820215,US: NBC SPORTS CALIFORNIA PLUS (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CALIFORNIA PLUS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820316,US: NBC SPORTS CALIFORNIA PLUS 2 (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CALIFORNIA PLUS 2 (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820317,US: NBC SPORTS CHICAGO (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CHICAGO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820318,US: NBC SPORTS CHICAGO PLUS (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS CHICAGO PLUS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819948,US: NBC SPORTS NOW (A) \u1d3f\u1d2c\u1d42,US: NBC SPORTS NOW (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820219,US: NBC SPORTS NOW (PC) \u1d3f\u1d2c\u1d42,US: NBC SPORTS NOW (PC) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820288,US: NBC SPORTS NOW (S) \u1d3f\u1d2c\u1d42,US: NBC SPORTS NOW (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820196,US: NBC SPORTS PHILADELPHIA (D) \u1d3f\u1d2c\u1d42,US: NBC SPORTS PHILADELPHIA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820200,US: NBC SPORTS PHILADELPHIA PLUS (D) \u1d3f\u1d2c\u1d42,US: NBC SPORTS PHILADELPHIA PLUS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820469,US: NBC SYFY (EAST) \u1d3f\u1d2c\u1d42,US: NBC SYFY (EAST) \u1d3f\u1d2c\u1d42,fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820470,US: NBC SYFY (WEST) \u1d3f\u1d2c\u1d42,US: NBC SYFY (WEST) \u1d3f\u1d2c\u1d42,fixed,,I1748.50057.gracenote.com,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820471,US: NBC UNIVERSO (EAST) (D) \u1d3f\u1d2c\u1d42,US: NBC UNIVERSO (EAST) (D) \u1d3f\u1d2c\u1d42,fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820465,US: NBC USA NETWORK (EAST) \u1d3f\u1d2c\u1d42,US: NBC USA NETWORK (EAST) \u1d3f\u1d2c\u1d42,fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,nbc.rtf
+600,1820322,US: NBC WNDU (A) \u1d3f\u1d2c\u1d42,US: NBC WNDU (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820323,US: NBC WPTV (A) \u1d3f\u1d2c\u1d42,US: NBC WPTV (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820271,US: NBC 2 (KJRH) TULSA (A) \u1d3f\u1d2c\u1d42,US: NBC 2 (KJRH) TULSA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820122,US: NBC 2 (KJRH) TULSA (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (KJRH) TULSA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820544,US: NBC 2 (KNOP) NORTH PLATTE (D) \u1d3f\u1d2c\u1d42,US: NBC 2 (KNOP) NORTH PLATTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820085,US: NBC 2 (KPRC) HOUSTON (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (KPRC) HOUSTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819987,US: NBC 2 (KTUU) ANCHORAGE (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (KTUU) ANCHORAGE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820151,US: NBC 2 (WCBD) CHARLESTON (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WCBD) CHARLESTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820280,US: NBC 2 (WDTN) DAYTON (A) \u1d3f\u1d2c\u1d42,US: NBC 2 (WDTN) DAYTON (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820078,US: NBC 2 (WDTN) DAYTON (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WDTN) DAYTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820095,US: NBC 2 (WESH) DAYTONA BEACH (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WESH) DAYTONA BEACH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820282,US: NBC 2 (WESH) ORLANDO (A) \u1d3f\u1d2c\u1d42,US: NBC 2 (WESH) ORLANDO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820039,US: NBC 2 (WGRZ) BUFFALO (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WGRZ) BUFFALO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820241,"US: NBC 2 (WGRZ) BUFFALO, NY (D) \u1d3f\u1d2c\u1d42","US: NBC 2 (WGRZ) BUFFALO, NY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820182,US: NBC 2 (WLBZ) BANGOR (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WLBZ) BANGOR (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820240,"US: NBC 2 (WLBZ\/WCSH) BANGOR \/ PORTLAND, ME (D) \u1d3f\u1d2c\u1d42","US: NBC 2 (WLBZ\/WCSH) BANGOR \/ PORTLAND, ME (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820569,US: NBC 2 (WTWO) TERRE HAUTE (D) \u1d3f\u1d2c\u1d42,US: NBC 2 (WTWO) TERRE HAUTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820170,US: NBC 2 (WTWO) TERRE HAUTE (H) \u1d3f\u1d2c\u1d42,US: NBC 2 (WTWO) TERRE HAUTE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820264,US: NBC 3 (KCRA) SACRAMENTO (A) \u1d3f\u1d2c\u1d42,US: NBC 3 (KCRA) SACRAMENTO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820508,US: NBC 3 (KCRA) SACRAMENTO (D) \u1d3f\u1d2c\u1d42,US: NBC 3 (KCRA) SACRAMENTO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820098,US: NBC 3 (KCRA) SACRAMENTO (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (KCRA) SACRAMENTO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820025,US: NBC 3 (KFDX) WICHITA FALLS (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (KFDX) WICHITA FALLS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820484,US: NBC 3 (KIEM) EUREKA (D) \u1d3f\u1d2c\u1d42,US: NBC 3 (KIEM) EUREKA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820212,US: NBC 3 (KSNV) LAS VEGAS (A) \u1d3f\u1d2c\u1d42,US: NBC 3 (KSNV) LAS VEGAS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820162,US: NBC 3 (KSNV) LAS VEGAS (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (KSNV) LAS VEGAS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820026,US: NBC 3 (KSNW) WICHITA (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (KSNW) WICHITA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820113,US: NBC 3 (KYTV) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (KYTV) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820007,US: NBC 3 (WAVE) LOUISVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WAVE) LOUISVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820250,US: NBC 3 (WKYC) CLEVELAND (A) \u1d3f\u1d2c\u1d42,US: NBC 3 (WKYC) CLEVELAND (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820040,US: NBC 3 (WKYC) CLEVELAND (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WKYC) CLEVELAND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820239,"US: NBC 3 (WKYC) CLEVELAND, OH (D) \u1d3f\u1d2c\u1d42","US: NBC 3 (WKYC) CLEVELAND, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820555,US: NBC 3 (WLBT) JACKSON (D) \u1d3f\u1d2c\u1d42,US: NBC 3 (WLBT) JACKSON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820093,US: NBC 3 (WLBT) JACKSON (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WLBT) JACKSON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820031,US: NBC 3 (WRCB) CHATTANOOGA (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WRCB) CHATTANOOGA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820072,US: NBC 3 (WSAV) SAVANNAH (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSAV) SAVANNAH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820514,US: NBC 3 (WSAZ) HUNTINGTON (D) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSAZ) HUNTINGTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820118,US: NBC 3 (WSAZ) HUNTINGTON (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSAZ) HUNTINGTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820211,US: NBC 3 (WSTM) SYRACUSE (A) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSTM) SYRACUSE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820539,US: NBC 3 (WSTM) SYRACUSE (D) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSTM) SYRACUSE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820184,US: NBC 3 (WSTM) SYRACUSE (H) \u1d3f\u1d2c\u1d42,US: NBC 3 (WSTM) SYRACUSE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820146,US: NBC 4 (KAMR) AMARILLO (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KAMR) AMARILLO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820444,"US: NBC 4 (KAMR) AMARILLO, TX (D) \u1d3f\u1d2c\u1d42","US: NBC 4 (KAMR) AMARILLO, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820480,US: NBC 4 (KARK) LITTLE ROCK (D) \u1d3f\u1d2c\u1d42,US: NBC 4 (KARK) LITTLE ROCK (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819991,US: NBC 4 (KARK) LITTLE ROCK (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KARK) LITTLE ROCK (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820253,US: NBC 4 (KFOR) OKLAHOMA CITY (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (KFOR) OKLAHOMA CITY (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820016,US: NBC 4 (KFOR) OKLAHOMA CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KFOR) OKLAHOMA CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820236,US: NBC 4 (KNBC) LOS ANGELES (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (KNBC) LOS ANGELES (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820023,US: NBC 4 (KNBC) LOS ANGELES (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KNBC) LOS ANGELES (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820208,US: NBC 4 (KNBC) LOS ANGELES (S) \u1d3f\u1d2c\u1d42,US: NBC 4 (KNBC) LOS ANGELES (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820273,US: NBC 4 (KOB) ALBUQUERQUE (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (KOB) ALBUQUERQUE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820136,US: NBC 4 (KOB) ALBUQUERQUE-SANTA FE (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KOB) ALBUQUERQUE-SANTA FE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820105,US: NBC 4 (KSNB) LINCOLN (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KSNB) LINCOLN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820567,US: NBC 4 (KTIV) SIOUX CITY (D) \u1d3f\u1d2c\u1d42,US: NBC 4 (KTIV) SIOUX CITY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820140,US: NBC 4 (KTIV) SIOUX CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KTIV) SIOUX CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820112,US: NBC 4 (KVOA) MARANA (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (KVOA) MARANA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820478,US: NBC 4 (KVOA) TUCSON (D) \u1d3f\u1d2c\u1d42,US: NBC 4 (KVOA) TUCSON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820279,US: NBC 4 (WCMH) COLUMBUS OH (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WCMH) COLUMBUS OH (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820081,US: NBC 4 (WCMH) COLUMBUS OH (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WCMH) COLUMBUS OH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820275,US: NBC 4 (WDIV) DETROIT (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WDIV) DETROIT (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820108,US: NBC 4 (WDIV) DETROIT (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WDIV) DETROIT (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820259,US: NBC 4 (WNBC) NEW YORK (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WNBC) NEW YORK (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820042,US: NBC 4 (WNBC) NEW YORK (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WNBC) NEW YORK (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820044,US: NBC 4 (WOAI) SAN ANTONIO (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WOAI) SAN ANTONIO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820114,US: NBC 4 (WRC) LEESBURG (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WRC) LEESBURG (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820260,US: NBC 4 (WRC) WASHINGTON (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WRC) WASHINGTON (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820265,US: NBC 4 (WSMV) NASHVILLE (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WSMV) NASHVILLE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820100,US: NBC 4 (WSMV) NASHVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WSMV) NASHVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820268,US: NBC 4 (WTMJ) MILWAUKEE (A) \u1d3f\u1d2c\u1d42,US: NBC 4 (WTMJ) MILWAUKEE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820038,US: NBC 4 (WTMJ) MILWAUKEE (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WTMJ) MILWAUKEE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820132,US: NBC 4 (WYFF) GREENVILLE\/SPARTANBURG\/ASHEVILLE\/ANDERSON (H) \u1d3f\u1d2c\u1d42,US: NBC 4 (WYFF) GREENVILLE\/SPARTANBURG\/ASHEVILLE\/ANDERSON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820145,US: NBC 5 (KALB) ALEXANDRIA (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KALB) ALEXANDRIA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820537,US: NBC 5 (KFYR) MINOT\/BISMARCK\/DICKINSON (D) \u1d3f\u1d2c\u1d42,US: NBC 5 (KFYR) MINOT\/BISMARCK\/DICKINSON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820010,US: NBC 5 (KFYR) MINOT\/BISMARCK\/DICKINSON (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KFYR) MINOT\/BISMARCK\/DICKINSON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820263,US: NBC 5 (KING) SEATTLE (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (KING) SEATTLE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819998,US: NBC 5 (KING) SEATTLE (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KING) SEATTLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820235,"US: NBC 5 (KING) SEATTLE, WA (D) \u1d3f\u1d2c\u1d42","US: NBC 5 (KING) SEATTLE, WA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820487,US: NBC 5 (KOAA) PUEBLO (D) \u1d3f\u1d2c\u1d42,US: NBC 5 (KOAA) PUEBLO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820111,US: NBC 5 (KOAA) PUEBLO (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KOAA) PUEBLO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820532,US: NBC 5 (KOBI) MEDFORD (D) \u1d3f\u1d2c\u1d42,US: NBC 5 (KOBI) MEDFORD (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820164,US: NBC 5 (KOBI) MEDFORD (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KOBI) MEDFORD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819980,US: NBC 5 (KSDK) ST. LOUIS (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (KSDK) ST. LOUIS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820502,US: NBC 5 (KSDK) ST. LOUIS (D) \u1d3f\u1d2c\u1d42,US: NBC 5 (KSDK) ST. LOUIS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820120,US: NBC 5 (KSDK) ST. LOUIS (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KSDK) ST. LOUIS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820127,US: NBC 5 (KSL) SALT LAKE CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KSL) SALT LAKE CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820274,US: NBC 5 (KXAS) DALLAS (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (KXAS) DALLAS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820207,US: NBC 5 (KXAS) FORT WORTH (S) \u1d3f\u1d2c\u1d42,US: NBC 5 (KXAS) FORT WORTH (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820084,US: NBC 5 (KXAS) THE COLONY (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (KXAS) THE COLONY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820173,US: NBC 5 (WCYB) BRISTOL (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WCYB) BRISTOL (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819985,US: NBC 5 (WLWT) CINCINNATI (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WLWT) CINCINNATI (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820277,US: NBC 5 (WMAQ) CHICAGO (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMAQ) CHICAGO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820099,US: NBC 5 (WMAQ) CHICAGO (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMAQ) CHICAGO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820206,US: NBC 5 (WMAQ) CHICAGO (S) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMAQ) CHICAGO (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819974,US: NBC 5 (WMC) MEMPHIS (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMC) MEMPHIS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820528,US: NBC 5 (WMC) MEMPHIS (D) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMC) MEMPHIS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820005,US: NBC 5 (WMC) MEMPHIS (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WMC) MEMPHIS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820134,US: NBC 5 (WPTV) WEST PALM BEACH (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WPTV) WEST PALM BEACH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820133,US: NBC 5 (WPTZ) PLATTSBURGH (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WPTZ) PLATTSBURGH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820385,"US: NBC 5 (WRAL) RALEIGH, NC (D) \u1d3f\u1d2c\u1d42","US: NBC 5 (WRAL) RALEIGH, NC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820234,US: NBC 5 (WRAL) RALEIGH\/DURHAM (A) \u1d3f\u1d2c\u1d42,US: NBC 5 (WRAL) RALEIGH\/DURHAM (A) \u1d3f\u1d2c\u1d42,fixed,nbc5wral.us,nbc5wral.us,mapped,,nbc.rtf
+600,1820189,US: NBC 5 (WRAL) RALEIGH\/DURHAM (H) \u1d3f\u1d2c\u1d42,US: NBC 5 (WRAL) RALEIGH\/DURHAM (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820154,US: NBC 6 (KBJR) DULUTH\/SUPERIOR (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KBJR) DULUTH\/SUPERIOR (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820119,US: NBC 6 (KCEN) TEMPLE (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KCEN) TEMPLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820232,"US: NBC 6 (KCEN) WACO, TX (D) \u1d3f\u1d2c\u1d42","US: NBC 6 (KCEN) WACO, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1819996,US: NBC 6 (KHQ) SPOKANE (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KHQ) SPOKANE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820180,US: NBC 6 (KMIR) PALM SPRINGS (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KMIR) PALM SPRINGS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819982,US: NBC 6 (KPVI) IDAHO FALLS (A) \u1d3f\u1d2c\u1d42,US: NBC 6 (KPVI) IDAHO FALLS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820021,US: NBC 6 (KPVI) IDAHO FALLS (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KPVI) IDAHO FALLS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820525,US: NBC 6 (KRIS) CORPUS CHRISTI (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (KRIS) CORPUS CHRISTI (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820080,US: NBC 6 (KRIS) CORPUS CHRISTI (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KRIS) CORPUS CHRISTI (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820123,US: NBC 6 (KSBY) SAN LUIS OBISPO (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KSBY) SAN LUIS OBISPO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819981,US: NBC 6 (KSBY) SANTA BARBARA (A) \u1d3f\u1d2c\u1d42,US: NBC 6 (KSBY) SANTA BARBARA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820486,US: NBC 6 (KSBY) SANTA BARBARA\/SANTA MARIA\/SAN LUIS OBISPO (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (KSBY) SANTA BARBARA\/SANTA MARIA\/SAN LUIS OBISPO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820071,US: NBC 6 (KTAL) SHREVEPORT (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KTAL) SHREVEPORT (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820079,US: NBC 6 (KWQC) DAVENPORT (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (KWQC) DAVENPORT (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820568,US: NBC 6 (KWQC) DAVENPORT\/ROCK ISLAND\/MOLIN (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (KWQC) DAVENPORT\/ROCK ISLAND\/MOLIN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820088,US: NBC 6 (WCSH) PORTLAND (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WCSH) PORTLAND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820231,US: NBC 6 (WDSU) NEW ORLEANS (A) \u1d3f\u1d2c\u1d42,US: NBC 6 (WDSU) NEW ORLEANS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820092,US: NBC 6 (WDSU) NEW ORLEANS (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WDSU) NEW ORLEANS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820124,US: NBC 6 (WECT) WILMINGTON (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WECT) WILMINGTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820256,US: NBC 6 (WJAC) JOHNSTOWN (A) \u1d3f\u1d2c\u1d42,US: NBC 6 (WJAC) JOHNSTOWN (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820531,US: NBC 6 (WJAC) JOHNSTOWN (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (WJAC) JOHNSTOWN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819988,US: NBC 6 (WJAC) JOHNSTOWN (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WJAC) JOHNSTOWN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820559,US: NBC 6 (WLUC) MARQUETTE (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (WLUC) MARQUETTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820230,US: NBC 6 (WLUC) MARQUETTE (F) \u1d3f\u1d2c\u1d42,US: NBC 6 (WLUC) MARQUETTE (F) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820543,US: NBC 6 (WOWT) OMAHA (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (WOWT) OMAHA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820006,US: NBC 6 (WOWT) OMAHA (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WOWT) OMAHA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820063,US: NBC 6 (WPSD) PADUCAH (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WPSD) PADUCAH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820565,US: NBC 6 (WPSD) PADUCAH\/CAPE GIRARDEAU\/HARRISBURG\/MT VERNO (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (WPSD) PADUCAH\/CAPE GIRARDEAU\/HARRISBURG\/MT VERNO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820252,US: NBC 6 (WTVJ) MIAMI (A) \u1d3f\u1d2c\u1d42,US: NBC 6 (WTVJ) MIAMI (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820086,US: NBC 6 (WTVJ) MIAMI (H) \u1d3f\u1d2c\u1d42,US: NBC 6 (WTVJ) MIAMI (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820205,US: NBC 6 (WTVJ) MIAMI (S) \u1d3f\u1d2c\u1d42,US: NBC 6 (WTVJ) MIAMI (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820516,US: NBC 6 (WVVA) BLUEFIELD (D) \u1d3f\u1d2c\u1d42,US: NBC 6 (WVVA) BLUEFIELD (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820558,US: NBC 7 (KMNF) MANKATO (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (KMNF) MANKATO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820261,US: NBC 7 (KNSD) SAN DIEGO (A) \u1d3f\u1d2c\u1d42,US: NBC 7 (KNSD) SAN DIEGO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820563,US: NBC 7 (KPLC) LAKE CHARLES (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (KPLC) LAKE CHARLES (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820161,US: NBC 7 (KPLC) LAKE CHARLES (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (KPLC) LAKE CHARLES (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820542,US: NBC 7 (KRNV) RENO (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (KRNV) RENO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820186,US: NBC 7 (KRNV) RENO (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (KRNV) RENO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820495,US: NBC 7 (KTFT) TWIN FALLS (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (KTFT) TWIN FALLS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820174,US: NBC 7 (KTFT) TWIN FALLS (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (KTFT) TWIN FALLS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820494,US: NBC 7 (KTVB) BOISE (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (KTVB) BOISE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820094,US: NBC 7 (KTVB) BOISE (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (KTVB) BOISE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820281,US: NBC 7 (KWWL) CEDAR RAPIDS (A) \u1d3f\u1d2c\u1d42,US: NBC 7 (KWWL) CEDAR RAPIDS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820139,US: NBC 7 (KWWL) WATERLOO (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (KWWL) WATERLOO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820293,US: NBC 7 (WDAM) HATTIESBURG (A) \u1d3f\u1d2c\u1d42,US: NBC 7 (WDAM) HATTIESBURG (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820553,US: NBC 7 (WDAM) HATTIESBURG (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (WDAM) HATTIESBURG (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820014,US: NBC 7 (WDAM) HATTIESBURG (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (WDAM) HATTIESBURG (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820107,US: NBC 7 (WITN) GREENVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (WITN) GREENVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820501,US: NBC 7 (WJHG) PANAMA CITY (D) \u1d3f\u1d2c\u1d42,US: NBC 7 (WJHG) PANAMA CITY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819986,US: NBC 7 (WJHG) PANAMA CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 7 (WJHG) PANAMA CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820158,US: NBC 8 (KAIT) JONESBORO (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (KAIT) JONESBORO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820523,US: NBC 8 (KGNS) LAREDO (D) \u1d3f\u1d2c\u1d42,US: NBC 8 (KGNS) LAREDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819977,US: NBC 8 (KGW) PORTLAND (A) \u1d3f\u1d2c\u1d42,US: NBC 8 (KGW) PORTLAND (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820003,US: NBC 8 (KGW) PORTLAND (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (KGW) PORTLAND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820443,"US: NBC 8 (KGW) PORTLAND, OR (D) \u1d3f\u1d2c\u1d42","US: NBC 8 (KGW) PORTLAND, OR (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820229,"US: NBC 8 (KGW) PORTLAND, OR (D) \u1d3f\u1d2c\u1d42","US: NBC 8 (KGW) PORTLAND, OR (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820551,US: NBC 8 (KOMU) JEFFERSON CITY (D) \u1d3f\u1d2c\u1d42,US: NBC 8 (KOMU) JEFFERSON CITY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820142,US: NBC 8 (KOMU) JEFFERSON CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (KOMU) JEFFERSON CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820485,US: NBC 8 (KSBW) SALINAS (D) \u1d3f\u1d2c\u1d42,US: NBC 8 (KSBW) SALINAS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820125,US: NBC 8 (KSBW) SALINAS (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (KSBW) SALINAS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820548,US: NBC 8 (KULR) BILLINGS (D) \u1d3f\u1d2c\u1d42,US: NBC 8 (KULR) BILLINGS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820149,US: NBC 8 (KULR) BILLINGS (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (KULR) BILLINGS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820069,US: NBC 8 (WFLA) TAMPA (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (WFLA) TAMPA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820137,US: NBC 8 (WGAL) LANCASTER (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (WGAL) LANCASTER (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820536,US: NBC 8 (WLIO) LIMA (D) \u1d3f\u1d2c\u1d42,US: NBC 8 (WLIO) LIMA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820028,US: NBC 8 (WLIO) LIMA (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (WLIO) LIMA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820077,US: NBC 8 (WOOD) GRAND RAPIDS (H) \u1d3f\u1d2c\u1d42,US: NBC 8 (WOOD) GRAND RAPIDS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820009,US: NBC 9 (KRBC) ABILENE (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (KRBC) ABILENE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820002,US: NBC 9 (KTSM) EL PASO (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (KTSM) EL PASO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820103,US: NBC 9 (KUSA) DENVER (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (KUSA) DENVER (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820228,"US: NBC 9 (KUSA) DENVER, CO (D) \u1d3f\u1d2c\u1d42","US: NBC 9 (KUSA) DENVER, CO (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820227,"US: NBC 9 (KWES) MIDLAND-ODESSA, TX (D) \u1d3f\u1d2c\u1d42","US: NBC 9 (KWES) MIDLAND-ODESSA, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820165,US: NBC 9 (KWES) ODESSA\/MIDLAND (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (KWES) ODESSA\/MIDLAND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820489,US: NBC 9 (WNBW) GAINESVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 9 (WNBW) GAINESVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820167,US: NBC 9 (WNBW) GAINESVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (WNBW) GAINESVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819970,US: NBC 9 (WTOV) STEUBENVILLE (A) \u1d3f\u1d2c\u1d42,US: NBC 9 (WTOV) STEUBENVILLE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820535,US: NBC 9 (WTOV) STEUBENVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 9 (WTOV) STEUBENVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820552,US: NBC 9 (WTVA) TUPELO (D) \u1d3f\u1d2c\u1d42,US: NBC 9 (WTVA) TUPELO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820185,US: NBC 9 (WTVA) TUPELO (H) \u1d3f\u1d2c\u1d42,US: NBC 9 (WTVA) TUPELO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820524,US: NBC 10 (KTEN) ADA (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTEN) ADA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820019,US: NBC 10 (KTEN) ADA (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTEN) ADA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820557,US: NBC 10 (KTTC) ROCHESTER (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTTC) ROCHESTER (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820018,US: NBC 10 (KTTC) ROCHESTER (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTTC) ROCHESTER (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820562,US: NBC 10 (KTVE) EL DORADO (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTVE) EL DORADO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819994,US: NBC 10 (KTVE) EL DORADO (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (KTVE) EL DORADO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820491,US: NBC 10 (WALB) ALBANY (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (WALB) ALBANY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820144,US: NBC 10 (WALB) ALBANY (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WALB) ALBANY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820287,US: NBC 10 (WAVY) HAMPTON ROADS (A) \u1d3f\u1d2c\u1d42,US: NBC 10 (WAVY) HAMPTON ROADS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820074,US: NBC 10 (WAVY) NORFOLK\/PORTSMOUTH\/NEWPORT NEWS (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WAVY) NORFOLK\/PORTSMOUTH\/NEWPORT NEWS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820507,US: NBC 10 (WBIR) KNOXVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (WBIR) KNOXVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819984,US: NBC 10 (WBIR) KNOXVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WBIR) KNOXVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820187,US: NBC 10 (WBTS) BOSTON (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WBTS) BOSTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820204,US: NBC 10 (WBTS) BOSTON (S) \u1d3f\u1d2c\u1d42,US: NBC 10 (WBTS) BOSTON (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820276,US: NBC 10 (WCAU) PHILADELPHIA (A) \u1d3f\u1d2c\u1d42,US: NBC 10 (WCAU) PHILADELPHIA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819993,US: NBC 10 (WCAU) TRENTON (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WCAU) TRENTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820498,US: NBC 10 (WGEM) QUINCY (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (WGEM) QUINCY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820027,US: NBC 10 (WGEM-DT) QUINCY (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WGEM-DT) QUINCY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820130,US: NBC 10 (WHEC) ROCHESTER (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WHEC) ROCHESTER (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820560,US: NBC 10 (WILX) ONONDAGA (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (WILX) ONONDAGA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820075,US: NBC 10 (WILX) ONONDAGA (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WILX) ONONDAGA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820128,US: NBC 10 (WIS) COLUMBIA (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WIS) COLUMBIA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820270,US: NBC 10 (WJAR) RHODE ISLAND (A) \u1d3f\u1d2c\u1d42,US: NBC 10 (WJAR) RHODE ISLAND (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820530,US: NBC 10 (WJAR) RHODE ISLAND (D) \u1d3f\u1d2c\u1d42,US: NBC 10 (WJAR) RHODE ISLAND (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820168,US: NBC 10 (WJAR) RHODE ISLAND (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WJAR) RHODE ISLAND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820257,US: NBC 10 (WSLS) ROANOKE (A) \u1d3f\u1d2c\u1d42,US: NBC 10 (WSLS) ROANOKE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820102,US: NBC 10 (WSLS) ROANOKE (H) \u1d3f\u1d2c\u1d42,US: NBC 10 (WSLS) ROANOKE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820089,US: NBC 11 (KARE) MINNEAPOLIS (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (KARE) MINNEAPOLIS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820244,"US: NBC 11 (KARE) MINNEAPOLIS, MN (D) \u1d3f\u1d2c\u1d42","US: NBC 11 (KARE) MINNEAPOLIS, MN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820522,US: NBC 11 (KCBD) LUBBOCK\/TEXAS (D) \u1d3f\u1d2c\u1d42,US: NBC 11 (KCBD) LUBBOCK\/TEXAS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820143,US: NBC 11 (KCBD) LUBBOCK\/TEXAS (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (KCBD) LUBBOCK\/TEXAS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820506,US: NBC 11 (KKCO) GRAND JUNCTION (D) \u1d3f\u1d2c\u1d42,US: NBC 11 (KKCO) GRAND JUNCTION (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820156,US: NBC 11 (KKCO) GRAND JUNCTION (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (KKCO) GRAND JUNCTION (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820131,US: NBC 11 (KNTV) CONCORD (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (KNTV) CONCORD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820243,US: NBC 11 (KNTV) SAN FRANCISCO (D) \u1d3f\u1d2c\u1d42,US: NBC 11 (KNTV) SAN FRANCISCO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820203,US: NBC 11 (KNTV) SAN FRANCISCO (S) \u1d3f\u1d2c\u1d42,US: NBC 11 (KNTV) SAN FRANCISCO (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819960,US: NBC 11 (KTVF) FAIRBANKS (D) \u1d3f\u1d2c\u1d42,US: NBC 11 (KTVF) FAIRBANKS (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820064,US: NBC 11 (KVLY) FARGO (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (KVLY) FARGO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820249,US: NBC 11 (WBAL) BALTIMORE (A) \u1d3f\u1d2c\u1d42,US: NBC 11 (WBAL) BALTIMORE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820504,US: NBC 11 (WBAL) BALTIMORE (D) \u1d3f\u1d2c\u1d42,US: NBC 11 (WBAL) BALTIMORE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820116,US: NBC 11 (WBAL) BALTIMORE (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (WBAL) BALTIMORE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820126,US: NBC 11 (WPXI) PITTSBURGH (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (WPXI) PITTSBURGH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820278,US: NBC 11 (WXIA) ATLANTA (A) \u1d3f\u1d2c\u1d42,US: NBC 11 (WXIA) ATLANTA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820041,US: NBC 11 (WXIA) ATLANTA (H) \u1d3f\u1d2c\u1d42,US: NBC 11 (WXIA) ATLANTA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820527,US: NBC 12 (KBMT) BEAUMONT (D) \u1d3f\u1d2c\u1d42,US: NBC 12 (KBMT) BEAUMONT (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820032,US: NBC 12 (KBMT-DT2) BEAUMONT\/PORT ARTHUR (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (KBMT-DT2) BEAUMONT\/PORT ARTHUR (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820269,US: NBC 12 (KPNX) PHOENIX (A) \u1d3f\u1d2c\u1d42,US: NBC 12 (KPNX) PHOENIX (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820091,US: NBC 12 (KPNX) PHOENIX (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (KPNX) PHOENIX (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820242,"US: NBC 12 (KPNX) PHOENIX, AZ (D) \u1d3f\u1d2c\u1d42","US: NBC 12 (KPNX) PHOENIX, AZ (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820157,US: NBC 12 (KTGF) GREAT FALLS (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (KTGF) GREAT FALLS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820546,US: NBC 12 (KTVH) HELENA (D) \u1d3f\u1d2c\u1d42,US: NBC 12 (KTVH) HELENA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819949,US: NBC 12 (KTVH) HELENA (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (KTVH) HELENA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820515,US: NBC 12 (WBOY) CLARKSBURG\/WESTON (D) \u1d3f\u1d2c\u1d42,US: NBC 12 (WBOY) CLARKSBURG\/WESTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820155,US: NBC 12 (WICU) ERIE (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WICU) ERIE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820510,US: NBC 12 (WJFW) RHINELANDER (D) \u1d3f\u1d2c\u1d42,US: NBC 12 (WJFW) RHINELANDER (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820178,US: NBC 12 (WJFW) WAUSAU (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WJFW) WAUSAU (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819999,US: NBC 12 (WSFA) MONTGOMERY (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WSFA) MONTGOMERY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820286,US: NBC 12 (WTLV) JACKSONVILLE (A) \u1d3f\u1d2c\u1d42,US: NBC 12 (WTLV) JACKSONVILLE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820104,US: NBC 12 (WTLV) JACKSONVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WTLV) JACKSONVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820129,US: NBC 12 (WWBT) RICHMOND (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WWBT) RICHMOND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820518,US: NBC 12 (WWBT) RICHMOND\/PETERSBURG (D) \u1d3f\u1d2c\u1d42,US: NBC 12 (WWBT) RICHMOND\/PETERSBURG (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820030,US: NBC 12 (WXII) GREENSBORO\/HIGH POINT\/WINSTON-SALEM (H) \u1d3f\u1d2c\u1d42,US: NBC 12 (WXII) GREENSBORO\/HIGH POINT\/WINSTON-SALEM (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820509,US: NBC 13 (KCWY) CASPER\/RIVERTON (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (KCWY) CASPER\/RIVERTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820043,US: NBC 13 (KCWY) CASPER\/RIVERTON (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KCWY) CASPER\/RIVERTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820036,US: NBC 13 (KCWY) CASPER\/RIVERTON (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KCWY) CASPER\/RIVERTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820545,US: NBC 13 (KECI) MISSOULA (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (KECI) MISSOULA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820166,US: NBC 13 (KECI) MISSOULA (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KECI) MISSOULA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820121,US: NBC 13 (KHNL) HONOLULU (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KHNL) HONOLULU (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820547,US: NBC 13 (KTVM) MONTANA (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (KTVM) MONTANA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820011,US: NBC 13 (KTVM) MONTANA (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KTVM) MONTANA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820179,US: NBC 13 (KYMA) EL CENTRO (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (KYMA) EL CENTRO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820479,US: NBC 13 (KYMA) YUMA (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (KYMA) YUMA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820076,US: NBC 13 (WEAU) EAU CLAIRE (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WEAU) EAU CLAIRE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820255,US: NBC 13 (WHO) DES MOINES (A) \u1d3f\u1d2c\u1d42,US: NBC 13 (WHO) DES MOINES (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820152,US: NBC 13 (WHO) DES MOINES (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WHO) DES MOINES (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820117,US: NBC 13 (WNYT) ALBANY (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WNYT) ALBANY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819979,US: NBC 13 (WNYT) ALBANY NY (A) \u1d3f\u1d2c\u1d42,US: NBC 13 (WNYT) ALBANY NY (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820499,US: NBC 13 (WREX) ROCKFORD (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (WREX) ROCKFORD (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819995,US: NBC 13 (WREX) ROCKFORD (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WREX) ROCKFORD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819972,US: NBC 13 (WRGX) DOTHAN (A) \u1d3f\u1d2c\u1d42,US: NBC 13 (WRGX) DOTHAN (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820475,US: NBC 13 (WRGX) DOTHAN (D) \u1d3f\u1d2c\u1d42,US: NBC 13 (WRGX) DOTHAN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820153,US: NBC 13 (WRGX) DOTHAN (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WRGX) DOTHAN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820262,US: NBC 13 (WTHR) INDIANAPOLIS (A) \u1d3f\u1d2c\u1d42,US: NBC 13 (WTHR) INDIANAPOLIS (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820109,US: NBC 13 (WTHR) INDIANAPOLIS (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WTHR) INDIANAPOLIS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820267,US: NBC 13 (WVTM) BIRMINGHAM (A) \u1d3f\u1d2c\u1d42,US: NBC 13 (WVTM) BIRMINGHAM (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820097,US: NBC 13 (WVTM) BIRMINGHAM (H) \u1d3f\u1d2c\u1d42,US: NBC 13 (WVTM) BIRMINGHAM (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820065,US: NBC 14 (WFIE) EVANSVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 14 (WFIE) EVANSVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820511,US: NBC 15 (WMTV) MADISON (D) \u1d3f\u1d2c\u1d42,US: NBC 15 (WMTV) MADISON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820191,US: NBC 15 (WMTV) MADISON (H) \u1d3f\u1d2c\u1d42,US: NBC 15 (WMTV) MADISON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820311,US: NBC 15 (WPMI) MOBILE\/ALABAMA (A) \u1d3f\u1d2c\u1d42,US: NBC 15 (WPMI) MOBILE\/ALABAMA (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820190,US: NBC 15 (WPMI) MOBILE\/ALABAMA (H) \u1d3f\u1d2c\u1d42,US: NBC 15 (WPMI) MOBILE\/ALABAMA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820513,US: NBC 15 (WTAP) PARKERSBURG (D) \u1d3f\u1d2c\u1d42,US: NBC 15 (WTAP) PARKERSBURG (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820490,US: NBC 16 (KMTR) EUGENE (D) \u1d3f\u1d2c\u1d42,US: NBC 16 (KMTR) EUGENE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820013,US: NBC 16 (KMTR) EUGENE (H) \u1d3f\u1d2c\u1d42,US: NBC 16 (KMTR) EUGENE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820169,US: NBC 16 (KSAN) SAN ANGELO (H) \u1d3f\u1d2c\u1d42,US: NBC 16 (KSAN) SAN ANGELO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820492,US: NBC 16 (WAGT) AUGUSTA (D) \u1d3f\u1d2c\u1d42,US: NBC 16 (WAGT) AUGUSTA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820066,US: NBC 16 (WAGT) AUGUSTA (H) \u1d3f\u1d2c\u1d42,US: NBC 16 (WAGT) AUGUSTA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820004,US: NBC 16 (WNDU) ELKHART (H) \u1d3f\u1d2c\u1d42,US: NBC 16 (WNDU) ELKHART (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820500,US: NBC 16 (WNDU) SOUTH BEND (D) \u1d3f\u1d2c\u1d42,US: NBC 16 (WNDU) SOUTH BEND (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820503,US: NBC 16 (WPBI) LAFAYETTE (D) \u1d3f\u1d2c\u1d42,US: NBC 16 (WPBI) LAFAYETTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820029,US: NBC 16 (WPBI-LD2) LAFAYETTE (H) \u1d3f\u1d2c\u1d42,US: NBC 16 (WPBI-LD2) LAFAYETTE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820482,US: NBC 17 (KGET) BAKERSFIELD (D) \u1d3f\u1d2c\u1d42,US: NBC 17 (KGET) BAKERSFIELD (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820138,US: NBC 17 (KGET) BAKERSFIELD (H) \u1d3f\u1d2c\u1d42,US: NBC 17 (KGET) BAKERSFIELD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820520,US: NBC 17 (KMOL) VICTORIA (D) \u1d3f\u1d2c\u1d42,US: NBC 17 (KMOL) VICTORIA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820176,US: NBC 17 (KMOL) VICTORIA (H) \u1d3f\u1d2c\u1d42,US: NBC 17 (KMOL) VICTORIA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820159,US: NBC 17 (KSNF) JOPLIN (H) \u1d3f\u1d2c\u1d42,US: NBC 17 (KSNF) JOPLIN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820496,US: NBC 17 (WAND) DECATUR (D) \u1d3f\u1d2c\u1d42,US: NBC 17 (WAND) DECATUR (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820090,US: NBC 17 (WAND) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,US: NBC 17 (WAND) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820540,US: NBC 18 (WETM) ELMIRA (D) \u1d3f\u1d2c\u1d42,US: NBC 18 (WETM) ELMIRA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820534,US: NBC 18 (WHIZ) ZANESVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 18 (WHIZ) ZANESVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820272,US: NBC 18 (WLEX) LEXINGTON (A) \u1d3f\u1d2c\u1d42,US: NBC 18 (WLEX) LEXINGTON (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820477,US: NBC 18 (WLEX) LEXINGTON (D) \u1d3f\u1d2c\u1d42,US: NBC 18 (WLEX) LEXINGTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820087,US: NBC 18 (WLEX) LEXINGTON (H) \u1d3f\u1d2c\u1d42,US: NBC 18 (WLEX) LEXINGTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820037,US: NBC 20 (WBBH) FORT MYERS (H) \u1d3f\u1d2c\u1d42,US: NBC 20 (WBBH) FORT MYERS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820541,US: NBC 20 (WBGH) BINGHAMTON (D) \u1d3f\u1d2c\u1d42,US: NBC 20 (WBGH) BINGHAMTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820150,US: NBC 20 (WBGH) BINGHAMTON (H) \u1d3f\u1d2c\u1d42,US: NBC 20 (WBGH) BINGHAMTON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820529,US: NBC 21 (KNBN) RAPID CITY (D) \u1d3f\u1d2c\u1d42,US: NBC 21 (KNBN) RAPID CITY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820017,US: NBC 21 (KNBN) RAPID CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 21 (KNBN) RAPID CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820549,US: NBC 21 (KNPG) ST. JOSEPH (D) \u1d3f\u1d2c\u1d42,US: NBC 21 (KNPG) ST. JOSEPH (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820020,US: NBC 21 (KNPG) ST. JOSEPH (H) \u1d3f\u1d2c\u1d42,US: NBC 21 (KNPG) ST. JOSEPH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820533,US: NBC 21 (KTVZ) BEND (D) \u1d3f\u1d2c\u1d42,US: NBC 21 (KTVZ) BEND (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820148,US: NBC 21 (KTVZ) BEND (H) \u1d3f\u1d2c\u1d42,US: NBC 21 (KTVZ) BEND (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820067,US: NBC 21 (WFMJ) YOUNGSTOWN (H) \u1d3f\u1d2c\u1d42,US: NBC 21 (WFMJ) YOUNGSTOWN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820000,US: NBC 21 (WPTA) FORT WAYNE (H) \u1d3f\u1d2c\u1d42,US: NBC 21 (WPTA) FORT WAYNE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820045,US: NBC 22 (KSIX) HONOLULU (H) \u1d3f\u1d2c\u1d42,US: NBC 22 (KSIX) HONOLULU (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820070,US: NBC 22 (WWLP) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,US: NBC 22 (WWLP) SPRINGFIELD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820213,US: NBC 23 (KAGS) BRYAN (A) \u1d3f\u1d2c\u1d42,US: NBC 23 (KAGS) BRYAN (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820192,US: NBC 23 (KAGS) BRYAN (H) \u1d3f\u1d2c\u1d42,US: NBC 23 (KAGS) BRYAN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820141,US: NBC 23 (KNDO) YAKIMA (H) \u1d3f\u1d2c\u1d42,US: NBC 23 (KNDO) YAKIMA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820517,US: NBC 23 (KNDO) YAKIMA\/PASCO\/RICHLAND\/KENNEWICK (D) \u1d3f\u1d2c\u1d42,US: NBC 23 (KNDO) YAKIMA\/PASCO\/RICHLAND\/KENNEWICK (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820526,US: NBC 23 (KVEO) HARLINGEN\/WESLACO\/BROWNSVILLE\/MCALLEN (D) \u1d3f\u1d2c\u1d42,US: NBC 23 (KVEO) HARLINGEN\/WESLACO\/BROWNSVILLE\/MCALLEN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820175,US: NBC 24 (KNVNDT) CHICO (H) \u1d3f\u1d2c\u1d42,US: NBC 24 (KNVNDT) CHICO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820483,US: NBC 24 (KNVNDT) CHICO\/REDDING (D) \u1d3f\u1d2c\u1d42,US: NBC 24 (KNVNDT) CHICO\/REDDING (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820505,US: NBC 24 (KSEE) FRESNO\/VISALIA (D) \u1d3f\u1d2c\u1d42,US: NBC 24 (KSEE) FRESNO\/VISALIA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820001,US: NBC 24 (KSEE) FRESNO\/VISALIA (H) \u1d3f\u1d2c\u1d42,US: NBC 24 (KSEE) FRESNO\/VISALIA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820254,US: NBC 24 (WNWO) TOLEDO (A) \u1d3f\u1d2c\u1d42,US: NBC 24 (WNWO) TOLEDO (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820171,US: NBC 24 (WNWO) TOLEDO (H) \u1d3f\u1d2c\u1d42,US: NBC 24 (WNWO) TOLEDO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820497,US: NBC 25 (WEEK) PEORIA (D) \u1d3f\u1d2c\u1d42,US: NBC 25 (WEEK) PEORIA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820073,US: NBC 25 (WEEK) PEORIA (H) \u1d3f\u1d2c\u1d42,US: NBC 25 (WEEK) PEORIA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820561,US: NBC 25 (WEYI) FLINT\/SAGINAW\/BAY CITY (D) \u1d3f\u1d2c\u1d42,US: NBC 25 (WEYI) FLINT\/SAGINAW\/BAY CITY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819969,US: NBC 25 (WXXV) GULFPORT\/BILOXI (A) \u1d3f\u1d2c\u1d42,US: NBC 25 (WXXV) GULFPORT\/BILOXI (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819989,US: NBC 25 (WXXV) GULFPORT\/BILOXI (H) \u1d3f\u1d2c\u1d42,US: NBC 25 (WXXV) GULFPORT\/BILOXI (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820135,US: NBC 26 (WGBA) FOND DU LAC (H) \u1d3f\u1d2c\u1d42,US: NBC 26 (WGBA) FOND DU LAC (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819976,US: NBC 26 (WGBA) GREEN BAY (A) \u1d3f\u1d2c\u1d42,US: NBC 26 (WGBA) GREEN BAY (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820512,US: NBC 26 (WGBA) GREEN BAY (D) \u1d3f\u1d2c\u1d42,US: NBC 26 (WGBA) GREEN BAY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820172,US: NBC 27 (KSNT) TOPEKA (H) \u1d3f\u1d2c\u1d42,US: NBC 27 (KSNT) TOPEKA (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820068,US: NBC 28 (WBRE) WILKES-BARRE (H) \u1d3f\u1d2c\u1d42,US: NBC 28 (WBRE) WILKES-BARRE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820519,US: NBC 29 (WVIR) CHARLOTTESVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 29 (WVIR) CHARLOTTESVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820012,US: NBC 29 (WVIR) CHARLOTTESVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 29 (WVIR) CHARLOTTESVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820554,US: NBC 30 (WGBC) MERIDIAN (D) \u1d3f\u1d2c\u1d42,US: NBC 30 (WGBC) MERIDIAN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820033,US: NBC 30 (WGBC-DT2) MERIDIAN (H) \u1d3f\u1d2c\u1d42,US: NBC 30 (WGBC-DT2) MERIDIAN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819992,US: NBC 30 (WVIT) HARTFORD (H) \u1d3f\u1d2c\u1d42,US: NBC 30 (WVIT) HARTFORD (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820202,US: NBC 30 (WVIT) NEW BRITAIN (S) \u1d3f\u1d2c\u1d42,US: NBC 30 (WVIT) NEW BRITAIN (S) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820488,US: NBC 31 (WRDE) SALISBURY (D) \u1d3f\u1d2c\u1d42,US: NBC 31 (WRDE) SALISBURY (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820183,US: NBC 31 (WRDE) SALISBURY (H) \u1d3f\u1d2c\u1d42,US: NBC 31 (WRDE) SALISBURY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820096,US: NBC 32 (WMBF) MYRTLE BEACH (H) \u1d3f\u1d2c\u1d42,US: NBC 32 (WMBF) MYRTLE BEACH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820147,US: NBC 32 (WVLA) BATON ROUGE (H) \u1d3f\u1d2c\u1d42,US: NBC 32 (WVLA) BATON ROUGE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820556,US: NBC 33 (WNBD) GREENWOOD (D) \u1d3f\u1d2c\u1d42,US: NBC 33 (WNBD) GREENWOOD (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820238,US: NBC 33 (WVLA) BATON ROUGE (A) \u1d3f\u1d2c\u1d42,US: NBC 33 (WVLA) BATON ROUGE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820564,US: NBC 33 (WVLA) BATON ROUGE (D) \u1d3f\u1d2c\u1d42,US: NBC 33 (WVLA) BATON ROUGE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820083,US: NBC 36 (KXAN) AUSTIN (H) \u1d3f\u1d2c\u1d42,US: NBC 36 (KXAN) AUSTIN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820251,US: NBC 36 (WCNC) CHARLOTTE (A) \u1d3f\u1d2c\u1d42,US: NBC 36 (WCNC) CHARLOTTE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820237,US: NBC 36 (WCNC) CHARLOTTE (D) \u1d3f\u1d2c\u1d42,US: NBC 36 (WCNC) CHARLOTTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820101,US: NBC 36 (WCNC) CHARLOTTE (H) \u1d3f\u1d2c\u1d42,US: NBC 36 (WCNC) CHARLOTTE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820082,US: NBC 38 (WLTZ) COLUMBUS (H) \u1d3f\u1d2c\u1d42,US: NBC 38 (WLTZ) COLUMBUS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820008,US: NBC 39 (KNSD) SAN DIEGO (H) \u1d3f\u1d2c\u1d42,US: NBC 39 (KNSD) SAN DIEGO (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820177,US: NBC 39 (WNBJ) JACKSON (H) \u1d3f\u1d2c\u1d42,US: NBC 39 (WNBJ) JACKSON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820566,US: NBC 40 (WNKY) BOWLING GREEN (D) \u1d3f\u1d2c\u1d42,US: NBC 40 (WNKY) BOWLING GREEN (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820035,US: NBC 40 (WNKY) BOWLING GREEN (H) \u1d3f\u1d2c\u1d42,US: NBC 40 (WNKY) BOWLING GREEN (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820024,US: NBC 40 (WTWC-DT) TALLAHASSEE (H) \u1d3f\u1d2c\u1d42,US: NBC 40 (WTWC-DT) TALLAHASSEE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820266,US: NBC 41 (KSHB) KANSAS CITY (A) \u1d3f\u1d2c\u1d42,US: NBC 41 (KSHB) KANSAS CITY (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820115,US: NBC 41 (KSHB) KANSAS CITY (H) \u1d3f\u1d2c\u1d42,US: NBC 41 (KSHB) KANSAS CITY (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820493,US: NBC 41 (WMGT) MACON (D) \u1d3f\u1d2c\u1d42,US: NBC 41 (WMGT) MACON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820163,US: NBC 41 (WMGT) MACON (H) \u1d3f\u1d2c\u1d42,US: NBC 41 (WMGT) MACON (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820110,US: NBC 46 (KDLT) SIOUX FALLS (H) \u1d3f\u1d2c\u1d42,US: NBC 46 (KDLT) SIOUX FALLS (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820160,US: NBC 46 (KLAF) LAFAYETTE (H) \u1d3f\u1d2c\u1d42,US: NBC 46 (KLAF) LAFAYETTE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820476,US: NBC 48 (WAFF) HUNTSVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 48 (WAFF) HUNTSVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820106,US: NBC 48 (WAFF) HUNTSVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 48 (WAFF) HUNTSVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820233,US: NBC 51 (KNWA) FORT SMITH (A) \u1d3f\u1d2c\u1d42,US: NBC 51 (KNWA) FORT SMITH (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820481,US: NBC 51 (KNWA) FORT SMITH (D) \u1d3f\u1d2c\u1d42,US: NBC 51 (KNWA) FORT SMITH (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820188,US: NBC 51 (KNWA) FORT SMITH (H) \u1d3f\u1d2c\u1d42,US: NBC 51 (KNWA) FORT SMITH (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820521,US: NBC 56 (KETK) JACKSONVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC 56 (KETK) JACKSONVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1819997,US: NBC 56 (KETK) JACKSONVILLE (H) \u1d3f\u1d2c\u1d42,US: NBC 56 (KETK) JACKSONVILLE (H) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820295,"US: BURLINGTON, VT WPTZ NBC 5 (A) \u1d3f\u1d2c\u1d42","US: BURLINGTON, VT WPTZ NBC 5 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820296,"US: CHARLESTON, WV WSAZ NBC 3 (A) \u1d3f\u1d2c\u1d42","US: CHARLESTON, WV WSAZ NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820298,"US: FORT MYERS, FL WBBH NBC 20 (A) \u1d3f\u1d2c\u1d42","US: FORT MYERS, FL WBBH NBC 20 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820299,"US: GREENSBORO, NC WXII NBC 12 (A) \u1d3f\u1d2c\u1d42","US: GREENSBORO, NC WXII NBC 12 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820300,"US: KNOXVILLE, TN WBIR NBC 10 (A) \u1d3f\u1d2c\u1d42","US: KNOXVILLE, TN WBIR NBC 10 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820301,"US: LANSING, MI WILX NBC 10 (A) \u1d3f\u1d2c\u1d42","US: LANSING, MI WILX NBC 10 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820302,"US: LINCOLN, NE KSNB NBC 4 (A) \u1d3f\u1d2c\u1d42","US: LINCOLN, NE KSNB NBC 4 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820303,"US: LITTLE ROCK, AR KARK NBC 4 (A) \u1d3f\u1d2c\u1d42","US: LITTLE ROCK, AR KARK NBC 4 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820304,"US: LOUISVILLE, KY WAVE NBC 3 (A) \u1d3f\u1d2c\u1d42","US: LOUISVILLE, KY WAVE NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820305,"US: LUBBOCK, TX KCBD NBC 11 (A) \u1d3f\u1d2c\u1d42","US: LUBBOCK, TX KCBD NBC 11 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820306,"US: MACON, GA WMGT NBC 41 (A) \u1d3f\u1d2c\u1d42","US: MACON, GA WMGT NBC 41 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820307,"US: MADISON, WI WMTV NBC 15 (A) \u1d3f\u1d2c\u1d42","US: MADISON, WI WMTV NBC 15 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820308,"US: MEDFORD, OR KOBI NBC 5 (A) \u1d3f\u1d2c\u1d42","US: MEDFORD, OR KOBI NBC 5 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820310,"US: MISSOULA, MT KECI NBC 13 (A) \u1d3f\u1d2c\u1d42","US: MISSOULA, MT KECI NBC 13 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820312,"US: MONTEREY, CA KSBW NBC 8 (A) \u1d3f\u1d2c\u1d42","US: MONTEREY, CA KSBW NBC 8 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820313,"US: MONTGOMERY, AL WSFA NBC 12 (A) \u1d3f\u1d2c\u1d42","US: MONTGOMERY, AL WSFA NBC 12 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820314,"US: MYRTLE BEACH, SC WMBF NBC 32 (A) \u1d3f\u1d2c\u1d42","US: MYRTLE BEACH, SC WMBF NBC 32 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820377,"US: NBC (KARE) MINNEAPOLIS, MN (D) \u1d3f\u1d2c\u1d42","US: NBC (KARE) MINNEAPOLIS, MN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820402,"US: NBC (KATH) JUNEAU, AK (D) \u1d3f\u1d2c\u1d42","US: NBC (KATH) JUNEAU, AK (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820393,"US: NBC (KBJR) ST. DULUTH, MN (D) \u1d3f\u1d2c\u1d42","US: NBC (KBJR) ST. DULUTH, MN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820419,"US: NBC (KCEN) EDDY, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KCEN) EDDY, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820425,"US: NBC (KCRA) SACRAMENTO, CA (D) \u1d3f\u1d2c\u1d42","US: NBC (KCRA) SACRAMENTO, CA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820455,US: NBC (KDEN) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KDEN) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820395,"US: NBC (KDLT) SIOUX FALLS, SD (D) \u1d3f\u1d2c\u1d42","US: NBC (KDLT) SIOUX FALLS,",fixed,,,needs-mapping,,nbc.rtf
+600,1820446,"US: NBC (KFDX) JOHNSTOWN, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (KFDX) JOHNSTOWN, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820445,"US: NBC (KFDX) WICHITA FALLS, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KFDX) WICHITA FALLS, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820416,"US: NBC (KGWN) CHEYENNE, WY (D) \u1d3f\u1d2c\u1d42","US: NBC (KGWN) CHEYENNE, WY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820284,US: NBC (KHNL) HONOLULU (A) \u1d3f\u1d2c\u1d42,US: NBC (KHNL) HONOLULU (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820371,"US: NBC (KHNL) HONOLULU, HI (D) \u1d3f\u1d2c\u1d42","US: NBC (KHNL) HONOLULU, HI (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820412,"US: NBC (KHQ) SPOKANE, WA (D) \u1d3f\u1d2c\u1d42","US: NBC (KHQ) SPOKANE, WA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820375,"US: NBC (KING) SEATTLE, WA (D) \u1d3f\u1d2c\u1d42","US: NBC (KING) SEATTLE, WA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820415,"US: NBC (KJRH) TULSA, OK (D) \u1d3f\u1d2c\u1d42","US: NBC (KJRH) TULSA, OK (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820438,"US: NBC (KMIR) PALM DESERT, CALIFORNIA (D) \u1d3f\u1d2c\u1d42","US: NBC (KMIR) PALM DESERT, CALIFORNIA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820420,"US: NBC (KNBC) LOS ANGELES, CA (D) \u1d3f\u1d2c\u1d42","US: NBC (KNBC) LOS ANGELES, CA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820406,"US: NBC (KNSD) SAN DIEGO, CA (D) \u1d3f\u1d2c\u1d42","US: NBC (KNSD) SAN DIEGO, CA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820379,"US: NBC (KNTV) BAY AREA, CA (D) \u1d3f\u1d2c\u1d42","US: NBC (KNTV) BAY AREA, CA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820434,"US: NBC (KOAA) PUEBLO, CO (D) \u1d3f\u1d2c\u1d42","US: NBC (KOAA) PUEBLO, CO (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820370,"US: NBC (KOB) ALBUQUERQUE, NM (D) \u1d3f\u1d2c\u1d42","US: NBC (KOB) ALBUQUERQUE, NM (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820367,"US: NBC (KPNX) PHOENIX, AZ (D) \u1d3f\u1d2c\u1d42","US: NBC (KPNX) PHOENIX, AZ (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1819975,US: NBC (KPRC) HOUSTON (A) \u1d3f\u1d2c\u1d42,US: NBC (KPRC) HOUSTON (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820368,"US: NBC (KPRC) HOUSTON, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KPRC) HOUSTON, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820411,"US: NBC (KPVI) POCATELLO, ID (D) \u1d3f\u1d2c\u1d42","US: NBC (KPVI) POCATELLO, ID (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820413,"US: NBC (KSAN) ABILENE, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KSAN) ABILENE, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820397,"US: NBC (KSHB) KANSAS CITY, MO (D) \u1d3f\u1d2c\u1d42","US: NBC (KSHB) KANSAS CITY, MO (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820283,US: NBC (KSL) SALT LAKE CITY (A) \u1d3f\u1d2c\u1d42,US: NBC (KSL) SALT LAKE CITY (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820396,"US: NBC (KSL) SALT LAKE CITY, UT (D) \u1d3f\u1d2c\u1d42","US: NBC (KSL) SALT LAKE CITY, UT (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820449,"US: NBC (KSNB) WEST HASTINGS, NE (D) \u1d3f\u1d2c\u1d42","US: NBC (KSNB) WEST HASTINGS, NE (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820550,US: NBC (KSNF) JOPLIN-PITTSBURG (D) \u1d3f\u1d2c\u1d42,US: NBC (KSNF) JOPLIN-PITTSBURG (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820404,"US: NBC (KSNT) TOPEKA, KS (D) \u1d3f\u1d2c\u1d42","US: NBC (KSNT) TOPEKA, KS (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820400,"US: NBC (KSNV) LAS VEGAS, NV (D) \u1d3f\u1d2c\u1d42","US: NBC (KSNV) LAS VEGAS, NV (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820405,"US: NBC (KSNW) WICHITA, KS (D) \u1d3f\u1d2c\u1d42","US: NBC (KSNW) WICHITA, KS (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820454,US: NBC (KSTS) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KSTS) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820390,"US: NBC (KTAL) SHREVEPORT, LA (D) \u1d3f\u1d2c\u1d42","US: NBC (KTAL) SHREVEPORT, LA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820459,US: NBC (KTMD) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KTMD) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820360,"US: NBC (KTSM) EL PASO, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KTSM) EL PASO, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820285,US: NBC (KTUU) ANCHORAGE (A) \u1d3f\u1d2c\u1d42,US: NBC (KTUU) ANCHORAGE (A) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820403,"US: NBC (KTUU) ANCHORAGE, AK (D) \u1d3f\u1d2c\u1d42","US: NBC (KTUU) ANCHORAGE, AK (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820451,US: NBC (KUAN) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KUAN) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820376,"US: NBC (KUSA) DENVER, CO (D) \u1d3f\u1d2c\u1d42","US: NBC (KUSA) DENVER, CO (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820463,US: NBC (KVDA) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KVDA) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820458,US: NBC (KVEA) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (KVEA) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820394,"US: NBC (KVLY) FARGO, ND (D) \u1d3f\u1d2c\u1d42","US: NBC (KVLY) FARGO, ND (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820436,"US: NBC (KWWL) WATERLOO, IA (D) \u1d3f\u1d2c\u1d42","US: NBC (KWWL) WATERLOO, IA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820361,"US: NBC (KXAN) AUSTIN, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (KXAN) AUSTIN, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820353,US: NBC (KXAS) FORT WORTH (D) \u1d3f\u1d2c\u1d42,US: NBC (KXAS) FORT WORTH (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820382,"US: NBC (KYTV) SPRINGFIELD, MO (D) \u1d3f\u1d2c\u1d42","US: NBC (KYTV) SPRINGFIELD, MO (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820433,"US: NBC (WAGT) AUGUSTA, GA (D) \u1d3f\u1d2c\u1d42","US: NBC (WAGT) AUGUSTA, GA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820435,"US: NBC (WAVE) LOUISVILLE, KY (D) \u1d3f\u1d2c\u1d42","US: NBC (WAVE) LOUISVILLE, KY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820407,"US: NBC (WAVY) ST. PORTSMOUTH, VA (D) \u1d3f\u1d2c\u1d42","US: NBC (WAVY) ST. PORTSMOUTH, VA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820380,"US: NBC (WBAL) BALTIMORE, MD (D) \u1d3f\u1d2c\u1d42","US: NBC (WBAL) BALTIMORE, MD (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820417,"US: NBC (WBBH) FORT MYERS, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WBBH) FORT MYERS, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820399,"US: NBC (WBRE) ST. WILKES-BARRE, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (WBRE) ST. WILKES-BARRE, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820364,"US: NBC (WBTS) BOSTON, MA (D) \u1d3f\u1d2c\u1d42","US: NBC (WBTS) BOSTON, MA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820354,"US: NBC (WCAU) BALA CYNWYD, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (WCAU) BALA CYNWYD, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820355,"US: NBC (WCAU) LOS ANGELES, CA (D) \u1d3f\u1d2c\u1d42","US: NBC (WCAU) LOS ANGELES, CA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820424,"US: NBC (WCBD) MOUNT PLEASANT, SC (D) \u1d3f\u1d2c\u1d42","US: NBC (WCBD) MOUNT PLEASANT, SC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820409,"US: NBC (WCMH) COLUMBUS, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WCMH) COLUMBUS, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820352,US: NBC (WCNC) CHARLOTTE (D) \u1d3f\u1d2c\u1d42,US: NBC (WCNC) CHARLOTTE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820366,"US: NBC (WCSH) PORTLAND, ME (D) \u1d3f\u1d2c\u1d42","US: NBC (WCSH) PORTLAND, ME (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820414,"US: NBC (WCYB) BRISTOL, VA (D) \u1d3f\u1d2c\u1d42","US: NBC (WCYB) BRISTOL, VA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820374,"US: NBC (WDIV) DETROIT, MI (D) \u1d3f\u1d2c\u1d42","US: NBC (WDIV) DETROIT, MI (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820423,"US: NBC (WDSU) NEW ORLEANS, LA (D) \u1d3f\u1d2c\u1d42","US: NBC (WDSU) NEW ORLEANS, LA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820427,"US: NBC (WDTN) DAYTON, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WDTN) DAYTON, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820388,"US: NBC (WEAU) EAU CLAIRE, WI (D) \u1d3f\u1d2c\u1d42","US: NBC (WEAU) EAU CLAIRE, WI (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820398,"US: NBC (WESH) WINTER PARK, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WESH) WINTER PARK, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820358,"US: NBC (WFLA) TAMPA, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WFLA) TAMPA, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820386,"US: NBC (WFMJ) YOUNGSTOWN, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WFMJ) YOUNGSTOWN, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820401,"US: NBC (WGAL) LANCASTER, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (WGAL) LANCASTER, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820373,"US: NBC (WGRZ) BUFFALO, NY (D) \u1d3f\u1d2c\u1d42","US: NBC (WGRZ) BUFFALO, NY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820365,"US: NBC (WHEC) ROCHESTER, NY (D) \u1d3f\u1d2c\u1d42","US: NBC (WHEC) ROCHESTER, NY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820357,"US: NBC (WHO) DES MOINES, IA (D) \u1d3f\u1d2c\u1d42","US: NBC (WHO) DES MOINES, IA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820426,"US: NBC (WICU) ST. ERIE, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (WICU) ST. ERIE, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820389,"US: NBC (WIS) COLUMBIA, SC (D) \u1d3f\u1d2c\u1d42","US: NBC (WIS) COLUMBIA, SC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820538,US: NBC (WITN) WASHINGTON (D) \u1d3f\u1d2c\u1d42,US: NBC (WITN) WASHINGTON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820428,"US: NBC (WITN) WASHINGTON, NC (D) \u1d3f\u1d2c\u1d42","US: NBC (WITN) WASHINGTON, NC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820418,"US: NBC (WKYC) CLEVELAND, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WKYC) CLEVELAND, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820441,"US: NBC (WLBZ) BANGOR, ME (D) \u1d3f\u1d2c\u1d42","US: NBC (WLBZ) BANGOR, ME (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820383,"US: NBC (WLTZ) COLUMBUS, GA (D) \u1d3f\u1d2c\u1d42","US: NBC (WLTZ) COLUMBUS, GA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820363,"US: NBC (WLWT) CINCINNATI, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WLWT) CINCINNATI, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820351,US: NBC (WMAQ) CHICAGO (D) \u1d3f\u1d2c\u1d42,US: NBC (WMAQ) CHICAGO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820448,"US: NBC (WMBF) MYRTLE BEACH, SC (D) \u1d3f\u1d2c\u1d42","US: NBC (WMBF) MYRTLE BEACH, SC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820349,US: NBC (WNBC) NEW YORK (D) \u1d3f\u1d2c\u1d42,US: NBC (WNBC) NEW YORK (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820384,"US: NBC (WNBJ) JACKSON, TN (D) \u1d3f\u1d2c\u1d42","US: NBC (WNBJ) JACKSON, TN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820457,US: NBC (WNEU) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WNEU) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820460,US: NBC (WNJU) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WNJU) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820450,"US: NBC (WNWO) TOLEDO, OH (D) \u1d3f\u1d2c\u1d42","US: NBC (WNWO) TOLEDO, OH (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820430,"US: NBC (WNYT) ALBANY, NY (D) \u1d3f\u1d2c\u1d42","US: NBC (WNYT) ALBANY, NY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820359,"US: NBC (WOAI) SAN ANTONIO, TX (D) \u1d3f\u1d2c\u1d42","US: NBC (WOAI) SAN ANTONIO, TX (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820392,"US: NBC (WOOD) GRAND RAPIDS, MI (D) \u1d3f\u1d2c\u1d42","US: NBC (WOOD) GRAND RAPIDS, MI (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820372,"US: NBC (WPTV) WEST PALM BEACH, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WPTV) WEST PALM BEACH, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820387,"US: NBC (WPXI) PITTSBURGH, PA (D) \u1d3f\u1d2c\u1d42","US: NBC (WPXI) PITTSBURGH, PA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820356,US: NBC (WRC) WASHINGTON DC (D) \u1d3f\u1d2c\u1d42,US: NBC (WRC) WASHINGTON DC (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820422,"US: NBC (WRCB) CHATTANOOGA, TN (D) \u1d3f\u1d2c\u1d42","US: NBC (WRCB) CHATTANOOGA, TN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820464,US: NBC (WRDM) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WRDM) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820439,"US: NBC (WSAV) SAVANNAH, GA (D) \u1d3f\u1d2c\u1d42","US: NBC (WSAV) SAVANNAH, GA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820391,"US: NBC (WSFA) MONTGOMERY, AL (D) \u1d3f\u1d2c\u1d42","US: NBC (WSFA) MONTGOMERY, AL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820408,"US: NBC (WSLS) ROANOKE, VA (D) \u1d3f\u1d2c\u1d42","US: NBC (WSLS) ROANOKE, VA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820431,"US: NBC (WSMV) NASHVILLE, TN (D) \u1d3f\u1d2c\u1d42","US: NBC (WSMV) NASHVILLE, TN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820453,US: NBC (WSNS) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WSNS) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820442,"US: NBC (WSTM) SYRACUSE, NY (D) \u1d3f\u1d2c\u1d42","US: NBC (WSTM) SYRACUSE, NY (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820429,"US: NBC (WTHR) INDIANAPOLIS, IN (D) \u1d3f\u1d2c\u1d42","US: NBC (WTHR) INDIANAPOLIS, IN (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820432,US: NBC (WTLV) JACKSONVILLE (D) \u1d3f\u1d2c\u1d42,US: NBC (WTLV) JACKSONVILLE (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820378,"US: NBC (WTMJ) MILWAUKEE, WI (D) \u1d3f\u1d2c\u1d42","US: NBC (WTMJ) MILWAUKEE, WI (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820462,US: NBC (WTMO) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WTMO) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820381,"US: NBC (WTVJ) MIAMI, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WTVJ) MIAMI, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820437,"US: NBC (WTWC) TALLAHASSEE, FL (D) \u1d3f\u1d2c\u1d42","US: NBC (WTWC) TALLAHASSEE, FL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820362,"US: NBC (WVIT) WEST HARTFORD, CT (D) \u1d3f\u1d2c\u1d42","US: NBC (WVIT) WEST HARTFORD, CT (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820421,"US: NBC (WVTM) BIRMINGHAM, AL (D) \u1d3f\u1d2c\u1d42","US: NBC (WVTM) BIRMINGHAM, AL (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820461,US: NBC (WWDT) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WWDT) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820440,"US: NBC (WWLP) SPRINGFIELD, MA (D) \u1d3f\u1d2c\u1d42","US: NBC (WWLP) SPRINGFIELD, MA (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820456,US: NBC (WWSI) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WWSI) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820350,US: NBC (WXIA) ATLANTA (D) \u1d3f\u1d2c\u1d42,US: NBC (WXIA) ATLANTA (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820447,"US: NBC (WXII) WINSTON-SALEM, NC (D) \u1d3f\u1d2c\u1d42","US: NBC (WXII) WINSTON-SALEM, NC (D) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820369,US: NBC (WYFF) GREENVILLE\/SPARTANBURG\/ASHEVILLE\/ANDERSON (D) \u1d3f\u1d2c\u1d42,US: NBC (WYFF) GREENVILLE\/SPARTANBURG\/ASHEVILLE\/ANDERSON (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820452,US: NBC (WZDC) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,US: NBC (WZDC) TELEMUNDO (D) \u1d3f\u1d2c\u1d42,fixed,,,needs-mapping,,nbc.rtf
+600,1820325,"US: NEW ORLEANS, LA WDSU NBC 6 (A) \u1d3f\u1d2c\u1d42","US: NEW ORLEANS, LA WDSU NBC 6 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820326,"US: PADUCAH, KY WPSD NBC 6 (A) \u1d3f\u1d2c\u1d42","US: PADUCAH, KY WPSD NBC 6 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820327,"US: PHILADELPHIA, PA WCAU NBC 10 (A) \u1d3f\u1d2c\u1d42","US: PHILADELPHIA, PA WCAU NBC 10 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820328,"US: PITTSBURGH, PA WPXI NBC 11 (A) \u1d3f\u1d2c\u1d42","US: PITTSBURGH, PA WPXI NBC 11 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820329,"US: PORTLAND, OR KGW NBC 8 (A) \u1d3f\u1d2c\u1d42","US: PORTLAND, OR KGW NBC 8 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820330,"US: ROCHESTER, NY WHEC NBC 10 (A) \u1d3f\u1d2c\u1d42","US: ROCHESTER, NY WHEC NBC 10 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820331,"US: SAN ANTONIO, TX WOAI NBC 4 (A) \u1d3f\u1d2c\u1d42","US: SAN ANTONIO, TX WOAI NBC 4 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820332,"US: SAVANNAH, GA WSAV NBC 3 (A) \u1d3f\u1d2c\u1d42","US: SAVANNAH, GA WSAV NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820333,"US: SEATTLE, WA KING NBC 5 (A) \u1d3f\u1d2c\u1d42","US: SEATTLE, WA KING NBC 5 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820335,"US: SIOUX FALLS, SD KDLT NBC 46 (A) \u1d3f\u1d2c\u1d42","US: SIOUX FALLS,",fixed,,,needs-mapping,,nbc.rtf
+600,1820336,"US: SPOKANE, WA KHQ NBC 6 (A) \u1d3f\u1d2c\u1d42","US: SPOKANE, WA KHQ NBC 6 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820337,"US: SPRINGFIELD, MA WWLP NBC 22 (A) \u1d3f\u1d2c\u1d42","US: SPRINGFIELD, MA WWLP NBC 22 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820338,"US: SPRINGFIELD, MO KYTV NBC 3 (A) \u1d3f\u1d2c\u1d42","US: SPRINGFIELD, MO KYTV NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820339,"US: SYRACUSE, NY WSTM NBC 3 (A) \u1d3f\u1d2c\u1d42","US: SYRACUSE, NY WSTM NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820340,"US: TAMPA, FL WFLA NBC 8 (A) \u1d3f\u1d2c\u1d42","US: TAMPA, FL WFLA NBC 8 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820342,"US: TRAVERSE CITY, MI WPBN NBC 7 (A) \u1d3f\u1d2c\u1d42","US: TRAVERSE CITY, MI WPBN NBC 7 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820343,"US: TYLER, TX KETK NBC 56 (A) \u1d3f\u1d2c\u1d42","US: TYLER, TX KETK NBC 56 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820344,"US: WACO, TX KCEN NBC 6 (A) \u1d3f\u1d2c\u1d42","US: WACO, TX KCEN NBC 6 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820345,"US: WAUSAU, WI WJFW NBC 12 (A) \u1d3f\u1d2c\u1d42","US: WAUSAU, WI WJFW NBC 12 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820346,"US: WICHITA, KS KSNW NBC 3 (A) \u1d3f\u1d2c\u1d42","US: WICHITA, KS KSNW NBC 3 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820347,"US: WILKES BARRE, PA WBRE NBC 28 (A) \u1d3f\u1d2c\u1d42","US: WILKES BARRE, PA WBRE NBC 28 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+600,1820348,"US: YOUNGSTOWN, OH WFMJ NBC 21 (A) \u1d3f\u1d2c\u1d42","US: YOUNGSTOWN, OH WFMJ NBC 21 (A) \u1d3f\u1d2c\u1d42",fixed,,,needs-mapping,,nbc.rtf
+602,430330,##### ABC \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2 #####,ABC \u1d34\u1d30\/\u1d3f\u1d2c\u1d42 \u2076\u2070\u1da0\u1d56\u02e2,fixed,,,needs-mapping,,ABC.rtf
+602,430329,US: ABC (EAST),US: ABC (EAST),fixed,,I229.14902.schedulesdirect.org,mapped-EPGTalk,EPGTalk US,ABC.rtf
+602,430328,US: ABC NEWS,US: ABC NEWS,fixed,ABCNewsLive.us,ABCNewsLive.us,mapped,,ABC.rtf
+602,430297,US: ABC NEWS HD,US: ABC NEWS,fixed,,,needs-mapping,,ABC.rtf
+602,430295,US: ABC NEWS LIVE HD,US: ABC NEWS LIVE,fixed,,,needs-mapping,,ABC.rtf
+602,430266,US: ABC HD [NEW YORK],US: ABC,fixed,,,needs-mapping,,ABC.rtf
+602,430296,US: ABC NEWS INTERNATIONAL,US: ABC NEWS INTERNATIONAL,fixed,,,needs-mapping,,ABC.rtf
+602,1578947,US: ABC (WDAY) FARGO HD,US: ABC (WDAY) FARGO,fixed,,,needs-mapping,,ABC.rtf
+602,430298,US: ABC NEWS 2 HD,US: ABC NEWS 2,fixed,,,needs-mapping,,ABC.rtf
+602,430264,US: ABC 2 HD [ATLANTA],US: ABC 2,fixed,,,needs-mapping,,ABC.rtf
+602,430265,US: ABC 2 HD [BATON ROUGE],US: ABC 2,fixed,,,needs-mapping,,ABC.rtf
+602,430318,US: ABC 2 (WKRN) NASHVILLE HD,US: ABC 2 (WKRN) NASHVILLE,fixed,,,needs-mapping,,ABC.rtf
+602,430319,US: ABC 2 (KATU) PORTLAND (A) HD,US: ABC 2 (KATU) PORTLAND (A),fixed,,,needs-mapping,,ABC.rtf
+602,430263,US: ABC 2 HD [BALTIMORE],US: ABC 2,fixed,,,needs-mapping,,ABC.rtf
+602,430261,US: ABC 3 HD [SHREVEPORT],US: ABC 3,fixed,,,needs-mapping,,ABC.rtf
+602,430262,US: ABC 3 HD [PENSACOLA],US: ABC 3,fixed,,,needs-mapping,,ABC.rtf
+602,538469,US: ABC 3 CORPUS CHRISTI TX (KIII) HD,US: ABC 3 CORPUS CHRISTI TX (KIII),fixed,,,needs-mapping,,ABC.rtf
+602,1574921,US: ABC 3 (KOTA) RAPID CITY,US: ABC 3 (KOTA) RAPID CITY,fixed,,,needs-mapping,,ABC.rtf
+602,430324,US: ABC 3 WSIL,US: ABC 3 WSIL,fixed,,,needs-mapping,,ABC.rtf
+602,430259,US: ABC 4 HD [HONOLULU],US: ABC 4,fixed,,,needs-mapping,,ABC.rtf
+602,430260,US: ABC 4 HD [CHARLESTON],US: ABC 4,fixed,,,needs-mapping,,ABC.rtf
+602,430315,US: ABC 4 (KOMO) SEATTLE HD,US: ABC 4 (KOMO) SEATTLE,fixed,,,needs-mapping,,ABC.rtf
+602,430314,US: ABC 4 (KTVX) SALT LAKE CITY HD,US: ABC 4 (KTVX) SALT LAKE CITY,fixed,,,needs-mapping,,ABC.rtf
+602,430258,US: ABC 5 HD [OKLAHOMA CITY],US: ABC 5,fixed,,,needs-mapping,,ABC.rtf
+602,430257,US: ABC 5 HD [ST. PAUL],US: ABC 5,fixed,,,needs-mapping,,ABC.rtf
+602,430312,US: ABC 5 (WCVB) BOSTON HD,US: ABC 5 (WCVB) BOSTON,fixed,,,needs-mapping,,ABC.rtf
+602,2034304,US: ABC 5 WEST DES MOINES IA (WOI),US: ABC 5 WEST DES MOINES IA (WOI),fixed,,,needs-mapping,,ABC.rtf
+602,430311,US: ABC 5 (WEWS) CLEVELAND HD,US: ABC 5 (WEWS) CLEVELAND,fixed,,,needs-mapping,,ABC.rtf
+602,430256,US: ABC 6 HD [AUGUSTA],US: ABC 6,fixed,,,needs-mapping,,ABC.rtf
+602,430310,US: ABC 6 (WPVI) PHILADELPHIA HD,US: ABC 6 (WPVI) PHILADELPHIA,fixed,,,needs-mapping,,ABC.rtf
+602,720809,US: ABC 6 WESLACO TX (KRGV) HD,US: ABC 6 WESLACO TX (KRGV),fixed,,,needs-mapping,,ABC.rtf
+602,430309,US: ABC 6 (WRTV) INDIANAPOLIS HD,US: ABC 6 (WRTV) INDIANAPOLIS,fixed,,,needs-mapping,,ABC.rtf
+602,1312365,US: ABC 6 (WSYX) COLUMBUS HD,US: ABC 6 (WSYX) COLUMBUS,fixed,,,needs-mapping,,ABC.rtf
+602,430253,US: ABC 7 HD [EL PASO],US: ABC 7,fixed,,,needs-mapping,,ABC.rtf
+602,430254,US: ABC 7 HD [BUFFALO],US: ABC 7,fixed,,,needs-mapping,,ABC.rtf
+602,430308,US: ABC 7 (KABC) LOS ANGELES HD,US: ABC 7 (KABC) LOS ANGELES,fixed,,,needs-mapping,,ABC.rtf
+602,430252,US: ABC 7 HD [FORT MYERS],US: ABC 7,fixed,,,needs-mapping,,ABC.rtf
+602,537030,US: ABC 7 OMAHA NE (KETV) HD,US: ABC 7 OMAHA NE (KETV),fixed,KETV.us,KETV.us,mapped,,ABC.rtf
+602,430251,US: ABC 7 HD [SARASOTA],US: ABC 7,fixed,,,needs-mapping,,ABC.rtf
+602,430306,US: ABC 7 (KMGH) DENVER HD,US: ABC 7 (KMGH) DENVER,fixed,KMGH.us,KMGH.us,mapped,,ABC.rtf
+602,417447,US: ABC 7 LITTLE ROCK AR (KATV),US: ABC 7 LITTLE ROCK AR (KATV),fixed,KATV.us,KATV.us,mapped,,ABC.rtf
+602,430307,US: ABC 7 (KGO) SAN FRANCISCO HD,US: ABC 7 (KGO) SAN FRANCISCO,fixed,,,needs-mapping,,ABC.rtf
+602,430305,US: ABC 7 (WJLA) WASHINGTON HD,US: ABC 7 (WJLA) WASHINGTON,fixed,,,needs-mapping,,ABC.rtf
+602,430304,US: ABC 7 (WLS) CHICAGO HD,US: ABC 7 (WLS) CHICAGO,fixed,WLS.us,WLS.us,mapped,,ABC.rtf
+602,430303,US: ABC 7 (WXYZ) DETROIT HD,US: ABC 7 (WXYZ) DETROIT,fixed,,,needs-mapping,,ABC.rtf
+602,2006994,US: ABC 7 NEW YORK,US: ABC 7 NEW YORK,fixed,,,needs-mapping,,ABC.rtf
+602,430302,US: ABC 8 (WFAA) DALLAS HD,US: ABC 8 (WFAA) DALLAS,fixed,WFAA.us,WFAA.us,mapped,,ABC.rtf
+602,430250,US: ABC 8 RICHMOND VA (WRIC),US: ABC 8 RICHMOND VA (WRIC),fixed,,,needs-mapping,,ABC.rtf
+602,430301,US: ABC 8 (WTNH) NEW HAVEN HD,US: ABC 8 (WTNH) NEW HAVEN,fixed,,,needs-mapping,,ABC.rtf
+602,430248,US: ABC 9 HD [MANCHESTER],US: ABC 9,fixed,,,needs-mapping,,ABC.rtf
+602,430249,US: ABC 9 HD [TUCSON],US: ABC 9,fixed,,,needs-mapping,,ABC.rtf
+602,430247,US: ABC 9 HD [CHARLOTTE],US: ABC 9,fixed,,,needs-mapping,,ABC.rtf
+602,430300,US: ABC 9 (KMBC) KANSAS CITY HD,US: ABC 9 (KMBC) KANSAS CITY,fixed,,,needs-mapping,,ABC.rtf
+602,430299,US: ABC 9 (WFTV) ORLANDO HD,US: ABC 9 (WFTV) ORLANDO,fixed,,,needs-mapping,,ABC.rtf
+602,430246,US: ABC 9 HD [SYRACUSE],US: ABC 9,fixed,,,needs-mapping,,ABC.rtf
+602,700061,US: ABC 9 COLUMBUS GA (WTVM) HD,US: ABC 9 COLUMBUS GA (WTVM),fixed,,,needs-mapping,,ABC.rtf
+602,430326,US: ABC 10 (KXTV) SACRAMENTO HD,US: ABC 10 (KXTV) SACRAMENTO,fixed,,,needs-mapping,,ABC.rtf
+602,640345,US: ABC 9 CEDAR RAPIDS IA (KCRG) HD,US: ABC 9 CEDAR RAPIDS IA (KCRG),fixed,,,needs-mapping,,ABC.rtf
+602,430327,US: ABC 10 (KGTV) SAN DIEGO HD,US: ABC 10 (KGTV) SAN DIEGO,fixed,,,needs-mapping,,ABC.rtf
+602,430325,US: ABC 10 (WPLG) MIAMI HD,US: ABC 10 (WPLG) MIAMI,fixed,,,needs-mapping,,ABC.rtf
+602,430245,US:  ABC TAMPA (FL),US: ABC TAMPA (FL),fixed,,,needs-mapping,,ABC.rtf
+602,1782811,US: ABC 10 MiIAMI (WPLG),US: ABC 10 MiIAMI (WPLG),fixed,,,needs-mapping,,ABC.rtf
+602,1604179,US: ABC 10 (KAKE) WICHITA HD,US: ABC 10 (KAKE) WICHITA,fixed,,,needs-mapping,,ABC.rtf
+602,411636,US: ABC 11 LOUISVILLE KY (WHAS) HD,US: ABC 11 LOUISVILLE KY (WHAS),fixed,WHAS.us,WHAS.us,mapped,,ABC.rtf
+602,430244,US: ABC 11 HD [RALEIGH],US: ABC 11,fixed,abc11wtvd.us,abc11wtvd.us,mapped,,ABC.rtf
+602,411637,US: ABC 11 MERIDIAN MS (WTOK) HD,US: ABC 11 MERIDIAN MS (WTOK),fixed,,,needs-mapping,,ABC.rtf
+602,411638,US: ABC 11 DURHAM NC (WTVD) HD,US: ABC 11 DURHAM NC (WTVD),fixed,,,needs-mapping,,ABC.rtf
+602,430323,US: ABC 12 (KSAT) SAN ANTONIO HD,US: ABC 12 (KSAT) SAN ANTONIO,fixed,,,needs-mapping,,ABC.rtf
+602,430313,US: US ABC 12 (WJRT) FLINT \/ SAGINAW\/BAY CITY HD,US: US ABC 12 (WJRT) FLINT \/ SAGINAW\/BAY CITY,fixed,,,needs-mapping,,ABC.rtf
+602,430322,US: ABC 12 (WISN) MILWAUKEE HD,US: ABC 12 (WISN) MILWAUKEE,fixed,,,needs-mapping,,ABC.rtf
+602,430321,US: ABC 13 (KTRK) HOUSTON HD,US: ABC 13 (KTRK) HOUSTON,fixed,KTRK.us,KTRK.us,mapped,,ABC.rtf
+602,430243,US: ABC 13 HD [HAMPTON ROADS],US: ABC 13,fixed,,,needs-mapping,,ABC.rtf
+602,505986,US: ABC 13 LYNCHBURG VA (WSET),US: ABC 13 LYNCHBURG VA (WSET),fixed,,,needs-mapping,,ABC.rtf
+602,1021170,US: ABC 13 TOLEDO OH (WTVG),US: ABC 13 TOLEDO OH (WTVG),fixed,,,needs-mapping,,ABC.rtf
+602,430241,US: ABC 13 HD [LAS VEGAS],US: ABC 13,fixed,,,needs-mapping,,ABC.rtf
+602,1455707,US: ABC 13 (WHAM) ROCHESTER,US: ABC 13 (WHAM) ROCHESTER,fixed,WHAM.us,WHAM.us,mapped,,ABC.rtf
+602,1224128,US: ABC 13 (WBKO) BOWLING GREEN,US: ABC 13 (WBKO) BOWLING GREEN,fixed,,,needs-mapping,,ABC.rtf
+602,504023,US: ABC 13 Asheville,US: ABC 13 Asheville,fixed,,,needs-mapping,,ABC.rtf
+602,430242,US: ABC 12 (KODE)  JOPLIN,US: ABC 12 (KODE) JOPLIN,fixed,,,needs-mapping,,ABC.rtf
+602,617490,US: ABC 13 ANCHORAGE AK (KYUR),US: ABC 13 ANCHORAGE AK (KYUR),fixed,,,needs-mapping,,ABC.rtf
+602,576880,US: ABC 13 GRAND RAPIDS MI (WZZM),US: ABC 13 GRAND RAPIDS MI (WZZM),fixed,,,needs-mapping,,ABC.rtf
+602,430320,US: ABC 15 (KNXV) PHOENIX HD,US: ABC 15 (KNXV) PHOENIX,fixed,KNXV.us,KNXV.us,mapped,,ABC.rtf
+602,1432787,US: ABC 15 (WPDE) FLORENCE,US: ABC 15 (WPDE) FLORENCE,fixed,,,needs-mapping,,ABC.rtf
+602,430255,US: ABC 16 (WAPT)  JACKSON HD,US: ABC 16 (WAPT) JACKSON,fixed,,,needs-mapping,,ABC.rtf
+602,430240,US: ABC 16 (WNEP),US: ABC 16 (WNEP),fixed,,,needs-mapping,,ABC.rtf
+602,742175,US: ABC 17 ROCKFORD IL (WTVO) HD,US: ABC 17 ROCKFORD IL (WTVO),fixed,WTVO.us,WTVO.us,mapped,,ABC.rtf
+602,697181,US: ABC 18 DOTHAN AL (WDHN) HD,US: ABC 18 DOTHAN AL (WDHN),fixed,,,needs-mapping,,ABC.rtf
+602,430239,US: ABC 20 HD [GAINESVILLE],US: ABC 20,fixed,,,needs-mapping,,ABC.rtf
+602,1440271,US:  ABC 22 (WKEF) DAYTON,US: ABC 22 (WKEF) DAYTON,fixed,,,needs-mapping,,ABC.rtf
+602,1162323,US: ABC 23 (KERO) BAKERSFIELD (H),US: ABC 23 (KERO) BAKERSFIELD (H),fixed,,,needs-mapping,,ABC.rtf
+602,885786,US: ABC 24 (WATN) MEMPHIS HD,US: ABC 24 (WATN) MEMPHIS,fixed,,,needs-mapping,,ABC.rtf
+602,1397524,US: ABC 24 (WJET) ERIE,US: ABC 24 (WJET) ERIE,fixed,,,needs-mapping,,ABC.rtf
+602,430237,US: ABC 25 HD [DISCTRICT OF COLUMBIA],US: ABC 25,fixed,,,needs-mapping,,ABC.rtf
+602,759623,US: ABC 25 (WPBF) West Palm Beach HD,US: ABC 25 (WPBF) West Palm Beach,fixed,,,needs-mapping,,ABC.rtf
+602,1171091,US: ABC 25 JACKSONVILLE FL (WJXX),US: ABC 25 JACKSONVILLE FL (WJXX),fixed,,,needs-mapping,,ABC.rtf
+602,430236,US: ABC 26 HD [NEW ORLEANS],US: ABC 26,fixed,abc26wgno.us,abc26wgno.us,mapped,,ABC.rtf
+602,728963,US: ABC 22 WJCL Savannah,US: ABC 22 WJCL Savannah,fixed,,,needs-mapping,,ABC.rtf
+602,430229,US: ABC 22 BURLINGTON HD,US: ABC 22 BURLINGTON,fixed,WVNY.us,WVNY.us,mapped,,ABC.rtf
+602,430234,US: ABC 27 HD [MADISON],US: ABC 27,fixed,,,needs-mapping,,ABC.rtf
+602,430235,US: ABC 27 HD [HARRISBURG],US: ABC 27,fixed,,,needs-mapping,,ABC.rtf
+602,1569089,US: ABC 27 WTXL TALLAHASSEE HD,US: ABC 27 WTXL TALLAHASSEE,fixed,,,needs-mapping,,ABC.rtf
+602,430316,US: ABC 30 (KFSN) FRESNO HD,US: ABC 30 (KFSN) FRESNO,fixed,,,needs-mapping,,ABC.rtf
+602,430317,US: ABC 30 (KDNL) ST. LOUIS HD,US: ABC 30 (KDNL) ST. LOUIS,fixed,,,needs-mapping,,ABC.rtf
+602,1588482,US: ABC 31 HUNTSVILLE AL (WAAY),US: ABC 31 HUNTSVILLE AL (WAAY),fixed,,,needs-mapping,,ABC.rtf
+602,430231,US: ABC 36 HD [LEXINGTON],US: ABC 36,fixed,,,needs-mapping,,ABC.rtf
+602,430232,US: ABC 33\/40 HD [BIRMINGHAM],US: ABC 33\/40,fixed,,,needs-mapping,,ABC.rtf
+602,430230,US: ABC 45 HD [WINSTON-SALEM],US: ABC 45,fixed,,,needs-mapping,,ABC.rtf
+602,1396741,US: ABC 57 (WBND) South Bend,US: ABC 57 (WBND) South Bend,fixed,WBND.us,WBND.us,mapped,,ABC.rtf
+602,430294,US: ABC (KABC),US: ABC (KABC),fixed,,,needs-mapping,,ABC.rtf
+602,430293,US: ABC (KDNL),US: ABC (KDNL),fixed,,,needs-mapping,,ABC.rtf
+602,430291,US: ABC (KMGH),US: ABC (KMGH),fixed,,,needs-mapping,,ABC.rtf
+602,430290,US: ABC (KNXV),US: ABC (KNXV),fixed,,,needs-mapping,,ABC.rtf
+602,430288,US: ABC (KOCO),US: ABC (KOCO),fixed,,,needs-mapping,,ABC.rtf
+602,430287,US: ABC (KOMO),US: ABC (KOMO),fixed,,,needs-mapping,,ABC.rtf
+602,430285,US: ABC (KTNV),US: ABC (KTNV),fixed,,,needs-mapping,,ABC.rtf
+602,430283,US: ABC (WABC),US: ABC (WABC),fixed,abcwjla.us,abcwjla.us,mapped,,ABC.rtf
+602,430282,US: ABC (WCPO),US: ABC (WCPO),fixed,,,needs-mapping,,ABC.rtf
+602,430281,US: ABC (WCVB),US: ABC (WCVB),fixed,,,needs-mapping,,ABC.rtf
+602,430280,US: ABC (WFAA),US: ABC (WFAA),fixed,,,needs-mapping,,ABC.rtf
+602,430279,US: ABC (WJLA),US: ABC (WJLA),fixed,,,needs-mapping,,ABC.rtf
+602,430278,US: ABC (WLS),US: ABC (WLS),fixed,,,needs-mapping,,ABC.rtf
+602,430277,US: ABC (WMAR),US: ABC (WMAR),fixed,,,needs-mapping,,ABC.rtf
+602,430274,US: ABC (WPLG),US: ABC (WPLG),fixed,,,needs-mapping,,ABC.rtf
+602,430273,US: ABC (WPVI),US: ABC (WPVI),fixed,,,needs-mapping,,ABC.rtf
+602,430272,US: ABC TAMPA NEWS (WFTS),US: ABC TAMPA NEWS (WFTS),fixed,,,needs-mapping,,ABC.rtf
+602,430270,US: ABC (WTAE),US: ABC (WTAE),fixed,,,needs-mapping,,ABC.rtf
+602,430268,US: ABC (WXYZ),US: ABC (WXYZ),fixed,,,needs-mapping,,ABC.rtf
+602,430292,US: ABC (KGO) SAN FRANCISCO CALIFORNIA,US: ABC (KGO) SAN FRANCISCO CALIFORNIA,fixed,,,needs-mapping,,ABC.rtf
+602,430276,US: ABC (WMTW) PORTLAND MAINE,US: ABC (WMTW) PORTLAND MAINE,fixed,,,needs-mapping,,ABC.rtf
+602,430289,US: ABC (KOAT) ALBUQUERQUE NEW MEXICO,US: ABC (KOAT) ALBUQUERQUE NEW MEXICO,fixed,,,needs-mapping,,ABC.rtf
+602,429717,US: ABC GOOD MORNING AMERICA,US: ABC GOOD MORNING AMERICA,fixed,WTVA.us,WTVA.us,mapped,,ABC.rtf
+602,1782810,US: ABC AL MONTGOMERY (WNCF) HD,US: ABC AL MONTGOMERY (WNCF),fixed,,,needs-mapping,,ABC.rtf
+602,430269,US: ABC (WTVD) DURHAM NORTH CAROLINA,US: ABC (WTVD) DURHAM NORTH CAROLINA,fixed,,,needs-mapping,,ABC.rtf
+602,430267,US: ABC (WZVN) FORT MYERS FLORIDA,US: ABC (WZVN) FORT MYERS FLORIDA,fixed,,,needs-mapping,,ABC.rtf
+602,1464986,US: ABC WATE - KNOXVILLE,US: ABC WATE - KNOXVILLE,fixed,,,needs-mapping,,ABC.rtf
